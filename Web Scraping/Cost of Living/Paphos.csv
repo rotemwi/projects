@@ -1,0 +1,53 @@
+,Item,Average_Price_in_Eur,Range,Category,Minimum,Maximum,city
+0,"Meal, Inexpensive Restaurant",12.0,9.00-15.00,Restaurants,9.0,15.0,Paphos
+1,"Meal for 2 People, Mid-range Restaurant, Three-course",45.0,35.00-89.56,Restaurants,35.0,89.56,Paphos
+2,McMeal at McDonalds (or Equivalent Combo Meal),7.0,6.00-8.00,Restaurants,6.0,8.0,Paphos
+3,Domestic Beer (0.5 liter draught),2.8,2.00-4.00,Restaurants,2.0,4.0,Paphos
+4,Imported Beer (0.33 liter bottle),3.0,2.50-3.50,Restaurants,2.5,3.5,Paphos
+5,Cappuccino (regular),3.19,2.50-4.00,Restaurants,2.5,4.0,Paphos
+6,Coke/Pepsi (0.33 liter bottle),1.88,1.00-2.50,Restaurants,1.0,2.5,Paphos
+7,Water (0.33 liter bottle),0.81,0.50-1.34,Restaurants,0.5,1.34,Paphos
+9,"Milk (regular), (1 liter)",1.54,1.33-1.80,Markets,1.33,1.8,Paphos
+10,Loaf of Fresh White Bread (500g),1.35,0.65-2.00,Markets,0.65,2.0,Paphos
+11,"Rice (white), (1kg)",1.85,1.25-2.15,Markets,1.25,2.15,Paphos
+12,Eggs (regular) (12),2.9,1.60-3.60,Markets,1.6,3.6,Paphos
+13,Local Cheese (1kg),8.9,4.50-16.60,Markets,4.5,16.6,Paphos
+14,Chicken Fillets (1kg),6.95,6.00-9.00,Markets,6.0,9.0,Paphos
+15,Beef Round (1kg) (or Equivalent Back Leg Red Meat),8.31,5.00-11.61,Markets,5.0,11.61,Paphos
+16,Apples (1kg),1.91,1.00-2.50,Markets,1.0,2.5,Paphos
+17,Banana (1kg),1.21,0.90-3.00,Markets,0.9,3.0,Paphos
+18,Oranges (1kg),1.29,0.40-3.00,Markets,0.4,3.0,Paphos
+19,Tomato (1kg),1.84,0.99-3.50,Markets,0.99,3.5,Paphos
+20,Potato (1kg),0.76,0.35-1.50,Markets,0.35,1.5,Paphos
+21,Onion (1kg),0.74,0.45-0.85,Markets,0.45,0.85,Paphos
+22,Lettuce (1 head),0.51,0.35-1.00,Markets,0.35,1.0,Paphos
+23,Water (1.5 liter bottle),0.69,0.45-1.00,Markets,0.45,1.0,Paphos
+24,Bottle of Wine (Mid-Range),6.0,4.00-12.00,Markets,4.0,12.0,Paphos
+25,Domestic Beer (0.5 liter bottle),1.08,0.83-1.50,Markets,0.83,1.5,Paphos
+26,Imported Beer (0.33 liter bottle),1.68,1.00-3.00,Markets,1.0,3.0,Paphos
+27,Cigarettes 20 Pack (Marlboro),4.95,4.50-5.81,Markets,4.5,5.81,Paphos
+29,One-way Ticket (Local Transport),1.5,1.50-1.50,Transportation,1.5,1.5,Paphos
+30,Monthly Pass (Regular Price),41.0,40.00-45.00,Transportation,40.0,45.0,Paphos
+31,Taxi Start (Normal Tariff),9.0,6.00-10.00,Transportation,6.0,10.0,Paphos
+32,Taxi 1km (Normal Tariff),1.5,1.00-2.00,Transportation,1.0,2.0,Paphos
+34,Gasoline (1 liter),1.5,1.32-1.82,Transportation,1.32,1.82,Paphos
+36,Toyota Corolla Sedan 1.6l 97kW Comfort (Or Equivalent New Car),25250.0,21000.00-29500.00,Transportation,21000.0,29500.0,Paphos
+38,"Basic (Electricity, Heating, Cooling, Water, Garbage) for 85m2 Apartment",121.56,90.00-175.00,Utilities (Monthly),90.0,175.0,Paphos
+39,1 min. of Prepaid Mobile Tariff Local (No Discounts or Plans),0.15,0.04-0.15,Utilities (Monthly),0.04,0.15,Paphos
+40,"Internet (60 Mbps or More, Unlimited Data, Cable/ADSL)",33.5,30.00-50.00,Utilities (Monthly),30.0,50.0,Paphos
+42,"Fitness Club, Monthly Fee for 1 Adult",50.0,45.00-60.00,Sports And Leisure,45.0,60.0,Paphos
+43,Tennis Court Rent (1 Hour on Weekend),14.0,3.00-25.00,Sports And Leisure,3.0,25.0,Paphos
+44,"Cinema, International Release, 1 Seat",9.0,7.00-10.00,Sports And Leisure,7.0,10.0,Paphos
+46,"Preschool (or Kindergarten), Full Day, Private, Monthly for 1 Child",302.5,220.00-415.00,Childcare,220.0,415.0,Paphos
+47,"International Primary School, Yearly for 1 Child",6100.0,5000.00-7300.00,Childcare,5000.0,7300.0,Paphos
+49,1 Pair of Jeans (Levis 501 Or Similar),92.5,50.00-110.00,Clothing And Shoes,50.0,110.0,Paphos
+50,"1 Summer Dress in a Chain Store (Zara, H&M, ...)",37.0,20.00-65.00,Clothing And Shoes,20.0,65.0,Paphos
+51,1 Pair of Nike Running Shoes (Mid-Range),77.5,40.00-95.00,Clothing And Shoes,40.0,95.0,Paphos
+52,1 Pair of Men Leather Business Shoes,83.75,40.00-120.00,Clothing And Shoes,40.0,120.0,Paphos
+54,Apartment (1 bedroom) in City Centre,744.12,450.00-1100.00,Rent Per Month,450.0,1100.0,Paphos
+55,Apartment (1 bedroom) Outside of Centre,550.0,350.00-800.00,Rent Per Month,350.0,800.0,Paphos
+56,Apartment (3 bedrooms) in City Centre,1333.33,900.00-2000.00,Rent Per Month,900.0,2000.0,Paphos
+57,Apartment (3 bedrooms) Outside of Centre,1145.83,850.00-1500.00,Rent Per Month,850.0,1500.0,Paphos
+59,Price per Square Meter to Buy Apartment in City Centre,1600.0,1200.00-2000.00,Buy Apartment Price,1200.0,2000.0,Paphos
+60,Price per Square Meter to Buy Apartment Outside of Centre,1162.5,850.00-1500.00,Buy Apartment Price,850.0,1500.0,Paphos
+63,"Mortgage Interest Rate in Percentages (%), Yearly, for 20 Years Fixed-Rate",2.51,1.75-2.51,Salaries And Financing,1.75,2.51,Paphos
