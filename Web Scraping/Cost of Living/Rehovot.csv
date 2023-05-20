@@ -1,0 +1,52 @@
+,Item,Average_Price_in_Eur,Range,Category,Minimum,Maximum
+0,"Meal, Inexpensive Restaurant",15.19,13.93-25.32,Restaurants,13.93,25.32
+1,"Meal for 2 People, Mid-range Restaurant, Three-course",75.96,63.30-126.60,Restaurants,63.3,126.6
+2,McMeal at McDonalds (or Equivalent Combo Meal),11.9,10.63-13.67,Restaurants,10.63,13.67
+3,Domestic Beer (0.5 liter draught),7.6,6.84-8.36,Restaurants,6.84,8.36
+4,Imported Beer (0.33 liter bottle),6.71,3.80-8.10,Restaurants,3.8,8.1
+5,Cappuccino (regular),3.33,2.53-3.80,Restaurants,2.53,3.8
+6,Coke/Pepsi (0.33 liter bottle),2.53,2.03-3.04,Restaurants,2.03,3.04
+7,Water (0.33 liter bottle),2.13,1.77-2.53,Restaurants,1.77,2.53
+9,"Milk (regular), (1 liter)",1.55,1.27-1.77,Markets,1.27,1.77
+10,Loaf of Fresh White Bread (500g),1.47,0.95-2.37,Markets,0.95,2.37
+11,"Rice (white), (1kg)",2.38,2.03-2.53,Markets,2.03,2.53
+12,Eggs (regular) (12),3.25,2.99-3.65,Markets,2.99,3.65
+13,Local Cheese (1kg),14.65,10.13-25.32,Markets,10.13,25.32
+14,Chicken Fillets (1kg),9.48,7.09-12.66,Markets,7.09,12.66
+15,Beef Round (1kg) (or Equivalent Back Leg Red Meat),19.79,12.66-25.32,Markets,12.66,25.32
+16,Apples (1kg),3.0,2.28-3.80,Markets,2.28,3.8
+17,Banana (1kg),2.25,1.52-3.29,Markets,1.52,3.29
+18,Oranges (1kg),1.96,1.01-3.04,Markets,1.01,3.04
+19,Tomato (1kg),1.93,1.27-2.79,Markets,1.27,2.79
+20,Potato (1kg),1.19,0.76-2.03,Markets,0.76,2.03
+21,Onion (1kg),1.14,0.76-1.49,Markets,0.76,1.49
+22,Lettuce (1 head),1.58,1.01-2.53,Markets,1.01,2.53
+23,Water (1.5 liter bottle),0.86,0.51-2.53,Markets,0.51,2.53
+24,Bottle of Wine (Mid-Range),11.39,7.60-20.26,Markets,7.6,20.26
+25,Domestic Beer (0.5 liter bottle),2.15,1.27-3.04,Markets,1.27,3.04
+26,Imported Beer (0.33 liter bottle),2.47,1.52-6.33,Markets,1.52,6.33
+27,Cigarettes 20 Pack (Marlboro),9.62,9.24-10.13,Markets,9.24,10.13
+29,One-way Ticket (Local Transport),1.47,1.39-1.52,Transportation,1.39,1.52
+30,Monthly Pass (Regular Price),55.7,40.51-70.90,Transportation,40.51,70.9
+31,Taxi Start (Normal Tariff),7.09,3.04-11.39,Transportation,3.04,11.39
+32,Taxi 1km (Normal Tariff),1.65,0.76-2.53,Transportation,0.76,2.53
+34,Gasoline (1 liter),1.75,1.60-1.97,Transportation,1.6,1.97
+35,Volkswagen Golf 1.4 90 KW Trendline (Or Equivalent New Car),35447.72,35447.72-35447.72,Transportation,35447.72,35447.72
+36,Toyota Corolla Sedan 1.6l 97kW Comfort (Or Equivalent New Car),37979.7,35447.72-37979.70,Transportation,35447.72,37979.7
+38,"Basic (Electricity, Heating, Cooling, Water, Garbage) for 85m2 Apartment",222.8,126.60-295.93,Utilities (Monthly),126.6,295.93
+40,"Internet (60 Mbps or More, Unlimited Data, Cable/ADSL)",24.19,20.26-30.38,Utilities (Monthly),20.26,30.38
+42,"Fitness Club, Monthly Fee for 1 Adult",58.24,25.07-101.28,Sports And Leisure,25.07,101.28
+43,Tennis Court Rent (1 Hour on Weekend),31.65,25.32-37.98,Sports And Leisure,25.32,37.98
+44,"Cinema, International Release, 1 Seat",10.13,8.86-10.13,Sports And Leisure,8.86,10.13
+46,"Preschool (or Kindergarten), Full Day, Private, Monthly for 1 Child",824.7,759.59-911.51,Childcare,759.59,911.51
+49,1 Pair of Jeans (Levis 501 Or Similar),98.33,48.11-113.94,Clothing And Shoes,48.11,113.94
+50,"1 Summer Dress in a Chain Store (Zara, H&M, ...)",45.15,30.38-50.64,Clothing And Shoes,30.38,50.64
+51,1 Pair of Nike Running Shoes (Mid-Range),104.9,88.62-126.60,Clothing And Shoes,88.62,126.6
+52,1 Pair of Men Leather Business Shoes,129.13,88.62-202.56,Clothing And Shoes,88.62,202.56
+54,Apartment (1 bedroom) in City Centre,854.54,759.59-911.51,Rent Per Month,759.59,911.51
+55,Apartment (1 bedroom) Outside of Centre,727.94,633.00-759.59,Rent Per Month,633.0,759.59
+56,Apartment (3 bedrooms) in City Centre,1326.76,1265.99-1645.79,Rent Per Month,1265.99,1645.79
+57,Apartment (3 bedrooms) Outside of Centre,1180.54,962.15-1392.59,Rent Per Month,962.15,1392.59
+59,Price per Square Meter to Buy Apartment in City Centre,5317.16,4557.56-6329.95,Buy Apartment Price,4557.56,6329.95
+60,Price per Square Meter to Buy Apartment Outside of Centre,5317.16,4557.56-6329.95,Buy Apartment Price,4557.56,6329.95
+63,"Mortgage Interest Rate in Percentages (%), Yearly, for 20 Years Fixed-Rate",4.1,2.46-5.00,Salaries And Financing,2.46,5.0
