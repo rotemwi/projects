@@ -29,17 +29,14 @@
 27,One-way Ticket (Local Transport),1.5,1.50-1.50,Transportation,1.5,1.5,Paphos
 28,Monthly Pass (Regular Price),41.0,40.00-45.00,Transportation,40.0,45.0,Paphos
 29,Taxi Start (Normal Tariff),9.0,6.00-10.00,Transportation,6.0,10.0,Paphos
-30,Taxi 1km (Normal Tariff),1.5,1.00-2.00,Transportation,1.0,2.0,Paphos
 31,Gasoline (1 liter),1.5,1.32-1.82,Transportation,1.32,1.82,Paphos
 32,Toyota Corolla Sedan 1.6l 97kW Comfort (Or Equivalent New Car),25250.0,21000.00-29500.00,Transportation,21000.0,29500.0,Paphos
 33,"Basic (Electricity, Heating, Cooling, Water, Garbage) for 85m2 Apartment",121.56,90.00-175.00,Utilities (Monthly),90.0,175.0,Paphos
-34,1 min. of Prepaid Mobile Tariff Local (No Discounts or Plans),0.15,0.04-0.15,Utilities (Monthly),0.04,0.15,Paphos
 35,"Internet (60 Mbps or More, Unlimited Data, Cable/ADSL)",33.5,30.00-50.00,Utilities (Monthly),30.0,50.0,Paphos
 36,"Fitness Club, Monthly Fee for 1 Adult",50.0,45.00-60.00,Sports And Leisure,45.0,60.0,Paphos
 37,Tennis Court Rent (1 Hour on Weekend),14.0,3.00-25.00,Sports And Leisure,3.0,25.0,Paphos
 38,"Cinema, International Release, 1 Seat",9.0,7.00-10.00,Sports And Leisure,7.0,10.0,Paphos
 39,"Preschool (or Kindergarten), Full Day, Private, Monthly for 1 Child",302.5,220.00-415.00,Childcare,220.0,415.0,Paphos
-40,"International Primary School, Yearly for 1 Child",6100.0,5000.00-7300.00,Childcare,5000.0,7300.0,Paphos
 41,1 Pair of Jeans (Levis 501 Or Similar),92.5,50.00-110.00,Clothing And Shoes,50.0,110.0,Paphos
 42,"1 Summer Dress in a Chain Store (Zara, H&M, ...)",37.0,20.00-65.00,Clothing And Shoes,20.0,65.0,Paphos
 43,1 Pair of Nike Running Shoes (Mid-Range),77.5,40.00-95.00,Clothing And Shoes,40.0,95.0,Paphos
@@ -81,26 +78,24 @@
 79,One-way Ticket (Local Transport),1.47,1.39-1.52,Transportation,1.39,1.52,Rehovot
 80,Monthly Pass (Regular Price),55.7,40.51-70.90,Transportation,40.51,70.9,Rehovot
 81,Taxi Start (Normal Tariff),7.09,3.04-11.39,Transportation,3.04,11.39,Rehovot
-82,Taxi 1km (Normal Tariff),1.65,0.76-2.53,Transportation,0.76,2.53,Rehovot
 83,Gasoline (1 liter),1.75,1.60-1.97,Transportation,1.6,1.97,Rehovot
-84,Volkswagen Golf 1.4 90 KW Trendline (Or Equivalent New Car),35447.72,35447.72-35447.72,Transportation,35447.72,35447.72,Rehovot
-85,Toyota Corolla Sedan 1.6l 97kW Comfort (Or Equivalent New Car),37979.7,35447.72-37979.70,Transportation,35447.72,37979.7,Rehovot
+85,Toyota Corolla Sedan 1.6l 97kW Comfort (Or Equivalent New Car),37980.33,35448.31-37980.33,Transportation,35448.31,37980.33,Rehovot
 86,"Basic (Electricity, Heating, Cooling, Water, Garbage) for 85m2 Apartment",222.8,126.60-295.93,Utilities (Monthly),126.6,295.93,Rehovot
 87,"Internet (60 Mbps or More, Unlimited Data, Cable/ADSL)",24.19,20.26-30.38,Utilities (Monthly),20.26,30.38,Rehovot
 88,"Fitness Club, Monthly Fee for 1 Adult",58.24,25.07-101.28,Sports And Leisure,25.07,101.28,Rehovot
 89,Tennis Court Rent (1 Hour on Weekend),31.65,25.32-37.98,Sports And Leisure,25.32,37.98,Rehovot
 90,"Cinema, International Release, 1 Seat",10.13,8.86-10.13,Sports And Leisure,8.86,10.13,Rehovot
-91,"Preschool (or Kindergarten), Full Day, Private, Monthly for 1 Child",824.7,759.59-911.51,Childcare,759.59,911.51,Rehovot
+91,"Preschool (or Kindergarten), Full Day, Private, Monthly for 1 Child",824.72,759.61-911.53,Childcare,759.61,911.53,Rehovot
 92,1 Pair of Jeans (Levis 501 Or Similar),98.33,48.11-113.94,Clothing And Shoes,48.11,113.94,Rehovot
 93,"1 Summer Dress in a Chain Store (Zara, H&M, ...)",45.15,30.38-50.64,Clothing And Shoes,30.38,50.64,Rehovot
 94,1 Pair of Nike Running Shoes (Mid-Range),104.9,88.62-126.60,Clothing And Shoes,88.62,126.6,Rehovot
 95,1 Pair of Men Leather Business Shoes,129.13,88.62-202.56,Clothing And Shoes,88.62,202.56,Rehovot
-96,Apartment (1 bedroom) in City Centre,854.54,759.59-911.51,Rent Per Month,759.59,911.51,Rehovot
-97,Apartment (1 bedroom) Outside of Centre,727.94,633.00-759.59,Rent Per Month,633.0,759.59,Rehovot
-98,Apartment (3 bedrooms) in City Centre,1326.76,1265.99-1645.79,Rent Per Month,1265.99,1645.79,Rehovot
-99,Apartment (3 bedrooms) Outside of Centre,1180.54,962.15-1392.59,Rent Per Month,962.15,1392.59,Rehovot
-100,Price per Square Meter to Buy Apartment in City Centre,5317.16,4557.56-6329.95,Buy Apartment Price,4557.56,6329.95,Rehovot
-101,Price per Square Meter to Buy Apartment Outside of Centre,5317.16,4557.56-6329.95,Buy Apartment Price,4557.56,6329.95,Rehovot
+96,Apartment (1 bedroom) in City Centre,854.56,759.61-911.53,Rent Per Month,759.61,911.53,Rehovot
+97,Apartment (1 bedroom) Outside of Centre,727.96,633.01-759.61,Rent Per Month,633.01,759.61,Rehovot
+98,Apartment (3 bedrooms) in City Centre,1326.78,1266.01-1645.81,Rent Per Month,1266.01,1645.81,Rehovot
+99,Apartment (3 bedrooms) Outside of Centre,1180.56,962.17-1392.61,Rent Per Month,962.17,1392.61,Rehovot
+100,Price per Square Meter to Buy Apartment in City Centre,5317.25,4557.64-6330.06,Buy Apartment Price,4557.64,6330.06,Rehovot
+101,Price per Square Meter to Buy Apartment Outside of Centre,5317.25,4557.64-6330.06,Buy Apartment Price,4557.64,6330.06,Rehovot
 102,"Mortgage Interest Rate in Percentages (%), Yearly, for 20 Years Fixed-Rate",4.1,2.46-5.00,Salaries And Financing,2.46,5.0,Rehovot
 103,"Meal, Inexpensive Restaurant",16.46,12.66-25.32,Restaurants,12.66,25.32,Rishon-Leziyyon
 104,"Meal for 2 People, Mid-range Restaurant, Three-course",63.3,63.30-151.92,Restaurants,63.3,151.92,Rishon-Leziyyon
@@ -110,18 +105,18 @@
 108,Cappuccino (regular),3.08,1.77-3.80,Restaurants,1.77,3.8,Rishon-Leziyyon
 109,Coke/Pepsi (0.33 liter bottle),2.24,1.52-3.54,Restaurants,1.52,3.54,Rishon-Leziyyon
 110,Water (0.33 liter bottle),1.72,1.27-3.04,Restaurants,1.27,3.04,Rishon-Leziyyon
-111,"Milk (regular), (1 liter)",1.46,1.27-1.58,Markets,1.27,1.58,Rishon-Leziyyon
+111,"Milk (regular), (1 liter)",1.56,1.27-2.28,Markets,1.27,2.28,Rishon-Leziyyon
 112,Loaf of Fresh White Bread (500g),2.22,1.27-3.29,Markets,1.27,3.29,Rishon-Leziyyon
 113,"Rice (white), (1kg)",2.53,2.03-2.53,Markets,2.03,2.53,Rishon-Leziyyon
 114,Eggs (regular) (12),3.18,2.63-3.65,Markets,2.63,3.65,Rishon-Leziyyon
 115,Local Cheese (1kg),14.03,10.63-20.26,Markets,10.63,20.26,Rishon-Leziyyon
 116,Chicken Fillets (1kg),8.65,6.33-10.13,Markets,6.33,10.13,Rishon-Leziyyon
 117,Beef Round (1kg) (or Equivalent Back Leg Red Meat),17.22,12.66-22.79,Markets,12.66,22.79,Rishon-Leziyyon
-118,Apples (1kg),2.52,2.03-3.01,Markets,2.03,3.01,Rishon-Leziyyon
+118,Apples (1kg),2.56,2.03-3.01,Markets,2.03,3.01,Rishon-Leziyyon
 119,Banana (1kg),1.76,1.27-2.53,Markets,1.27,2.53,Rishon-Leziyyon
 120,Oranges (1kg),1.51,1.01-2.53,Markets,1.01,2.53,Rishon-Leziyyon
 121,Tomato (1kg),1.54,1.01-2.53,Markets,1.01,2.53,Rishon-Leziyyon
-122,Potato (1kg),1.29,1.24-1.52,Markets,1.24,1.52,Rishon-Leziyyon
+122,Potato (1kg),1.28,1.01-1.39,Markets,1.01,1.39,Rishon-Leziyyon
 123,Onion (1kg),1.05,0.76-1.27,Markets,0.76,1.27,Rishon-Leziyyon
 124,Lettuce (1 head),2.28,1.01-3.04,Markets,1.01,3.04,Rishon-Leziyyon
 125,Water (1.5 liter bottle),1.14,0.68-2.03,Markets,0.68,2.03,Rishon-Leziyyon
@@ -130,27 +125,24 @@
 128,Imported Beer (0.33 liter bottle),2.79,2.28-3.80,Markets,2.28,3.8,Rishon-Leziyyon
 129,Cigarettes 20 Pack (Marlboro),8.86,7.60-11.39,Markets,7.6,11.39,Rishon-Leziyyon
 130,One-way Ticket (Local Transport),1.49,1.39-1.52,Transportation,1.39,1.52,Rishon-Leziyyon
-131,Monthly Pass (Regular Price),54.18,53.68-54.44,Transportation,53.68,54.44,Rishon-Leziyyon
+131,Monthly Pass (Regular Price),54.44,53.68-56.97,Transportation,53.68,56.97,Rishon-Leziyyon
 132,Taxi Start (Normal Tariff),2.91,2.79-3.14,Transportation,2.79,3.14,Rishon-Leziyyon
-133,Taxi 1hour Waiting (Normal Tariff),23.44,22.03-24.86,Transportation,22.03,24.86,Rishon-Leziyyon
 134,Gasoline (1 liter),1.78,1.67-1.84,Transportation,1.67,1.84,Rishon-Leziyyon
-135,Volkswagen Golf 1.4 90 KW Trendline (Or Equivalent New Car),35917.28,33854.85-37979.70,Transportation,33854.85,37979.7,Rishon-Leziyyon
-136,Toyota Corolla Sedan 1.6l 97kW Comfort (Or Equivalent New Car),35785.32,34434.93-35447.72,Transportation,34434.93,35447.72,Rishon-Leziyyon
+136,Toyota Corolla Sedan 1.6l 97kW Comfort (Or Equivalent New Car),35785.91,34435.50-35448.31,Transportation,34435.5,35448.31,Rishon-Leziyyon
 137,"Basic (Electricity, Heating, Cooling, Water, Garbage) for 85m2 Apartment",210.25,151.92-329.16,Utilities (Monthly),151.92,329.16,Rishon-Leziyyon
-138,1 min. of Prepaid Mobile Tariff Local (No Discounts or Plans),0.07,0.03-0.12,Utilities (Monthly),0.03,0.12,Rishon-Leziyyon
 139,"Internet (60 Mbps or More, Unlimited Data, Cable/ADSL)",27.01,22.79-32.92,Utilities (Monthly),22.79,32.92,Rishon-Leziyyon
-140,"Fitness Club, Monthly Fee for 1 Adult",58.02,30.38-75.96,Sports And Leisure,30.38,75.96,Rishon-Leziyyon
+140,"Fitness Club, Monthly Fee for 1 Adult",58.03,30.38-75.96,Sports And Leisure,30.38,75.96,Rishon-Leziyyon
 141,Tennis Court Rent (1 Hour on Weekend),8.86,7.60-10.13,Sports And Leisure,7.6,10.13,Rishon-Leziyyon
 142,"Cinema, International Release, 1 Seat",12.41,11.39-17.72,Sports And Leisure,11.39,17.72,Rishon-Leziyyon
-143,"Preschool (or Kindergarten), Full Day, Private, Monthly for 1 Child",753.26,557.04-886.19,Childcare,557.04,886.19,Rishon-Leziyyon
+143,"Preschool (or Kindergarten), Full Day, Private, Monthly for 1 Child",753.28,557.04-886.21,Childcare,557.04,886.21,Rishon-Leziyyon
 144,1 Pair of Jeans (Levis 501 Or Similar),97.06,50.64-151.92,Clothing And Shoes,50.64,151.92,Rishon-Leziyyon
 145,"1 Summer Dress in a Chain Store (Zara, H&M, ...)",57.39,20.26-75.96,Clothing And Shoes,20.26,75.96,Rishon-Leziyyon
 146,1 Pair of Nike Running Shoes (Mid-Range),113.94,81.02-126.60,Clothing And Shoes,81.02,126.6,Rishon-Leziyyon
 147,1 Pair of Men Leather Business Shoes,122.38,88.62-151.92,Clothing And Shoes,88.62,151.92,Rishon-Leziyyon
-148,Apartment (1 bedroom) in City Centre,759.59,759.59-759.59,Rent Per Month,759.59,759.59,Rishon-Leziyyon
-149,Apartment (1 bedroom) Outside of Centre,717.39,633.00-886.19,Rent Per Month,633.0,886.19,Rishon-Leziyyon
-150,Apartment (3 bedrooms) in City Centre,1308.19,1139.39-1519.19,Rent Per Month,1139.39,1519.19,Rishon-Leziyyon
-151,Apartment (3 bedrooms) Outside of Centre,1194.25,1012.79-1468.55,Rent Per Month,1012.79,1468.55,Rishon-Leziyyon
-152,Price per Square Meter to Buy Apartment in City Centre,6751.95,6583.15-7089.54,Buy Apartment Price,6583.15,7089.54,Rishon-Leziyyon
-153,Price per Square Meter to Buy Apartment Outside of Centre,5823.55,5317.16-6329.95,Buy Apartment Price,5317.16,6329.95,Rishon-Leziyyon
+148,Apartment (1 bedroom) in City Centre,844.01,759.61-1012.81,Rent Per Month,759.61,1012.81,Rishon-Leziyyon
+149,Apartment (1 bedroom) Outside of Centre,717.41,633.01-886.21,Rent Per Month,633.01,886.21,Rishon-Leziyyon
+150,Apartment (3 bedrooms) in City Centre,1308.21,1139.41-1519.21,Rent Per Month,1139.41,1519.21,Rishon-Leziyyon
+151,Apartment (3 bedrooms) Outside of Centre,1194.27,1012.81-1468.57,Rent Per Month,1012.81,1468.57,Rishon-Leziyyon
+152,Price per Square Meter to Buy Apartment in City Centre,6752.06,6583.26-7089.66,Buy Apartment Price,6583.26,7089.66,Rishon-Leziyyon
+153,Price per Square Meter to Buy Apartment Outside of Centre,5823.65,5317.25-6330.06,Buy Apartment Price,5317.25,6330.06,Rishon-Leziyyon
 154,"Mortgage Interest Rate in Percentages (%), Yearly, for 20 Years Fixed-Rate",3.78,3.00-4.00,Salaries And Financing,3.0,4.0,Rishon-Leziyyon

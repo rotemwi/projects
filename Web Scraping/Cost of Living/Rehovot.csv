@@ -31,22 +31,22 @@
 31,Taxi Start (Normal Tariff),7.09,3.04-11.39,Transportation,3.04,11.39,Rehovot
 32,Taxi 1km (Normal Tariff),1.65,0.76-2.53,Transportation,0.76,2.53,Rehovot
 34,Gasoline (1 liter),1.75,1.60-1.97,Transportation,1.6,1.97,Rehovot
-35,Volkswagen Golf 1.4 90 KW Trendline (Or Equivalent New Car),35447.72,35447.72-35447.72,Transportation,35447.72,35447.72,Rehovot
-36,Toyota Corolla Sedan 1.6l 97kW Comfort (Or Equivalent New Car),37979.7,35447.72-37979.70,Transportation,35447.72,37979.7,Rehovot
+35,Volkswagen Golf 1.4 90 KW Trendline (Or Equivalent New Car),35448.31,35448.31-35448.31,Transportation,35448.31,35448.31,Rehovot
+36,Toyota Corolla Sedan 1.6l 97kW Comfort (Or Equivalent New Car),37980.33,35448.31-37980.33,Transportation,35448.31,37980.33,Rehovot
 38,"Basic (Electricity, Heating, Cooling, Water, Garbage) for 85m2 Apartment",222.8,126.60-295.93,Utilities (Monthly),126.6,295.93,Rehovot
 40,"Internet (60 Mbps or More, Unlimited Data, Cable/ADSL)",24.19,20.26-30.38,Utilities (Monthly),20.26,30.38,Rehovot
 42,"Fitness Club, Monthly Fee for 1 Adult",58.24,25.07-101.28,Sports And Leisure,25.07,101.28,Rehovot
 43,Tennis Court Rent (1 Hour on Weekend),31.65,25.32-37.98,Sports And Leisure,25.32,37.98,Rehovot
 44,"Cinema, International Release, 1 Seat",10.13,8.86-10.13,Sports And Leisure,8.86,10.13,Rehovot
-46,"Preschool (or Kindergarten), Full Day, Private, Monthly for 1 Child",824.7,759.59-911.51,Childcare,759.59,911.51,Rehovot
+46,"Preschool (or Kindergarten), Full Day, Private, Monthly for 1 Child",824.72,759.61-911.53,Childcare,759.61,911.53,Rehovot
 49,1 Pair of Jeans (Levis 501 Or Similar),98.33,48.11-113.94,Clothing And Shoes,48.11,113.94,Rehovot
 50,"1 Summer Dress in a Chain Store (Zara, H&M, ...)",45.15,30.38-50.64,Clothing And Shoes,30.38,50.64,Rehovot
 51,1 Pair of Nike Running Shoes (Mid-Range),104.9,88.62-126.60,Clothing And Shoes,88.62,126.6,Rehovot
 52,1 Pair of Men Leather Business Shoes,129.13,88.62-202.56,Clothing And Shoes,88.62,202.56,Rehovot
-54,Apartment (1 bedroom) in City Centre,854.54,759.59-911.51,Rent Per Month,759.59,911.51,Rehovot
-55,Apartment (1 bedroom) Outside of Centre,727.94,633.00-759.59,Rent Per Month,633.0,759.59,Rehovot
-56,Apartment (3 bedrooms) in City Centre,1326.76,1265.99-1645.79,Rent Per Month,1265.99,1645.79,Rehovot
-57,Apartment (3 bedrooms) Outside of Centre,1180.54,962.15-1392.59,Rent Per Month,962.15,1392.59,Rehovot
-59,Price per Square Meter to Buy Apartment in City Centre,5317.16,4557.56-6329.95,Buy Apartment Price,4557.56,6329.95,Rehovot
-60,Price per Square Meter to Buy Apartment Outside of Centre,5317.16,4557.56-6329.95,Buy Apartment Price,4557.56,6329.95,Rehovot
+54,Apartment (1 bedroom) in City Centre,854.56,759.61-911.53,Rent Per Month,759.61,911.53,Rehovot
+55,Apartment (1 bedroom) Outside of Centre,727.96,633.01-759.61,Rent Per Month,633.01,759.61,Rehovot
+56,Apartment (3 bedrooms) in City Centre,1326.78,1266.01-1645.81,Rent Per Month,1266.01,1645.81,Rehovot
+57,Apartment (3 bedrooms) Outside of Centre,1180.56,962.17-1392.61,Rent Per Month,962.17,1392.61,Rehovot
+59,Price per Square Meter to Buy Apartment in City Centre,5317.25,4557.64-6330.06,Buy Apartment Price,4557.64,6330.06,Rehovot
+60,Price per Square Meter to Buy Apartment Outside of Centre,5317.25,4557.64-6330.06,Buy Apartment Price,4557.64,6330.06,Rehovot
 63,"Mortgage Interest Rate in Percentages (%), Yearly, for 20 Years Fixed-Rate",4.1,2.46-5.00,Salaries And Financing,2.46,5.0,Rehovot
