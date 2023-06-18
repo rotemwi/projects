@@ -1,0 +1,55 @@
+,Item,Average_Price_in_Eur,Range,Category,Minimum,Maximum,city,country
+0,"Meal, Inexpensive Restaurant",12.5,7.50-15.00,Restaurants,7.5,15.0,Nicosia,Cyprus
+1,"Meal for 2 People, Mid-range Restaurant, Three-course",50.0,40.00-65.00,Restaurants,40.0,65.0,Nicosia,Cyprus
+2,McMeal at McDonalds (or Equivalent Combo Meal),7.0,6.00-8.00,Restaurants,6.0,8.0,Nicosia,Cyprus
+3,Domestic Beer (0.5 liter draught),4.0,2.00-6.00,Restaurants,2.0,6.0,Nicosia,Cyprus
+4,Imported Beer (0.33 liter bottle),5.0,3.50-6.00,Restaurants,3.5,6.0,Nicosia,Cyprus
+5,Cappuccino (regular),3.21,2.50-4.00,Restaurants,2.5,4.0,Nicosia,Cyprus
+6,Coke/Pepsi (0.33 liter bottle),1.37,1.00-2.00,Restaurants,1.0,2.0,Nicosia,Cyprus
+7,Water (0.33 liter bottle),0.65,0.50-1.00,Restaurants,0.5,1.0,Nicosia,Cyprus
+9,"Milk (regular), (1 liter)",1.49,1.15-2.00,Markets,1.15,2.0,Nicosia,Cyprus
+10,Loaf of Fresh White Bread (500g),1.79,0.90-2.20,Markets,0.9,2.2,Nicosia,Cyprus
+11,"Rice (white), (1kg)",2.46,1.30-3.00,Markets,1.3,3.0,Nicosia,Cyprus
+12,Eggs (regular) (12),3.05,2.20-4.20,Markets,2.2,4.2,Nicosia,Cyprus
+13,Local Cheese (1kg),9.7,5.00-13.00,Markets,5.0,13.0,Nicosia,Cyprus
+14,Chicken Fillets (1kg),7.64,6.00-9.62,Markets,6.0,9.62,Nicosia,Cyprus
+15,Beef Round (1kg) (or Equivalent Back Leg Red Meat),8.77,7.00-12.00,Markets,7.0,12.0,Nicosia,Cyprus
+16,Apples (1kg),2.68,2.00-3.00,Markets,2.0,3.0,Nicosia,Cyprus
+17,Banana (1kg),1.77,1.25-2.10,Markets,1.25,2.1,Nicosia,Cyprus
+18,Oranges (1kg),1.88,0.50-3.99,Markets,0.5,3.99,Nicosia,Cyprus
+19,Tomato (1kg),2.51,1.00-5.00,Markets,1.0,5.0,Nicosia,Cyprus
+20,Potato (1kg),1.14,0.49-3.00,Markets,0.49,3.0,Nicosia,Cyprus
+21,Onion (1kg),0.92,0.60-1.30,Markets,0.6,1.3,Nicosia,Cyprus
+22,Lettuce (1 head),0.44,0.30-0.80,Markets,0.3,0.8,Nicosia,Cyprus
+23,Water (1.5 liter bottle),0.95,0.50-2.00,Markets,0.5,2.0,Nicosia,Cyprus
+24,Bottle of Wine (Mid-Range),7.0,4.00-12.00,Markets,4.0,12.0,Nicosia,Cyprus
+25,Domestic Beer (0.5 liter bottle),1.56,1.00-2.00,Markets,1.0,2.0,Nicosia,Cyprus
+26,Imported Beer (0.33 liter bottle),2.41,1.00-3.00,Markets,1.0,3.0,Nicosia,Cyprus
+27,Cigarettes 20 Pack (Marlboro),5.0,4.60-5.00,Markets,4.6,5.0,Nicosia,Cyprus
+29,One-way Ticket (Local Transport),2.0,1.50-2.00,Transportation,1.5,2.0,Nicosia,Cyprus
+30,Monthly Pass (Regular Price),40.0,37.00-60.00,Transportation,37.0,60.0,Nicosia,Cyprus
+31,Taxi Start (Normal Tariff),3.46,2.20-4.50,Transportation,2.2,4.5,Nicosia,Cyprus
+32,Taxi 1km (Normal Tariff),1.25,1.00-3.00,Transportation,1.0,3.0,Nicosia,Cyprus
+33,Taxi 1hour Waiting (Normal Tariff),45.0,30.00-70.00,Transportation,30.0,70.0,Nicosia,Cyprus
+34,Gasoline (1 liter),1.46,1.32-1.80,Transportation,1.32,1.8,Nicosia,Cyprus
+35,Volkswagen Golf 1.4 90 KW Trendline (Or Equivalent New Car),23000.0,23000.00-23000.00,Transportation,23000.0,23000.0,Nicosia,Cyprus
+36,Toyota Corolla Sedan 1.6l 97kW Comfort (Or Equivalent New Car),26716.67,24150.00-26000.00,Transportation,24150.0,26000.0,Nicosia,Cyprus
+38,"Basic (Electricity, Heating, Cooling, Water, Garbage) for 85m2 Apartment",169.07,110.00-300.00,Utilities (Monthly),110.0,300.0,Nicosia,Cyprus
+39,Mobile Phone Monthly Plan with Calls and 10GB+ Data,19.99,19.99-19.99,Utilities (Monthly),19.99,19.99,Nicosia,Cyprus
+40,"Internet (60 Mbps or More, Unlimited Data, Cable/ADSL)",30.25,25.00-50.00,Utilities (Monthly),25.0,50.0,Nicosia,Cyprus
+42,"Fitness Club, Monthly Fee for 1 Adult",57.81,40.00-80.00,Sports And Leisure,40.0,80.0,Nicosia,Cyprus
+43,Tennis Court Rent (1 Hour on Weekend),22.86,10.00-30.00,Sports And Leisure,10.0,30.0,Nicosia,Cyprus
+44,"Cinema, International Release, 1 Seat",9.5,8.00-12.50,Sports And Leisure,8.0,12.5,Nicosia,Cyprus
+46,"Preschool (or Kindergarten), Full Day, Private, Monthly for 1 Child",341.67,250.00-450.00,Childcare,250.0,450.0,Nicosia,Cyprus
+47,"International Primary School, Yearly for 1 Child",6287.5,5000.00-7000.00,Childcare,5000.0,7000.0,Nicosia,Cyprus
+49,1 Pair of Jeans (Levis 501 Or Similar),77.5,40.00-120.00,Clothing And Shoes,40.0,120.0,Nicosia,Cyprus
+50,"1 Summer Dress in a Chain Store (Zara, H&M, ...)",35.42,20.00-65.00,Clothing And Shoes,20.0,65.0,Nicosia,Cyprus
+51,1 Pair of Nike Running Shoes (Mid-Range),80.0,50.00-120.00,Clothing And Shoes,50.0,120.0,Nicosia,Cyprus
+52,1 Pair of Men Leather Business Shoes,93.85,60.00-125.00,Clothing And Shoes,60.0,125.0,Nicosia,Cyprus
+54,Apartment (1 bedroom) in City Centre,611.92,500.00-1000.00,Rent Per Month,500.0,1000.0,Nicosia,Cyprus
+55,Apartment (1 bedroom) Outside of Centre,505.48,400.00-800.00,Rent Per Month,400.0,800.0,Nicosia,Cyprus
+56,Apartment (3 bedrooms) in City Centre,1190.48,850.00-2000.00,Rent Per Month,850.0,2000.0,Nicosia,Cyprus
+57,Apartment (3 bedrooms) Outside of Centre,943.68,700.00-1500.00,Rent Per Month,700.0,1500.0,Nicosia,Cyprus
+59,Price per Square Meter to Buy Apartment in City Centre,2466.67,2000.00-3500.00,Buy Apartment Price,2000.0,3500.0,Nicosia,Cyprus
+60,Price per Square Meter to Buy Apartment Outside of Centre,1750.0,1400.00-2200.00,Buy Apartment Price,1400.0,2200.0,Nicosia,Cyprus
+63,"Mortgage Interest Rate in Percentages (%), Yearly, for 20 Years Fixed-Rate",2.89,2.40-3.30,Salaries And Financing,2.4,3.3,Nicosia,Cyprus

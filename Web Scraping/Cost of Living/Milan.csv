@@ -1,0 +1,55 @@
+,Item,Average_Price_in_Eur,Range,Category,Minimum,Maximum,city,country
+0,"Meal, Inexpensive Restaurant",20.0,12.00-25.00,Restaurants,12.0,25.0,Milan,Italy
+1,"Meal for 2 People, Mid-range Restaurant, Three-course",73.0,50.00-110.00,Restaurants,50.0,110.0,Milan,Italy
+2,McMeal at McDonalds (or Equivalent Combo Meal),10.0,9.00-12.00,Restaurants,9.0,12.0,Milan,Italy
+3,Domestic Beer (0.5 liter draught),6.0,4.00-7.00,Restaurants,4.0,7.0,Milan,Italy
+4,Imported Beer (0.33 liter bottle),5.0,4.00-7.00,Restaurants,4.0,7.0,Milan,Italy
+5,Cappuccino (regular),1.67,1.00-2.60,Restaurants,1.0,2.6,Milan,Italy
+6,Coke/Pepsi (0.33 liter bottle),2.77,2.00-3.50,Restaurants,2.0,3.5,Milan,Italy
+7,Water (0.33 liter bottle),1.21,1.00-2.00,Restaurants,1.0,2.0,Milan,Italy
+9,"Milk (regular), (1 liter)",1.51,1.19-1.80,Markets,1.19,1.8,Milan,Italy
+10,Loaf of Fresh White Bread (500g),2.22,1.25-3.40,Markets,1.25,3.4,Milan,Italy
+11,"Rice (white), (1kg)",3.02,1.50-4.00,Markets,1.5,4.0,Milan,Italy
+12,Eggs (regular) (12),3.75,2.00-5.00,Markets,2.0,5.0,Milan,Italy
+13,Local Cheese (1kg),15.7,9.50-22.00,Markets,9.5,22.0,Milan,Italy
+14,Chicken Fillets (1kg),11.37,6.00-15.00,Markets,6.0,15.0,Milan,Italy
+15,Beef Round (1kg) (or Equivalent Back Leg Red Meat),20.15,11.00-25.00,Markets,11.0,25.0,Milan,Italy
+16,Apples (1kg),2.26,1.00-3.00,Markets,1.0,3.0,Milan,Italy
+17,Banana (1kg),1.94,1.20-4.00,Markets,1.2,4.0,Milan,Italy
+18,Oranges (1kg),2.43,1.00-4.00,Markets,1.0,4.0,Milan,Italy
+19,Tomato (1kg),2.95,1.40-5.00,Markets,1.4,5.0,Milan,Italy
+20,Potato (1kg),1.5,0.90-2.50,Markets,0.9,2.5,Milan,Italy
+21,Onion (1kg),1.26,0.99-2.00,Markets,0.99,2.0,Milan,Italy
+22,Lettuce (1 head),1.2,0.60-2.00,Markets,0.6,2.0,Milan,Italy
+23,Water (1.5 liter bottle),0.52,0.27-1.00,Markets,0.27,1.0,Milan,Italy
+24,Bottle of Wine (Mid-Range),7.0,4.50-12.00,Markets,4.5,12.0,Milan,Italy
+25,Domestic Beer (0.5 liter bottle),1.59,1.00-2.73,Markets,1.0,2.73,Milan,Italy
+26,Imported Beer (0.33 liter bottle),2.01,1.00-3.50,Markets,1.0,3.5,Milan,Italy
+27,Cigarettes 20 Pack (Marlboro),6.0,5.50-6.00,Markets,5.5,6.0,Milan,Italy
+29,One-way Ticket (Local Transport),2.2,2.20-2.20,Transportation,2.2,2.2,Milan,Italy
+30,Monthly Pass (Regular Price),39.0,29.17-50.00,Transportation,29.17,50.0,Milan,Italy
+31,Taxi Start (Normal Tariff),6.0,4.00-8.00,Transportation,4.0,8.0,Milan,Italy
+32,Taxi 1km (Normal Tariff),2.0,1.14-2.50,Transportation,1.14,2.5,Milan,Italy
+33,Taxi 1hour Waiting (Normal Tariff),35.0,30.00-40.00,Transportation,30.0,40.0,Milan,Italy
+34,Gasoline (1 liter),1.85,1.70-2.00,Transportation,1.7,2.0,Milan,Italy
+35,Volkswagen Golf 1.4 90 KW Trendline (Or Equivalent New Car),25000.0,23250.00-30000.00,Transportation,23250.0,30000.0,Milan,Italy
+36,Toyota Corolla Sedan 1.6l 97kW Comfort (Or Equivalent New Car),28844.74,28000.00-33000.00,Transportation,28000.0,33000.0,Milan,Italy
+38,"Basic (Electricity, Heating, Cooling, Water, Garbage) for 85m2 Apartment",220.67,100.00-420.00,Utilities (Monthly),100.0,420.0,Milan,Italy
+39,Mobile Phone Monthly Plan with Calls and 10GB+ Data,14.99,10.00-14.99,Utilities (Monthly),10.0,14.99,Milan,Italy
+40,"Internet (60 Mbps or More, Unlimited Data, Cable/ADSL)",27.64,25.00-34.00,Utilities (Monthly),25.0,34.0,Milan,Italy
+42,"Fitness Club, Monthly Fee for 1 Adult",62.29,30.00-100.00,Sports And Leisure,30.0,100.0,Milan,Italy
+43,Tennis Court Rent (1 Hour on Weekend),27.6,20.00-30.00,Sports And Leisure,20.0,30.0,Milan,Italy
+44,"Cinema, International Release, 1 Seat",10.0,9.00-12.00,Sports And Leisure,9.0,12.0,Milan,Italy
+46,"Preschool (or Kindergarten), Full Day, Private, Monthly for 1 Child",743.18,600.00-900.00,Childcare,600.0,900.0,Milan,Italy
+47,"International Primary School, Yearly for 1 Child",15141.45,11370.00-21500.00,Childcare,11370.0,21500.0,Milan,Italy
+49,1 Pair of Jeans (Levis 501 Or Similar),88.4,40.00-120.00,Clothing And Shoes,40.0,120.0,Milan,Italy
+50,"1 Summer Dress in a Chain Store (Zara, H&M, ...)",32.87,20.00-50.00,Clothing And Shoes,20.0,50.0,Milan,Italy
+51,1 Pair of Nike Running Shoes (Mid-Range),92.05,60.00-130.00,Clothing And Shoes,60.0,130.0,Milan,Italy
+52,1 Pair of Men Leather Business Shoes,141.33,80.00-240.00,Clothing And Shoes,80.0,240.0,Milan,Italy
+54,Apartment (1 bedroom) in City Centre,1319.15,1000.00-1900.00,Rent Per Month,1000.0,1900.0,Milan,Italy
+55,Apartment (1 bedroom) Outside of Centre,899.46,700.00-1200.00,Rent Per Month,700.0,1200.0,Milan,Italy
+56,Apartment (3 bedrooms) in City Centre,2751.19,2000.00-4500.00,Rent Per Month,2000.0,4500.0,Milan,Italy
+57,Apartment (3 bedrooms) Outside of Centre,1733.81,1300.00-2200.00,Rent Per Month,1300.0,2200.0,Milan,Italy
+59,Price per Square Meter to Buy Apartment in City Centre,9097.95,7000.00-11900.00,Buy Apartment Price,7000.0,11900.0,Milan,Italy
+60,Price per Square Meter to Buy Apartment Outside of Centre,4766.25,3800.00-6000.00,Buy Apartment Price,3800.0,6000.0,Milan,Italy
+63,"Mortgage Interest Rate in Percentages (%), Yearly, for 20 Years Fixed-Rate",2.63,1.16-4.90,Salaries And Financing,1.16,4.9,Milan,Italy

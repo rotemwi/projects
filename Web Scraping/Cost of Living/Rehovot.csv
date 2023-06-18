@@ -1,52 +1,52 @@
-,Item,Average_Price_in_Eur,Range,Category,Minimum,Maximum,city
-0,"Meal, Inexpensive Restaurant",15.19,13.93-25.32,Restaurants,13.93,25.32,Rehovot
-1,"Meal for 2 People, Mid-range Restaurant, Three-course",75.96,63.30-126.60,Restaurants,63.3,126.6,Rehovot
-2,McMeal at McDonalds (or Equivalent Combo Meal),11.9,10.63-13.67,Restaurants,10.63,13.67,Rehovot
-3,Domestic Beer (0.5 liter draught),7.6,6.84-8.36,Restaurants,6.84,8.36,Rehovot
-4,Imported Beer (0.33 liter bottle),6.71,3.80-8.10,Restaurants,3.8,8.1,Rehovot
-5,Cappuccino (regular),3.33,2.53-3.80,Restaurants,2.53,3.8,Rehovot
-6,Coke/Pepsi (0.33 liter bottle),2.53,2.03-3.04,Restaurants,2.03,3.04,Rehovot
-7,Water (0.33 liter bottle),2.13,1.77-2.53,Restaurants,1.77,2.53,Rehovot
-9,"Milk (regular), (1 liter)",1.55,1.27-1.77,Markets,1.27,1.77,Rehovot
-10,Loaf of Fresh White Bread (500g),1.47,0.95-2.37,Markets,0.95,2.37,Rehovot
-11,"Rice (white), (1kg)",2.38,2.03-2.53,Markets,2.03,2.53,Rehovot
-12,Eggs (regular) (12),3.25,2.99-3.65,Markets,2.99,3.65,Rehovot
-13,Local Cheese (1kg),14.65,10.13-25.32,Markets,10.13,25.32,Rehovot
-14,Chicken Fillets (1kg),9.48,7.09-12.66,Markets,7.09,12.66,Rehovot
-15,Beef Round (1kg) (or Equivalent Back Leg Red Meat),19.79,12.66-25.32,Markets,12.66,25.32,Rehovot
-16,Apples (1kg),3.0,2.28-3.80,Markets,2.28,3.8,Rehovot
-17,Banana (1kg),2.25,1.52-3.29,Markets,1.52,3.29,Rehovot
-18,Oranges (1kg),1.96,1.01-3.04,Markets,1.01,3.04,Rehovot
-19,Tomato (1kg),1.93,1.27-2.79,Markets,1.27,2.79,Rehovot
-20,Potato (1kg),1.19,0.76-2.03,Markets,0.76,2.03,Rehovot
-21,Onion (1kg),1.14,0.76-1.49,Markets,0.76,1.49,Rehovot
-22,Lettuce (1 head),1.58,1.01-2.53,Markets,1.01,2.53,Rehovot
-23,Water (1.5 liter bottle),0.86,0.51-2.53,Markets,0.51,2.53,Rehovot
-24,Bottle of Wine (Mid-Range),11.39,7.60-20.26,Markets,7.6,20.26,Rehovot
-25,Domestic Beer (0.5 liter bottle),2.15,1.27-3.04,Markets,1.27,3.04,Rehovot
-26,Imported Beer (0.33 liter bottle),2.47,1.52-6.33,Markets,1.52,6.33,Rehovot
-27,Cigarettes 20 Pack (Marlboro),9.62,9.24-10.13,Markets,9.24,10.13,Rehovot
-29,One-way Ticket (Local Transport),1.47,1.39-1.52,Transportation,1.39,1.52,Rehovot
-30,Monthly Pass (Regular Price),55.7,40.51-70.90,Transportation,40.51,70.9,Rehovot
-31,Taxi Start (Normal Tariff),7.09,3.04-11.39,Transportation,3.04,11.39,Rehovot
-32,Taxi 1km (Normal Tariff),1.65,0.76-2.53,Transportation,0.76,2.53,Rehovot
-34,Gasoline (1 liter),1.75,1.60-1.97,Transportation,1.6,1.97,Rehovot
-35,Volkswagen Golf 1.4 90 KW Trendline (Or Equivalent New Car),35448.31,35448.31-35448.31,Transportation,35448.31,35448.31,Rehovot
-36,Toyota Corolla Sedan 1.6l 97kW Comfort (Or Equivalent New Car),37980.33,35448.31-37980.33,Transportation,35448.31,37980.33,Rehovot
-38,"Basic (Electricity, Heating, Cooling, Water, Garbage) for 85m2 Apartment",222.8,126.60-295.93,Utilities (Monthly),126.6,295.93,Rehovot
-40,"Internet (60 Mbps or More, Unlimited Data, Cable/ADSL)",24.19,20.26-30.38,Utilities (Monthly),20.26,30.38,Rehovot
-42,"Fitness Club, Monthly Fee for 1 Adult",58.24,25.07-101.28,Sports And Leisure,25.07,101.28,Rehovot
-43,Tennis Court Rent (1 Hour on Weekend),31.65,25.32-37.98,Sports And Leisure,25.32,37.98,Rehovot
-44,"Cinema, International Release, 1 Seat",10.13,8.86-10.13,Sports And Leisure,8.86,10.13,Rehovot
-46,"Preschool (or Kindergarten), Full Day, Private, Monthly for 1 Child",824.72,759.61-911.53,Childcare,759.61,911.53,Rehovot
-49,1 Pair of Jeans (Levis 501 Or Similar),98.33,48.11-113.94,Clothing And Shoes,48.11,113.94,Rehovot
-50,"1 Summer Dress in a Chain Store (Zara, H&M, ...)",45.15,30.38-50.64,Clothing And Shoes,30.38,50.64,Rehovot
-51,1 Pair of Nike Running Shoes (Mid-Range),104.9,88.62-126.60,Clothing And Shoes,88.62,126.6,Rehovot
-52,1 Pair of Men Leather Business Shoes,129.13,88.62-202.56,Clothing And Shoes,88.62,202.56,Rehovot
-54,Apartment (1 bedroom) in City Centre,854.56,759.61-911.53,Rent Per Month,759.61,911.53,Rehovot
-55,Apartment (1 bedroom) Outside of Centre,727.96,633.01-759.61,Rent Per Month,633.01,759.61,Rehovot
-56,Apartment (3 bedrooms) in City Centre,1326.78,1266.01-1645.81,Rent Per Month,1266.01,1645.81,Rehovot
-57,Apartment (3 bedrooms) Outside of Centre,1180.56,962.17-1392.61,Rent Per Month,962.17,1392.61,Rehovot
-59,Price per Square Meter to Buy Apartment in City Centre,5317.25,4557.64-6330.06,Buy Apartment Price,4557.64,6330.06,Rehovot
-60,Price per Square Meter to Buy Apartment Outside of Centre,5317.25,4557.64-6330.06,Buy Apartment Price,4557.64,6330.06,Rehovot
-63,"Mortgage Interest Rate in Percentages (%), Yearly, for 20 Years Fixed-Rate",4.1,2.46-5.00,Salaries And Financing,2.46,5.0,Rehovot
+,Item,Average_Price_in_Eur,Range,Category,Minimum,Maximum,city,country
+0,"Meal, Inexpensive Restaurant",15.39,14.11-25.66,Restaurants,14.11,25.66,Rehovot,Israel
+1,"Meal for 2 People, Mid-range Restaurant, Three-course",76.97,64.14-128.28,Restaurants,64.14,128.28,Rehovot,Israel
+2,McMeal at McDonalds (or Equivalent Combo Meal),12.06,10.78-13.85,Restaurants,10.78,13.85,Rehovot,Israel
+3,Domestic Beer (0.5 liter draught),7.7,6.93-8.98,Restaurants,6.93,8.98,Rehovot,Israel
+4,Imported Beer (0.33 liter bottle),6.8,3.85-8.21,Restaurants,3.85,8.21,Rehovot,Israel
+5,Cappuccino (regular),3.37,2.57-3.85,Restaurants,2.57,3.85,Rehovot,Israel
+6,Coke/Pepsi (0.33 liter bottle),2.57,2.05-3.08,Restaurants,2.05,3.08,Rehovot,Israel
+7,Water (0.33 liter bottle),2.16,1.80-2.57,Restaurants,1.8,2.57,Rehovot,Israel
+9,"Milk (regular), (1 liter)",1.57,1.28-1.80,Markets,1.28,1.8,Rehovot,Israel
+10,Loaf of Fresh White Bread (500g),1.49,0.96-2.41,Markets,0.96,2.41,Rehovot,Israel
+11,"Rice (white), (1kg)",2.41,2.05-2.57,Markets,2.05,2.57,Rehovot,Israel
+12,Eggs (regular) (12),3.29,3.03-3.69,Markets,3.03,3.69,Rehovot,Israel
+13,Local Cheese (1kg),14.85,10.26-25.66,Markets,10.26,25.66,Rehovot,Israel
+14,Chicken Fillets (1kg),9.6,7.18-12.83,Markets,7.18,12.83,Rehovot,Israel
+15,Beef Round (1kg) (or Equivalent Back Leg Red Meat),20.05,12.83-25.66,Markets,12.83,25.66,Rehovot,Israel
+16,Apples (1kg),3.04,2.31-3.85,Markets,2.31,3.85,Rehovot,Israel
+17,Banana (1kg),2.28,1.54-3.34,Markets,1.54,3.34,Rehovot,Israel
+18,Oranges (1kg),1.99,1.03-3.08,Markets,1.03,3.08,Rehovot,Israel
+19,Tomato (1kg),1.96,1.28-2.82,Markets,1.28,2.82,Rehovot,Israel
+20,Potato (1kg),1.2,0.77-2.05,Markets,0.77,2.05,Rehovot,Israel
+21,Onion (1kg),1.15,0.77-1.51,Markets,0.77,1.51,Rehovot,Israel
+22,Lettuce (1 head),1.6,1.03-2.57,Markets,1.03,2.57,Rehovot,Israel
+23,Water (1.5 liter bottle),0.87,0.51-2.57,Markets,0.51,2.57,Rehovot,Israel
+24,Bottle of Wine (Mid-Range),11.55,7.70-20.52,Markets,7.7,20.52,Rehovot,Israel
+25,Domestic Beer (0.5 liter bottle),2.17,1.28-3.08,Markets,1.28,3.08,Rehovot,Israel
+26,Imported Beer (0.33 liter bottle),2.5,1.54-6.41,Markets,1.54,6.41,Rehovot,Israel
+27,Cigarettes 20 Pack (Marlboro),9.75,9.36-10.26,Markets,9.36,10.26,Rehovot,Israel
+29,One-way Ticket (Local Transport),1.49,1.41-1.54,Transportation,1.41,1.54,Rehovot,Israel
+30,Monthly Pass (Regular Price),56.44,41.05-71.84,Transportation,41.05,71.84,Rehovot,Israel
+31,Taxi Start (Normal Tariff),7.18,3.08-11.55,Transportation,3.08,11.55,Rehovot,Israel
+32,Taxi 1km (Normal Tariff),1.67,0.77-2.57,Transportation,0.77,2.57,Rehovot,Israel
+34,Gasoline (1 liter),1.77,1.62-2.00,Transportation,1.62,2.0,Rehovot,Israel
+35,Volkswagen Golf 1.4 90 KW Trendline (Or Equivalent New Car),37201.17,35918.37-38483.97,Transportation,35918.37,38483.97,Rehovot,Israel
+36,Toyota Corolla Sedan 1.6l 97kW Comfort (Or Equivalent New Car),38483.97,35918.37-38483.97,Transportation,35918.37,38483.97,Rehovot,Israel
+38,"Basic (Electricity, Heating, Cooling, Water, Garbage) for 85m2 Apartment",225.76,128.28-299.85,Utilities (Monthly),128.28,299.85,Rehovot,Israel
+39,Mobile Phone Monthly Plan with Calls and 10GB+ Data,12.57,12.57-12.57,Utilities (Monthly),12.57,12.57,Rehovot,Israel
+40,"Internet (60 Mbps or More, Unlimited Data, Cable/ADSL)",24.52,20.52-30.79,Utilities (Monthly),20.52,30.79,Rehovot,Israel
+42,"Fitness Club, Monthly Fee for 1 Adult",59.01,25.40-102.62,Sports And Leisure,25.4,102.62,Rehovot,Israel
+44,"Cinema, International Release, 1 Seat",10.26,8.98-10.26,Sports And Leisure,8.98,10.26,Rehovot,Israel
+46,"Preschool (or Kindergarten), Full Day, Private, Monthly for 1 Child",835.65,769.68-923.62,Childcare,769.68,923.62,Rehovot,Israel
+49,1 Pair of Jeans (Levis 501 Or Similar),99.63,48.75-115.45,Clothing And Shoes,48.75,115.45,Rehovot,Israel
+50,"1 Summer Dress in a Chain Store (Zara, H&M, ...)",45.75,30.79-51.31,Clothing And Shoes,30.79,51.31,Rehovot,Israel
+51,1 Pair of Nike Running Shoes (Mid-Range),106.29,89.80-128.28,Clothing And Shoes,89.8,128.28,Rehovot,Israel
+52,1 Pair of Men Leather Business Shoes,130.85,89.80-205.25,Clothing And Shoes,89.8,205.25,Rehovot,Israel
+54,Apartment (1 bedroom) in City Centre,865.89,769.68-923.62,Rent Per Month,769.68,923.62,Rehovot,Israel
+55,Apartment (1 bedroom) Outside of Centre,737.61,641.40-769.68,Rent Per Month,641.4,769.68,Rehovot,Israel
+56,Apartment (3 bedrooms) in City Centre,1344.37,1282.80-1667.64,Rent Per Month,1282.8,1667.64,Rehovot,Israel
+57,Apartment (3 bedrooms) Outside of Centre,1196.21,974.93-1411.08,Rent Per Month,974.93,1411.08,Rehovot,Israel
+59,Price per Square Meter to Buy Apartment in City Centre,5387.76,4618.08-6414.00,Buy Apartment Price,4618.08,6414.0,Rehovot,Israel
+60,Price per Square Meter to Buy Apartment Outside of Centre,5387.76,4618.08-6414.00,Buy Apartment Price,4618.08,6414.0,Rehovot,Israel
+63,"Mortgage Interest Rate in Percentages (%), Yearly, for 20 Years Fixed-Rate",4.1,2.46-5.00,Salaries And Financing,2.46,5.0,Rehovot,Israel

@@ -1,53 +1,53 @@
-,Item,Average_Price_in_Eur,Range,Category,Minimum,Maximum,city
-0,"Meal, Inexpensive Restaurant",16.46,12.66-25.32,Restaurants,12.66,25.32,Rishon-Leziyyon
-1,"Meal for 2 People, Mid-range Restaurant, Three-course",63.3,63.30-151.92,Restaurants,63.3,151.92,Rishon-Leziyyon
-2,McMeal at McDonalds (or Equivalent Combo Meal),12.66,12.66-15.19,Restaurants,12.66,15.19,Rishon-Leziyyon
-3,Domestic Beer (0.5 liter draught),6.08,5.06-8.10,Restaurants,5.06,8.1,Rishon-Leziyyon
-4,Imported Beer (0.33 liter bottle),5.06,5.06-6.33,Restaurants,5.06,6.33,Rishon-Leziyyon
-5,Cappuccino (regular),3.08,1.77-3.80,Restaurants,1.77,3.8,Rishon-Leziyyon
-6,Coke/Pepsi (0.33 liter bottle),2.24,1.52-3.54,Restaurants,1.52,3.54,Rishon-Leziyyon
-7,Water (0.33 liter bottle),1.72,1.27-3.04,Restaurants,1.27,3.04,Rishon-Leziyyon
-9,"Milk (regular), (1 liter)",1.56,1.27-2.28,Markets,1.27,2.28,Rishon-Leziyyon
-10,Loaf of Fresh White Bread (500g),2.22,1.27-3.29,Markets,1.27,3.29,Rishon-Leziyyon
-11,"Rice (white), (1kg)",2.53,2.03-2.53,Markets,2.03,2.53,Rishon-Leziyyon
-12,Eggs (regular) (12),3.18,2.63-3.65,Markets,2.63,3.65,Rishon-Leziyyon
-13,Local Cheese (1kg),14.03,10.63-20.26,Markets,10.63,20.26,Rishon-Leziyyon
-14,Chicken Fillets (1kg),8.65,6.33-10.13,Markets,6.33,10.13,Rishon-Leziyyon
-15,Beef Round (1kg) (or Equivalent Back Leg Red Meat),17.22,12.66-22.79,Markets,12.66,22.79,Rishon-Leziyyon
-16,Apples (1kg),2.56,2.03-3.01,Markets,2.03,3.01,Rishon-Leziyyon
-17,Banana (1kg),1.76,1.27-2.53,Markets,1.27,2.53,Rishon-Leziyyon
-18,Oranges (1kg),1.51,1.01-2.53,Markets,1.01,2.53,Rishon-Leziyyon
-19,Tomato (1kg),1.54,1.01-2.53,Markets,1.01,2.53,Rishon-Leziyyon
-20,Potato (1kg),1.28,1.01-1.39,Markets,1.01,1.39,Rishon-Leziyyon
-21,Onion (1kg),1.05,0.76-1.27,Markets,0.76,1.27,Rishon-Leziyyon
-22,Lettuce (1 head),2.28,1.01-3.04,Markets,1.01,3.04,Rishon-Leziyyon
-23,Water (1.5 liter bottle),1.14,0.68-2.03,Markets,0.68,2.03,Rishon-Leziyyon
-24,Bottle of Wine (Mid-Range),10.13,7.60-15.19,Markets,7.6,15.19,Rishon-Leziyyon
-25,Domestic Beer (0.5 liter bottle),2.11,1.52-2.53,Markets,1.52,2.53,Rishon-Leziyyon
-26,Imported Beer (0.33 liter bottle),2.79,2.28-3.80,Markets,2.28,3.8,Rishon-Leziyyon
-27,Cigarettes 20 Pack (Marlboro),8.86,7.60-11.39,Markets,7.6,11.39,Rishon-Leziyyon
-29,One-way Ticket (Local Transport),1.49,1.39-1.52,Transportation,1.39,1.52,Rishon-Leziyyon
-30,Monthly Pass (Regular Price),54.44,53.68-56.97,Transportation,53.68,56.97,Rishon-Leziyyon
-31,Taxi Start (Normal Tariff),2.91,2.79-3.14,Transportation,2.79,3.14,Rishon-Leziyyon
-33,Taxi 1hour Waiting (Normal Tariff),23.44,22.03-24.86,Transportation,22.03,24.86,Rishon-Leziyyon
-34,Gasoline (1 liter),1.78,1.67-1.84,Transportation,1.67,1.84,Rishon-Leziyyon
-35,Volkswagen Golf 1.4 90 KW Trendline (Or Equivalent New Car),35917.87,33855.41-37980.33,Transportation,33855.41,37980.33,Rishon-Leziyyon
-36,Toyota Corolla Sedan 1.6l 97kW Comfort (Or Equivalent New Car),35785.91,34435.50-35448.31,Transportation,34435.5,35448.31,Rishon-Leziyyon
-38,"Basic (Electricity, Heating, Cooling, Water, Garbage) for 85m2 Apartment",210.25,151.92-329.16,Utilities (Monthly),151.92,329.16,Rishon-Leziyyon
-39,1 min. of Prepaid Mobile Tariff Local (No Discounts or Plans),0.07,0.03-0.12,Utilities (Monthly),0.03,0.12,Rishon-Leziyyon
-40,"Internet (60 Mbps or More, Unlimited Data, Cable/ADSL)",27.01,22.79-32.92,Utilities (Monthly),22.79,32.92,Rishon-Leziyyon
-42,"Fitness Club, Monthly Fee for 1 Adult",58.03,30.38-75.96,Sports And Leisure,30.38,75.96,Rishon-Leziyyon
-43,Tennis Court Rent (1 Hour on Weekend),8.86,7.60-10.13,Sports And Leisure,7.6,10.13,Rishon-Leziyyon
-44,"Cinema, International Release, 1 Seat",12.41,11.39-17.72,Sports And Leisure,11.39,17.72,Rishon-Leziyyon
-46,"Preschool (or Kindergarten), Full Day, Private, Monthly for 1 Child",753.28,557.04-886.21,Childcare,557.04,886.21,Rishon-Leziyyon
-49,1 Pair of Jeans (Levis 501 Or Similar),97.06,50.64-151.92,Clothing And Shoes,50.64,151.92,Rishon-Leziyyon
-50,"1 Summer Dress in a Chain Store (Zara, H&M, ...)",57.39,20.26-75.96,Clothing And Shoes,20.26,75.96,Rishon-Leziyyon
-51,1 Pair of Nike Running Shoes (Mid-Range),113.94,81.02-126.60,Clothing And Shoes,81.02,126.6,Rishon-Leziyyon
-52,1 Pair of Men Leather Business Shoes,122.38,88.62-151.92,Clothing And Shoes,88.62,151.92,Rishon-Leziyyon
-54,Apartment (1 bedroom) in City Centre,844.01,759.61-1012.81,Rent Per Month,759.61,1012.81,Rishon-Leziyyon
-55,Apartment (1 bedroom) Outside of Centre,717.41,633.01-886.21,Rent Per Month,633.01,886.21,Rishon-Leziyyon
-56,Apartment (3 bedrooms) in City Centre,1308.21,1139.41-1519.21,Rent Per Month,1139.41,1519.21,Rishon-Leziyyon
-57,Apartment (3 bedrooms) Outside of Centre,1194.27,1012.81-1468.57,Rent Per Month,1012.81,1468.57,Rishon-Leziyyon
-59,Price per Square Meter to Buy Apartment in City Centre,6752.06,6583.26-7089.66,Buy Apartment Price,6583.26,7089.66,Rishon-Leziyyon
-60,Price per Square Meter to Buy Apartment Outside of Centre,5823.65,5317.25-6330.06,Buy Apartment Price,5317.25,6330.06,Rishon-Leziyyon
-63,"Mortgage Interest Rate in Percentages (%), Yearly, for 20 Years Fixed-Rate",3.78,3.00-4.00,Salaries And Financing,3.0,4.0,Rishon-Leziyyon
+,Item,Average_Price_in_Eur,Range,Category,Minimum,Maximum,city,country
+0,"Meal, Inexpensive Restaurant",16.68,12.83-25.66,Restaurants,12.83,25.66,Rishon-Leziyyon,Israel
+1,"Meal for 2 People, Mid-range Restaurant, Three-course",64.14,64.14-153.94,Restaurants,64.14,153.94,Rishon-Leziyyon,Israel
+2,McMeal at McDonalds (or Equivalent Combo Meal),12.83,12.83-15.39,Restaurants,12.83,15.39,Rishon-Leziyyon,Israel
+3,Domestic Beer (0.5 liter draught),7.18,5.13-8.98,Restaurants,5.13,8.98,Rishon-Leziyyon,Israel
+4,Imported Beer (0.33 liter bottle),5.13,5.13-6.41,Restaurants,5.13,6.41,Rishon-Leziyyon,Israel
+5,Cappuccino (regular),3.34,1.80-3.85,Restaurants,1.8,3.85,Rishon-Leziyyon,Israel
+6,Coke/Pepsi (0.33 liter bottle),2.27,1.54-3.59,Restaurants,1.54,3.59,Rishon-Leziyyon,Israel
+7,Water (0.33 liter bottle),1.74,1.28-3.08,Restaurants,1.28,3.08,Rishon-Leziyyon,Israel
+9,"Milk (regular), (1 liter)",1.61,1.28-2.31,Markets,1.28,2.31,Rishon-Leziyyon,Israel
+10,Loaf of Fresh White Bread (500g),2.25,1.28-3.34,Markets,1.28,3.34,Rishon-Leziyyon,Israel
+11,"Rice (white), (1kg)",2.57,2.05-2.57,Markets,2.05,2.57,Rishon-Leziyyon,Israel
+12,Eggs (regular) (12),3.23,2.95-3.69,Markets,2.95,3.69,Rishon-Leziyyon,Israel
+13,Local Cheese (1kg),15.07,10.78-20.52,Markets,10.78,20.52,Rishon-Leziyyon,Israel
+14,Chicken Fillets (1kg),8.77,6.41-10.26,Markets,6.41,10.26,Rishon-Leziyyon,Israel
+15,Beef Round (1kg) (or Equivalent Back Leg Red Meat),17.45,12.83-23.09,Markets,12.83,23.09,Rishon-Leziyyon,Israel
+16,Apples (1kg),2.64,2.05-3.05,Markets,2.05,3.05,Rishon-Leziyyon,Israel
+17,Banana (1kg),1.78,1.28-2.57,Markets,1.28,2.57,Rishon-Leziyyon,Israel
+18,Oranges (1kg),1.47,1.03-2.57,Markets,1.03,2.57,Rishon-Leziyyon,Israel
+19,Tomato (1kg),1.56,1.03-2.57,Markets,1.03,2.57,Rishon-Leziyyon,Israel
+20,Potato (1kg),1.3,1.03-1.41,Markets,1.03,1.41,Rishon-Leziyyon,Israel
+21,Onion (1kg),1.07,0.77-1.28,Markets,0.77,1.28,Rishon-Leziyyon,Israel
+22,Lettuce (1 head),2.31,1.03-3.08,Markets,1.03,3.08,Rishon-Leziyyon,Israel
+23,Water (1.5 liter bottle),1.15,0.69-2.05,Markets,0.69,2.05,Rishon-Leziyyon,Israel
+24,Bottle of Wine (Mid-Range),10.26,7.70-15.39,Markets,7.7,15.39,Rishon-Leziyyon,Israel
+25,Domestic Beer (0.5 liter bottle),2.14,1.54-2.57,Markets,1.54,2.57,Rishon-Leziyyon,Israel
+26,Imported Beer (0.33 liter bottle),2.82,2.31-3.85,Markets,2.31,3.85,Rishon-Leziyyon,Israel
+27,Cigarettes 20 Pack (Marlboro),8.98,7.70-11.55,Markets,7.7,11.55,Rishon-Leziyyon,Israel
+29,One-way Ticket (Local Transport),1.51,1.41-1.54,Transportation,1.41,1.54,Rishon-Leziyyon,Israel
+30,Monthly Pass (Regular Price),55.16,54.39-57.73,Transportation,54.39,57.73,Rishon-Leziyyon,Israel
+31,Taxi Start (Normal Tariff),2.95,2.82-3.18,Transportation,2.82,3.18,Rishon-Leziyyon,Israel
+33,Taxi 1hour Waiting (Normal Tariff),23.75,22.32-25.19,Transportation,22.32,25.19,Rishon-Leziyyon,Israel
+34,Gasoline (1 liter),1.8,1.69-1.86,Transportation,1.69,1.86,Rishon-Leziyyon,Israel
+35,Volkswagen Golf 1.4 90 KW Trendline (Or Equivalent New Car),36394.16,34304.36-38483.97,Transportation,34304.36,38483.97,Rishon-Leziyyon,Israel
+36,Toyota Corolla Sedan 1.6l 97kW Comfort (Or Equivalent New Car),36260.45,34892.13-35918.37,Transportation,34892.13,35918.37,Rishon-Leziyyon,Israel
+38,"Basic (Electricity, Heating, Cooling, Water, Garbage) for 85m2 Apartment",213.04,153.94-333.53,Utilities (Monthly),153.94,333.53,Rishon-Leziyyon,Israel
+39,Mobile Phone Monthly Plan with Calls and 10GB+ Data,12.57,12.57-12.57,Utilities (Monthly),12.57,12.57,Rishon-Leziyyon,Israel
+40,"Internet (60 Mbps or More, Unlimited Data, Cable/ADSL)",27.37,23.09-33.35,Utilities (Monthly),23.09,33.35,Rishon-Leziyyon,Israel
+42,"Fitness Club, Monthly Fee for 1 Adult",58.79,30.79-76.97,Sports And Leisure,30.79,76.97,Rishon-Leziyyon,Israel
+43,Tennis Court Rent (1 Hour on Weekend),8.98,7.70-10.26,Sports And Leisure,7.7,10.26,Rishon-Leziyyon,Israel
+44,"Cinema, International Release, 1 Seat",12.57,11.55-17.96,Sports And Leisure,11.55,17.96,Rishon-Leziyyon,Israel
+46,"Preschool (or Kindergarten), Full Day, Private, Monthly for 1 Child",763.27,564.43-897.96,Childcare,564.43,897.96,Rishon-Leziyyon,Israel
+49,1 Pair of Jeans (Levis 501 Or Similar),98.35,51.31-153.94,Clothing And Shoes,51.31,153.94,Rishon-Leziyyon,Israel
+50,"1 Summer Dress in a Chain Store (Zara, H&M, ...)",58.15,20.52-76.97,Clothing And Shoes,20.52,76.97,Rishon-Leziyyon,Israel
+51,1 Pair of Nike Running Shoes (Mid-Range),115.45,82.10-128.28,Clothing And Shoes,82.1,128.28,Rishon-Leziyyon,Israel
+52,1 Pair of Men Leather Business Shoes,124.0,89.80-153.94,Clothing And Shoes,89.8,153.94,Rishon-Leziyyon,Israel
+54,Apartment (1 bedroom) in City Centre,855.2,769.68-1026.24,Rent Per Month,769.68,1026.24,Rishon-Leziyyon,Israel
+55,Apartment (1 bedroom) Outside of Centre,726.92,641.40-897.96,Rent Per Month,641.4,897.96,Rishon-Leziyyon,Israel
+56,Apartment (3 bedrooms) in City Centre,1325.56,1154.52-1539.36,Rent Per Month,1154.52,1539.36,Rishon-Leziyyon,Israel
+57,Apartment (3 bedrooms) Outside of Centre,1210.11,1026.24-1488.05,Rent Per Month,1026.24,1488.05,Rishon-Leziyyon,Israel
+59,Price per Square Meter to Buy Apartment in City Centre,6841.6,6670.56-7183.67,Buy Apartment Price,6670.56,7183.67,Rishon-Leziyyon,Israel
+60,Price per Square Meter to Buy Apartment Outside of Centre,5900.88,5387.76-6414.00,Buy Apartment Price,5387.76,6414.0,Rishon-Leziyyon,Israel
+63,"Mortgage Interest Rate in Percentages (%), Yearly, for 20 Years Fixed-Rate",3.78,3.00-4.00,Salaries And Financing,3.0,4.0,Rishon-Leziyyon,Israel

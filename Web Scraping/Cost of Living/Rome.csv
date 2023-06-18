@@ -1,0 +1,55 @@
+,Item,Average_Price_in_Eur,Range,Category,Minimum,Maximum,city,country
+0,"Meal, Inexpensive Restaurant",15.0,10.00-28.00,Restaurants,10.0,28.0,Rome,Italy
+1,"Meal for 2 People, Mid-range Restaurant, Three-course",70.0,50.00-90.00,Restaurants,50.0,90.0,Rome,Italy
+2,McMeal at McDonalds (or Equivalent Combo Meal),10.0,8.00-11.50,Restaurants,8.0,11.5,Rome,Italy
+3,Domestic Beer (0.5 liter draught),5.0,3.00-7.00,Restaurants,3.0,7.0,Rome,Italy
+4,Imported Beer (0.33 liter bottle),5.0,3.00-7.00,Restaurants,3.0,7.0,Rome,Italy
+5,Cappuccino (regular),1.56,1.10-2.24,Restaurants,1.1,2.24,Rome,Italy
+6,Coke/Pepsi (0.33 liter bottle),2.16,1.50-3.00,Restaurants,1.5,3.0,Rome,Italy
+7,Water (0.33 liter bottle),1.1,1.00-2.00,Restaurants,1.0,2.0,Rome,Italy
+9,"Milk (regular), (1 liter)",1.69,1.00-2.00,Markets,1.0,2.0,Rome,Italy
+10,Loaf of Fresh White Bread (500g),1.66,1.00-3.00,Markets,1.0,3.0,Rome,Italy
+11,"Rice (white), (1kg)",2.3,1.00-3.50,Markets,1.0,3.5,Rome,Italy
+12,Eggs (regular) (12),3.41,1.80-5.00,Markets,1.8,5.0,Rome,Italy
+13,Local Cheese (1kg),15.3,8.00-29.00,Markets,8.0,29.0,Rome,Italy
+14,Chicken Fillets (1kg),10.25,4.00-15.00,Markets,4.0,15.0,Rome,Italy
+15,Beef Round (1kg) (or Equivalent Back Leg Red Meat),16.05,9.00-25.00,Markets,9.0,25.0,Rome,Italy
+16,Apples (1kg),2.34,1.20-4.00,Markets,1.2,4.0,Rome,Italy
+17,Banana (1kg),1.91,1.00-3.50,Markets,1.0,3.5,Rome,Italy
+18,Oranges (1kg),2.25,1.29-4.50,Markets,1.29,4.5,Rome,Italy
+19,Tomato (1kg),2.71,1.40-4.00,Markets,1.4,4.0,Rome,Italy
+20,Potato (1kg),1.54,0.99-3.00,Markets,0.99,3.0,Rome,Italy
+21,Onion (1kg),1.57,1.00-3.00,Markets,1.0,3.0,Rome,Italy
+22,Lettuce (1 head),1.27,0.70-2.00,Markets,0.7,2.0,Rome,Italy
+23,Water (1.5 liter bottle),0.54,0.20-1.70,Markets,0.2,1.7,Rome,Italy
+24,Bottle of Wine (Mid-Range),6.0,3.00-12.00,Markets,3.0,12.0,Rome,Italy
+25,Domestic Beer (0.5 liter bottle),1.46,1.00-2.50,Markets,1.0,2.5,Rome,Italy
+26,Imported Beer (0.33 liter bottle),2.26,1.20-3.50,Markets,1.2,3.5,Rome,Italy
+27,Cigarettes 20 Pack (Marlboro),6.0,5.50-6.00,Markets,5.5,6.0,Rome,Italy
+29,One-way Ticket (Local Transport),1.5,1.50-2.00,Transportation,1.5,2.0,Rome,Italy
+30,Monthly Pass (Regular Price),35.0,30.00-35.00,Transportation,30.0,35.0,Rome,Italy
+31,Taxi Start (Normal Tariff),4.0,3.00-6.00,Transportation,3.0,6.0,Rome,Italy
+32,Taxi 1km (Normal Tariff),1.3,1.10-2.00,Transportation,1.1,2.0,Rome,Italy
+33,Taxi 1hour Waiting (Normal Tariff),30.0,28.00-50.00,Transportation,28.0,50.0,Rome,Italy
+34,Gasoline (1 liter),1.82,1.70-2.10,Transportation,1.7,2.1,Rome,Italy
+35,Volkswagen Golf 1.4 90 KW Trendline (Or Equivalent New Car),25000.0,23350.00-30000.00,Transportation,23350.0,30000.0,Rome,Italy
+36,Toyota Corolla Sedan 1.6l 97kW Comfort (Or Equivalent New Car),27225.0,25000.00-28350.00,Transportation,25000.0,28350.0,Rome,Italy
+38,"Basic (Electricity, Heating, Cooling, Water, Garbage) for 85m2 Apartment",218.39,150.00-350.00,Utilities (Monthly),150.0,350.0,Rome,Italy
+39,Mobile Phone Monthly Plan with Calls and 10GB+ Data,14.99,14.99-14.99,Utilities (Monthly),14.99,14.99,Rome,Italy
+40,"Internet (60 Mbps or More, Unlimited Data, Cable/ADSL)",27.57,25.00-35.00,Utilities (Monthly),25.0,35.0,Rome,Italy
+42,"Fitness Club, Monthly Fee for 1 Adult",53.92,30.00-80.00,Sports And Leisure,30.0,80.0,Rome,Italy
+43,Tennis Court Rent (1 Hour on Weekend),17.84,15.00-25.00,Sports And Leisure,15.0,25.0,Rome,Italy
+44,"Cinema, International Release, 1 Seat",9.0,8.00-12.00,Sports And Leisure,8.0,12.0,Rome,Italy
+46,"Preschool (or Kindergarten), Full Day, Private, Monthly for 1 Child",483.08,300.00-800.00,Childcare,300.0,800.0,Rome,Italy
+47,"International Primary School, Yearly for 1 Child",7944.38,3500.00-15000.00,Childcare,3500.0,15000.0,Rome,Italy
+49,1 Pair of Jeans (Levis 501 Or Similar),78.12,30.00-100.00,Clothing And Shoes,30.0,100.0,Rome,Italy
+50,"1 Summer Dress in a Chain Store (Zara, H&M, ...)",33.68,15.00-50.00,Clothing And Shoes,15.0,50.0,Rome,Italy
+51,1 Pair of Nike Running Shoes (Mid-Range),87.67,60.00-129.00,Clothing And Shoes,60.0,129.0,Rome,Italy
+52,1 Pair of Men Leather Business Shoes,115.16,70.00-199.00,Clothing And Shoes,70.0,199.0,Rome,Italy
+54,Apartment (1 bedroom) in City Centre,1077.86,725.00-1500.00,Rent Per Month,725.0,1500.0,Rome,Italy
+55,Apartment (1 bedroom) Outside of Centre,693.42,500.00-1000.00,Rent Per Month,500.0,1000.0,Rome,Italy
+56,Apartment (3 bedrooms) in City Centre,2125.81,1500.00-3500.00,Rent Per Month,1500.0,3500.0,Rome,Italy
+57,Apartment (3 bedrooms) Outside of Centre,1301.56,1000.00-1800.00,Rent Per Month,1000.0,1800.0,Rome,Italy
+59,Price per Square Meter to Buy Apartment in City Centre,7428.57,6000.00-10000.00,Buy Apartment Price,6000.0,10000.0,Rome,Italy
+60,Price per Square Meter to Buy Apartment Outside of Centre,3448.32,2500.00-4700.00,Buy Apartment Price,2500.0,4700.0,Rome,Italy
+63,"Mortgage Interest Rate in Percentages (%), Yearly, for 20 Years Fixed-Rate",3.13,1.35-4.90,Salaries And Financing,1.35,4.9,Rome,Italy

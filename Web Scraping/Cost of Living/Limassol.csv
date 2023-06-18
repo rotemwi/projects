@@ -1,0 +1,55 @@
+,Item,Average_Price_in_Eur,Range,Category,Minimum,Maximum,city,country
+0,"Meal, Inexpensive Restaurant",15.0,8.00-25.00,Restaurants,8.0,25.0,Limassol,Cyprus
+1,"Meal for 2 People, Mid-range Restaurant, Three-course",60.0,50.00-80.00,Restaurants,50.0,80.0,Limassol,Cyprus
+2,McMeal at McDonalds (or Equivalent Combo Meal),7.0,6.50-8.00,Restaurants,6.5,8.0,Limassol,Cyprus
+3,Domestic Beer (0.5 liter draught),3.0,2.00-5.00,Restaurants,2.0,5.0,Limassol,Cyprus
+4,Imported Beer (0.33 liter bottle),4.0,3.00-6.00,Restaurants,3.0,6.0,Limassol,Cyprus
+5,Cappuccino (regular),3.29,2.00-5.00,Restaurants,2.0,5.0,Limassol,Cyprus
+6,Coke/Pepsi (0.33 liter bottle),1.66,1.00-3.00,Restaurants,1.0,3.0,Limassol,Cyprus
+7,Water (0.33 liter bottle),0.8,0.50-1.00,Restaurants,0.5,1.0,Limassol,Cyprus
+9,"Milk (regular), (1 liter)",1.6,1.00-2.50,Markets,1.0,2.5,Limassol,Cyprus
+10,Loaf of Fresh White Bread (500g),1.76,0.99-3.00,Markets,0.99,3.0,Limassol,Cyprus
+11,"Rice (white), (1kg)",2.09,1.00-3.00,Markets,1.0,3.0,Limassol,Cyprus
+12,Eggs (regular) (12),3.43,2.00-4.80,Markets,2.0,4.8,Limassol,Cyprus
+13,Local Cheese (1kg),11.18,8.00-20.00,Markets,8.0,20.0,Limassol,Cyprus
+14,Chicken Fillets (1kg),7.76,4.50-9.95,Markets,4.5,9.95,Limassol,Cyprus
+15,Beef Round (1kg) (or Equivalent Back Leg Red Meat),11.43,7.00-20.00,Markets,7.0,20.0,Limassol,Cyprus
+16,Apples (1kg),2.45,1.50-3.00,Markets,1.5,3.0,Limassol,Cyprus
+17,Banana (1kg),1.7,1.20-3.00,Markets,1.2,3.0,Limassol,Cyprus
+18,Oranges (1kg),1.58,1.00-2.50,Markets,1.0,2.5,Limassol,Cyprus
+19,Tomato (1kg),2.95,1.00-4.00,Markets,1.0,4.0,Limassol,Cyprus
+20,Potato (1kg),1.26,0.50-2.00,Markets,0.5,2.0,Limassol,Cyprus
+21,Onion (1kg),1.08,0.50-1.50,Markets,0.5,1.5,Limassol,Cyprus
+22,Lettuce (1 head),0.82,0.40-1.25,Markets,0.4,1.25,Limassol,Cyprus
+23,Water (1.5 liter bottle),0.81,0.30-2.00,Markets,0.3,2.0,Limassol,Cyprus
+24,Bottle of Wine (Mid-Range),7.0,4.00-12.00,Markets,4.0,12.0,Limassol,Cyprus
+25,Domestic Beer (0.5 liter bottle),1.58,1.00-2.00,Markets,1.0,2.0,Limassol,Cyprus
+26,Imported Beer (0.33 liter bottle),2.38,1.00-3.50,Markets,1.0,3.5,Limassol,Cyprus
+27,Cigarettes 20 Pack (Marlboro),4.95,4.50-5.50,Markets,4.5,5.5,Limassol,Cyprus
+29,One-way Ticket (Local Transport),1.5,1.50-2.00,Transportation,1.5,2.0,Limassol,Cyprus
+30,Monthly Pass (Regular Price),40.0,40.00-45.00,Transportation,40.0,45.0,Limassol,Cyprus
+31,Taxi Start (Normal Tariff),5.0,4.00-8.00,Transportation,4.0,8.0,Limassol,Cyprus
+32,Taxi 1km (Normal Tariff),1.5,0.80-3.00,Transportation,0.8,3.0,Limassol,Cyprus
+33,Taxi 1hour Waiting (Normal Tariff),30.0,20.00-45.00,Transportation,20.0,45.0,Limassol,Cyprus
+34,Gasoline (1 liter),1.62,1.40-1.88,Transportation,1.4,1.88,Limassol,Cyprus
+35,Volkswagen Golf 1.4 90 KW Trendline (Or Equivalent New Car),24000.0,21500.00-25000.00,Transportation,21500.0,25000.0,Limassol,Cyprus
+36,Toyota Corolla Sedan 1.6l 97kW Comfort (Or Equivalent New Car),21166.67,20000.00-24000.00,Transportation,20000.0,24000.0,Limassol,Cyprus
+38,"Basic (Electricity, Heating, Cooling, Water, Garbage) for 85m2 Apartment",229.89,141.67-300.00,Utilities (Monthly),141.67,300.0,Limassol,Cyprus
+39,Mobile Phone Monthly Plan with Calls and 10GB+ Data,19.99,19.99-19.99,Utilities (Monthly),19.99,19.99,Limassol,Cyprus
+40,"Internet (60 Mbps or More, Unlimited Data, Cable/ADSL)",35.0,25.00-50.00,Utilities (Monthly),25.0,50.0,Limassol,Cyprus
+42,"Fitness Club, Monthly Fee for 1 Adult",67.37,50.00-80.00,Sports And Leisure,50.0,80.0,Limassol,Cyprus
+43,Tennis Court Rent (1 Hour on Weekend),27.14,15.00-30.00,Sports And Leisure,15.0,30.0,Limassol,Cyprus
+44,"Cinema, International Release, 1 Seat",9.0,8.00-15.00,Sports And Leisure,8.0,15.0,Limassol,Cyprus
+46,"Preschool (or Kindergarten), Full Day, Private, Monthly for 1 Child",456.92,350.00-600.00,Childcare,350.0,600.0,Limassol,Cyprus
+47,"International Primary School, Yearly for 1 Child",6701.54,5000.00-8700.00,Childcare,5000.0,8700.0,Limassol,Cyprus
+49,1 Pair of Jeans (Levis 501 Or Similar),88.5,25.00-150.00,Clothing And Shoes,25.0,150.0,Limassol,Cyprus
+50,"1 Summer Dress in a Chain Store (Zara, H&M, ...)",44.15,28.00-60.00,Clothing And Shoes,28.0,60.0,Limassol,Cyprus
+51,1 Pair of Nike Running Shoes (Mid-Range),89.62,50.00-130.00,Clothing And Shoes,50.0,130.0,Limassol,Cyprus
+52,1 Pair of Men Leather Business Shoes,123.18,90.00-180.00,Clothing And Shoes,90.0,180.0,Limassol,Cyprus
+54,Apartment (1 bedroom) in City Centre,1532.86,1000.00-2000.00,Rent Per Month,1000.0,2000.0,Limassol,Cyprus
+55,Apartment (1 bedroom) Outside of Centre,1127.94,800.00-1700.00,Rent Per Month,800.0,1700.0,Limassol,Cyprus
+56,Apartment (3 bedrooms) in City Centre,2536.49,2000.00-3500.00,Rent Per Month,2000.0,3500.0,Limassol,Cyprus
+57,Apartment (3 bedrooms) Outside of Centre,2048.44,1500.00-3000.00,Rent Per Month,1500.0,3000.0,Limassol,Cyprus
+59,Price per Square Meter to Buy Apartment in City Centre,3300.0,2000.00-5000.00,Buy Apartment Price,2000.0,5000.0,Limassol,Cyprus
+60,Price per Square Meter to Buy Apartment Outside of Centre,2319.44,1500.00-3400.00,Buy Apartment Price,1500.0,3400.0,Limassol,Cyprus
+63,"Mortgage Interest Rate in Percentages (%), Yearly, for 20 Years Fixed-Rate",3.45,2.50-5.00,Salaries And Financing,2.5,5.0,Limassol,Cyprus

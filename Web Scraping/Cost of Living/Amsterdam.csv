@@ -1,0 +1,55 @@
+,Item,Average_Price_in_Eur,Range,Category,Minimum,Maximum,city,country
+0,"Meal, Inexpensive Restaurant",15.0,9.50-30.00,Restaurants,9.5,30.0,Amsterdam,Netherlands
+1,"Meal for 2 People, Mid-range Restaurant, Three-course",65.0,50.00-120.00,Restaurants,50.0,120.0,Amsterdam,Netherlands
+2,McMeal at McDonalds (or Equivalent Combo Meal),10.0,8.75-12.00,Restaurants,8.75,12.0,Amsterdam,Netherlands
+3,Domestic Beer (0.5 liter draught),5.0,3.60-7.50,Restaurants,3.6,7.5,Amsterdam,Netherlands
+4,Imported Beer (0.33 liter bottle),5.0,4.00-6.50,Restaurants,4.0,6.5,Amsterdam,Netherlands
+5,Cappuccino (regular),3.27,2.00-5.00,Restaurants,2.0,5.0,Amsterdam,Netherlands
+6,Coke/Pepsi (0.33 liter bottle),2.49,2.00-3.90,Restaurants,2.0,3.9,Amsterdam,Netherlands
+7,Water (0.33 liter bottle),2.27,2.00-4.00,Restaurants,2.0,4.0,Amsterdam,Netherlands
+9,"Milk (regular), (1 liter)",1.15,0.96-1.70,Markets,0.96,1.7,Amsterdam,Netherlands
+10,Loaf of Fresh White Bread (500g),1.59,0.85-3.50,Markets,0.85,3.5,Amsterdam,Netherlands
+11,"Rice (white), (1kg)",2.1,1.30-3.09,Markets,1.3,3.09,Amsterdam,Netherlands
+12,Eggs (regular) (12),3.85,2.25-5.04,Markets,2.25,5.04,Amsterdam,Netherlands
+13,Local Cheese (1kg),12.27,7.80-30.00,Markets,7.8,30.0,Amsterdam,Netherlands
+14,Chicken Fillets (1kg),9.74,6.00-13.00,Markets,6.0,13.0,Amsterdam,Netherlands
+15,Beef Round (1kg) (or Equivalent Back Leg Red Meat),17.19,12.00-30.00,Markets,12.0,30.0,Amsterdam,Netherlands
+16,Apples (1kg),2.22,1.85-3.00,Markets,1.85,3.0,Amsterdam,Netherlands
+17,Banana (1kg),1.67,1.25-2.50,Markets,1.25,2.5,Amsterdam,Netherlands
+18,Oranges (1kg),1.78,1.15-4.00,Markets,1.15,4.0,Amsterdam,Netherlands
+19,Tomato (1kg),2.8,1.50-4.18,Markets,1.5,4.18,Amsterdam,Netherlands
+20,Potato (1kg),1.43,0.85-3.00,Markets,0.85,3.0,Amsterdam,Netherlands
+21,Onion (1kg),1.12,0.89-2.00,Markets,0.89,2.0,Amsterdam,Netherlands
+22,Lettuce (1 head),1.11,0.77-1.50,Markets,0.77,1.5,Amsterdam,Netherlands
+23,Water (1.5 liter bottle),0.75,0.45-1.50,Markets,0.45,1.5,Amsterdam,Netherlands
+24,Bottle of Wine (Mid-Range),5.75,4.69-10.00,Markets,4.69,10.0,Amsterdam,Netherlands
+25,Domestic Beer (0.5 liter bottle),1.35,0.80-3.00,Markets,0.8,3.0,Amsterdam,Netherlands
+26,Imported Beer (0.33 liter bottle),1.6,1.05-3.00,Markets,1.05,3.0,Amsterdam,Netherlands
+27,Cigarettes 20 Pack (Marlboro),8.2,8.20-10.00,Markets,8.2,10.0,Amsterdam,Netherlands
+29,One-way Ticket (Local Transport),3.3,3.00-4.00,Transportation,3.0,4.0,Amsterdam,Netherlands
+30,Monthly Pass (Regular Price),93.0,73.91-200.00,Transportation,73.91,200.0,Amsterdam,Netherlands
+31,Taxi Start (Normal Tariff),4.0,3.50-7.50,Transportation,3.5,7.5,Amsterdam,Netherlands
+32,Taxi 1km (Normal Tariff),2.4,2.00-3.85,Transportation,2.0,3.85,Amsterdam,Netherlands
+33,Taxi 1hour Waiting (Normal Tariff),32.5,30.00-50.00,Transportation,30.0,50.0,Amsterdam,Netherlands
+34,Gasoline (1 liter),1.93,1.73-2.29,Transportation,1.73,2.29,Amsterdam,Netherlands
+35,Volkswagen Golf 1.4 90 KW Trendline (Or Equivalent New Car),26900.0,25090.00-31500.00,Transportation,25090.0,31500.0,Amsterdam,Netherlands
+36,Toyota Corolla Sedan 1.6l 97kW Comfort (Or Equivalent New Car),31037.5,27400.00-34850.00,Transportation,27400.0,34850.0,Amsterdam,Netherlands
+38,"Basic (Electricity, Heating, Cooling, Water, Garbage) for 85m2 Apartment",208.31,154.00-450.00,Utilities (Monthly),154.0,450.0,Amsterdam,Netherlands
+39,Mobile Phone Monthly Plan with Calls and 10GB+ Data,26.88,12.50-27.50,Utilities (Monthly),12.5,27.5,Amsterdam,Netherlands
+40,"Internet (60 Mbps or More, Unlimited Data, Cable/ADSL)",40.61,34.95-60.00,Utilities (Monthly),34.95,60.0,Amsterdam,Netherlands
+42,"Fitness Club, Monthly Fee for 1 Adult",37.29,19.99-60.00,Sports And Leisure,19.99,60.0,Amsterdam,Netherlands
+43,Tennis Court Rent (1 Hour on Weekend),21.07,10.00-35.00,Sports And Leisure,10.0,35.0,Amsterdam,Netherlands
+44,"Cinema, International Release, 1 Seat",13.0,11.00-17.00,Sports And Leisure,11.0,17.0,Amsterdam,Netherlands
+46,"Preschool (or Kindergarten), Full Day, Private, Monthly for 1 Child",1621.1,1100.00-2300.00,Childcare,1100.0,2300.0,Amsterdam,Netherlands
+47,"International Primary School, Yearly for 1 Child",10784.76,7000.00-24460.00,Childcare,7000.0,24460.0,Amsterdam,Netherlands
+49,1 Pair of Jeans (Levis 501 Or Similar),71.51,40.00-115.00,Clothing And Shoes,40.0,115.0,Amsterdam,Netherlands
+50,"1 Summer Dress in a Chain Store (Zara, H&M, ...)",27.8,19.00-50.00,Clothing And Shoes,19.0,50.0,Amsterdam,Netherlands
+51,1 Pair of Nike Running Shoes (Mid-Range),82.59,66.00-125.00,Clothing And Shoes,66.0,125.0,Amsterdam,Netherlands
+52,1 Pair of Men Leather Business Shoes,97.85,79.00-200.00,Clothing And Shoes,79.0,200.0,Amsterdam,Netherlands
+54,Apartment (1 bedroom) in City Centre,1650.75,1300.00-2000.00,Rent Per Month,1300.0,2000.0,Amsterdam,Netherlands
+55,Apartment (1 bedroom) Outside of Centre,1365.98,1000.00-1750.00,Rent Per Month,1000.0,1750.0,Amsterdam,Netherlands
+56,Apartment (3 bedrooms) in City Centre,2624.83,1765.00-3500.00,Rent Per Month,1765.0,3500.0,Amsterdam,Netherlands
+57,Apartment (3 bedrooms) Outside of Centre,1972.5,1435.00-2750.00,Rent Per Month,1435.0,2750.0,Amsterdam,Netherlands
+59,Price per Square Meter to Buy Apartment in City Centre,7563.02,6800.00-10000.00,Buy Apartment Price,6800.0,10000.0,Amsterdam,Netherlands
+60,Price per Square Meter to Buy Apartment Outside of Centre,5086.88,4290.00-7000.00,Buy Apartment Price,4290.0,7000.0,Amsterdam,Netherlands
+63,"Mortgage Interest Rate in Percentages (%), Yearly, for 20 Years Fixed-Rate",3.18,1.98-4.70,Salaries And Financing,1.98,4.7,Amsterdam,Netherlands

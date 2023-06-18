@@ -1,148 +1,687 @@
-,Item,Average_Price_in_Eur,Range,Category,Minimum,Maximum,city
-0,"Meal, Inexpensive Restaurant",12.0,9.00-15.00,Restaurants,9.0,15.0,Paphos
-1,"Meal for 2 People, Mid-range Restaurant, Three-course",45.0,35.00-89.56,Restaurants,35.0,89.56,Paphos
-2,McMeal at McDonalds (or Equivalent Combo Meal),7.0,6.00-8.00,Restaurants,6.0,8.0,Paphos
-3,Domestic Beer (0.5 liter draught),2.8,2.00-4.00,Restaurants,2.0,4.0,Paphos
-4,Imported Beer (0.33 liter bottle),3.0,2.50-3.50,Restaurants,2.5,3.5,Paphos
-5,Cappuccino (regular),3.19,2.50-4.00,Restaurants,2.5,4.0,Paphos
-6,Coke/Pepsi (0.33 liter bottle),1.88,1.00-2.50,Restaurants,1.0,2.5,Paphos
-7,Water (0.33 liter bottle),0.81,0.50-1.34,Restaurants,0.5,1.34,Paphos
-8,"Milk (regular), (1 liter)",1.54,1.33-1.80,Markets,1.33,1.8,Paphos
-9,Loaf of Fresh White Bread (500g),1.35,0.65-2.00,Markets,0.65,2.0,Paphos
-10,"Rice (white), (1kg)",1.85,1.25-2.15,Markets,1.25,2.15,Paphos
-11,Eggs (regular) (12),2.9,1.60-3.60,Markets,1.6,3.6,Paphos
-12,Local Cheese (1kg),8.9,4.50-16.60,Markets,4.5,16.6,Paphos
-13,Chicken Fillets (1kg),6.95,6.00-9.00,Markets,6.0,9.0,Paphos
-14,Beef Round (1kg) (or Equivalent Back Leg Red Meat),8.31,5.00-11.61,Markets,5.0,11.61,Paphos
-15,Apples (1kg),1.91,1.00-2.50,Markets,1.0,2.5,Paphos
-16,Banana (1kg),1.21,0.90-3.00,Markets,0.9,3.0,Paphos
-17,Oranges (1kg),1.29,0.40-3.00,Markets,0.4,3.0,Paphos
-18,Tomato (1kg),1.84,0.99-3.50,Markets,0.99,3.5,Paphos
-19,Potato (1kg),0.76,0.35-1.50,Markets,0.35,1.5,Paphos
-20,Onion (1kg),0.74,0.45-0.85,Markets,0.45,0.85,Paphos
-21,Lettuce (1 head),0.51,0.35-1.00,Markets,0.35,1.0,Paphos
-22,Water (1.5 liter bottle),0.69,0.45-1.00,Markets,0.45,1.0,Paphos
-23,Bottle of Wine (Mid-Range),6.0,4.00-12.00,Markets,4.0,12.0,Paphos
-24,Domestic Beer (0.5 liter bottle),1.08,0.83-1.50,Markets,0.83,1.5,Paphos
-25,Imported Beer (0.33 liter bottle),1.68,1.00-3.00,Markets,1.0,3.0,Paphos
-26,Cigarettes 20 Pack (Marlboro),4.95,4.50-5.81,Markets,4.5,5.81,Paphos
-27,One-way Ticket (Local Transport),1.5,1.50-1.50,Transportation,1.5,1.5,Paphos
-28,Monthly Pass (Regular Price),41.0,40.00-45.00,Transportation,40.0,45.0,Paphos
-29,Taxi Start (Normal Tariff),9.0,6.00-10.00,Transportation,6.0,10.0,Paphos
-31,Gasoline (1 liter),1.5,1.32-1.82,Transportation,1.32,1.82,Paphos
-32,Toyota Corolla Sedan 1.6l 97kW Comfort (Or Equivalent New Car),25250.0,21000.00-29500.00,Transportation,21000.0,29500.0,Paphos
-33,"Basic (Electricity, Heating, Cooling, Water, Garbage) for 85m2 Apartment",121.56,90.00-175.00,Utilities (Monthly),90.0,175.0,Paphos
-35,"Internet (60 Mbps or More, Unlimited Data, Cable/ADSL)",33.5,30.00-50.00,Utilities (Monthly),30.0,50.0,Paphos
-36,"Fitness Club, Monthly Fee for 1 Adult",50.0,45.00-60.00,Sports And Leisure,45.0,60.0,Paphos
-37,Tennis Court Rent (1 Hour on Weekend),14.0,3.00-25.00,Sports And Leisure,3.0,25.0,Paphos
-38,"Cinema, International Release, 1 Seat",9.0,7.00-10.00,Sports And Leisure,7.0,10.0,Paphos
-39,"Preschool (or Kindergarten), Full Day, Private, Monthly for 1 Child",302.5,220.00-415.00,Childcare,220.0,415.0,Paphos
-41,1 Pair of Jeans (Levis 501 Or Similar),92.5,50.00-110.00,Clothing And Shoes,50.0,110.0,Paphos
-42,"1 Summer Dress in a Chain Store (Zara, H&M, ...)",37.0,20.00-65.00,Clothing And Shoes,20.0,65.0,Paphos
-43,1 Pair of Nike Running Shoes (Mid-Range),77.5,40.00-95.00,Clothing And Shoes,40.0,95.0,Paphos
-44,1 Pair of Men Leather Business Shoes,83.75,40.00-120.00,Clothing And Shoes,40.0,120.0,Paphos
-45,Apartment (1 bedroom) in City Centre,744.12,450.00-1100.00,Rent Per Month,450.0,1100.0,Paphos
-46,Apartment (1 bedroom) Outside of Centre,550.0,350.00-800.00,Rent Per Month,350.0,800.0,Paphos
-47,Apartment (3 bedrooms) in City Centre,1333.33,900.00-2000.00,Rent Per Month,900.0,2000.0,Paphos
-48,Apartment (3 bedrooms) Outside of Centre,1145.83,850.00-1500.00,Rent Per Month,850.0,1500.0,Paphos
-49,Price per Square Meter to Buy Apartment in City Centre,1600.0,1200.00-2000.00,Buy Apartment Price,1200.0,2000.0,Paphos
-50,Price per Square Meter to Buy Apartment Outside of Centre,1162.5,850.00-1500.00,Buy Apartment Price,850.0,1500.0,Paphos
-51,"Mortgage Interest Rate in Percentages (%), Yearly, for 20 Years Fixed-Rate",2.51,1.75-2.51,Salaries And Financing,1.75,2.51,Paphos
-52,"Meal, Inexpensive Restaurant",15.19,13.93-25.32,Restaurants,13.93,25.32,Rehovot
-53,"Meal for 2 People, Mid-range Restaurant, Three-course",75.96,63.30-126.60,Restaurants,63.3,126.6,Rehovot
-54,McMeal at McDonalds (or Equivalent Combo Meal),11.9,10.63-13.67,Restaurants,10.63,13.67,Rehovot
-55,Domestic Beer (0.5 liter draught),7.6,6.84-8.36,Restaurants,6.84,8.36,Rehovot
-56,Imported Beer (0.33 liter bottle),6.71,3.80-8.10,Restaurants,3.8,8.1,Rehovot
-57,Cappuccino (regular),3.33,2.53-3.80,Restaurants,2.53,3.8,Rehovot
-58,Coke/Pepsi (0.33 liter bottle),2.53,2.03-3.04,Restaurants,2.03,3.04,Rehovot
-59,Water (0.33 liter bottle),2.13,1.77-2.53,Restaurants,1.77,2.53,Rehovot
-60,"Milk (regular), (1 liter)",1.55,1.27-1.77,Markets,1.27,1.77,Rehovot
-61,Loaf of Fresh White Bread (500g),1.47,0.95-2.37,Markets,0.95,2.37,Rehovot
-62,"Rice (white), (1kg)",2.38,2.03-2.53,Markets,2.03,2.53,Rehovot
-63,Eggs (regular) (12),3.25,2.99-3.65,Markets,2.99,3.65,Rehovot
-64,Local Cheese (1kg),14.65,10.13-25.32,Markets,10.13,25.32,Rehovot
-65,Chicken Fillets (1kg),9.48,7.09-12.66,Markets,7.09,12.66,Rehovot
-66,Beef Round (1kg) (or Equivalent Back Leg Red Meat),19.79,12.66-25.32,Markets,12.66,25.32,Rehovot
-67,Apples (1kg),3.0,2.28-3.80,Markets,2.28,3.8,Rehovot
-68,Banana (1kg),2.25,1.52-3.29,Markets,1.52,3.29,Rehovot
-69,Oranges (1kg),1.96,1.01-3.04,Markets,1.01,3.04,Rehovot
-70,Tomato (1kg),1.93,1.27-2.79,Markets,1.27,2.79,Rehovot
-71,Potato (1kg),1.19,0.76-2.03,Markets,0.76,2.03,Rehovot
-72,Onion (1kg),1.14,0.76-1.49,Markets,0.76,1.49,Rehovot
-73,Lettuce (1 head),1.58,1.01-2.53,Markets,1.01,2.53,Rehovot
-74,Water (1.5 liter bottle),0.86,0.51-2.53,Markets,0.51,2.53,Rehovot
-75,Bottle of Wine (Mid-Range),11.39,7.60-20.26,Markets,7.6,20.26,Rehovot
-76,Domestic Beer (0.5 liter bottle),2.15,1.27-3.04,Markets,1.27,3.04,Rehovot
-77,Imported Beer (0.33 liter bottle),2.47,1.52-6.33,Markets,1.52,6.33,Rehovot
-78,Cigarettes 20 Pack (Marlboro),9.62,9.24-10.13,Markets,9.24,10.13,Rehovot
-79,One-way Ticket (Local Transport),1.47,1.39-1.52,Transportation,1.39,1.52,Rehovot
-80,Monthly Pass (Regular Price),55.7,40.51-70.90,Transportation,40.51,70.9,Rehovot
-81,Taxi Start (Normal Tariff),7.09,3.04-11.39,Transportation,3.04,11.39,Rehovot
-83,Gasoline (1 liter),1.75,1.60-1.97,Transportation,1.6,1.97,Rehovot
-85,Toyota Corolla Sedan 1.6l 97kW Comfort (Or Equivalent New Car),37980.33,35448.31-37980.33,Transportation,35448.31,37980.33,Rehovot
-86,"Basic (Electricity, Heating, Cooling, Water, Garbage) for 85m2 Apartment",222.8,126.60-295.93,Utilities (Monthly),126.6,295.93,Rehovot
-87,"Internet (60 Mbps or More, Unlimited Data, Cable/ADSL)",24.19,20.26-30.38,Utilities (Monthly),20.26,30.38,Rehovot
-88,"Fitness Club, Monthly Fee for 1 Adult",58.24,25.07-101.28,Sports And Leisure,25.07,101.28,Rehovot
-89,Tennis Court Rent (1 Hour on Weekend),31.65,25.32-37.98,Sports And Leisure,25.32,37.98,Rehovot
-90,"Cinema, International Release, 1 Seat",10.13,8.86-10.13,Sports And Leisure,8.86,10.13,Rehovot
-91,"Preschool (or Kindergarten), Full Day, Private, Monthly for 1 Child",824.72,759.61-911.53,Childcare,759.61,911.53,Rehovot
-92,1 Pair of Jeans (Levis 501 Or Similar),98.33,48.11-113.94,Clothing And Shoes,48.11,113.94,Rehovot
-93,"1 Summer Dress in a Chain Store (Zara, H&M, ...)",45.15,30.38-50.64,Clothing And Shoes,30.38,50.64,Rehovot
-94,1 Pair of Nike Running Shoes (Mid-Range),104.9,88.62-126.60,Clothing And Shoes,88.62,126.6,Rehovot
-95,1 Pair of Men Leather Business Shoes,129.13,88.62-202.56,Clothing And Shoes,88.62,202.56,Rehovot
-96,Apartment (1 bedroom) in City Centre,854.56,759.61-911.53,Rent Per Month,759.61,911.53,Rehovot
-97,Apartment (1 bedroom) Outside of Centre,727.96,633.01-759.61,Rent Per Month,633.01,759.61,Rehovot
-98,Apartment (3 bedrooms) in City Centre,1326.78,1266.01-1645.81,Rent Per Month,1266.01,1645.81,Rehovot
-99,Apartment (3 bedrooms) Outside of Centre,1180.56,962.17-1392.61,Rent Per Month,962.17,1392.61,Rehovot
-100,Price per Square Meter to Buy Apartment in City Centre,5317.25,4557.64-6330.06,Buy Apartment Price,4557.64,6330.06,Rehovot
-101,Price per Square Meter to Buy Apartment Outside of Centre,5317.25,4557.64-6330.06,Buy Apartment Price,4557.64,6330.06,Rehovot
-102,"Mortgage Interest Rate in Percentages (%), Yearly, for 20 Years Fixed-Rate",4.1,2.46-5.00,Salaries And Financing,2.46,5.0,Rehovot
-103,"Meal, Inexpensive Restaurant",16.46,12.66-25.32,Restaurants,12.66,25.32,Rishon-Leziyyon
-104,"Meal for 2 People, Mid-range Restaurant, Three-course",63.3,63.30-151.92,Restaurants,63.3,151.92,Rishon-Leziyyon
-105,McMeal at McDonalds (or Equivalent Combo Meal),12.66,12.66-15.19,Restaurants,12.66,15.19,Rishon-Leziyyon
-106,Domestic Beer (0.5 liter draught),6.08,5.06-8.10,Restaurants,5.06,8.1,Rishon-Leziyyon
-107,Imported Beer (0.33 liter bottle),5.06,5.06-6.33,Restaurants,5.06,6.33,Rishon-Leziyyon
-108,Cappuccino (regular),3.08,1.77-3.80,Restaurants,1.77,3.8,Rishon-Leziyyon
-109,Coke/Pepsi (0.33 liter bottle),2.24,1.52-3.54,Restaurants,1.52,3.54,Rishon-Leziyyon
-110,Water (0.33 liter bottle),1.72,1.27-3.04,Restaurants,1.27,3.04,Rishon-Leziyyon
-111,"Milk (regular), (1 liter)",1.56,1.27-2.28,Markets,1.27,2.28,Rishon-Leziyyon
-112,Loaf of Fresh White Bread (500g),2.22,1.27-3.29,Markets,1.27,3.29,Rishon-Leziyyon
-113,"Rice (white), (1kg)",2.53,2.03-2.53,Markets,2.03,2.53,Rishon-Leziyyon
-114,Eggs (regular) (12),3.18,2.63-3.65,Markets,2.63,3.65,Rishon-Leziyyon
-115,Local Cheese (1kg),14.03,10.63-20.26,Markets,10.63,20.26,Rishon-Leziyyon
-116,Chicken Fillets (1kg),8.65,6.33-10.13,Markets,6.33,10.13,Rishon-Leziyyon
-117,Beef Round (1kg) (or Equivalent Back Leg Red Meat),17.22,12.66-22.79,Markets,12.66,22.79,Rishon-Leziyyon
-118,Apples (1kg),2.56,2.03-3.01,Markets,2.03,3.01,Rishon-Leziyyon
-119,Banana (1kg),1.76,1.27-2.53,Markets,1.27,2.53,Rishon-Leziyyon
-120,Oranges (1kg),1.51,1.01-2.53,Markets,1.01,2.53,Rishon-Leziyyon
-121,Tomato (1kg),1.54,1.01-2.53,Markets,1.01,2.53,Rishon-Leziyyon
-122,Potato (1kg),1.28,1.01-1.39,Markets,1.01,1.39,Rishon-Leziyyon
-123,Onion (1kg),1.05,0.76-1.27,Markets,0.76,1.27,Rishon-Leziyyon
-124,Lettuce (1 head),2.28,1.01-3.04,Markets,1.01,3.04,Rishon-Leziyyon
-125,Water (1.5 liter bottle),1.14,0.68-2.03,Markets,0.68,2.03,Rishon-Leziyyon
-126,Bottle of Wine (Mid-Range),10.13,7.60-15.19,Markets,7.6,15.19,Rishon-Leziyyon
-127,Domestic Beer (0.5 liter bottle),2.11,1.52-2.53,Markets,1.52,2.53,Rishon-Leziyyon
-128,Imported Beer (0.33 liter bottle),2.79,2.28-3.80,Markets,2.28,3.8,Rishon-Leziyyon
-129,Cigarettes 20 Pack (Marlboro),8.86,7.60-11.39,Markets,7.6,11.39,Rishon-Leziyyon
-130,One-way Ticket (Local Transport),1.49,1.39-1.52,Transportation,1.39,1.52,Rishon-Leziyyon
-131,Monthly Pass (Regular Price),54.44,53.68-56.97,Transportation,53.68,56.97,Rishon-Leziyyon
-132,Taxi Start (Normal Tariff),2.91,2.79-3.14,Transportation,2.79,3.14,Rishon-Leziyyon
-134,Gasoline (1 liter),1.78,1.67-1.84,Transportation,1.67,1.84,Rishon-Leziyyon
-136,Toyota Corolla Sedan 1.6l 97kW Comfort (Or Equivalent New Car),35785.91,34435.50-35448.31,Transportation,34435.5,35448.31,Rishon-Leziyyon
-137,"Basic (Electricity, Heating, Cooling, Water, Garbage) for 85m2 Apartment",210.25,151.92-329.16,Utilities (Monthly),151.92,329.16,Rishon-Leziyyon
-139,"Internet (60 Mbps or More, Unlimited Data, Cable/ADSL)",27.01,22.79-32.92,Utilities (Monthly),22.79,32.92,Rishon-Leziyyon
-140,"Fitness Club, Monthly Fee for 1 Adult",58.03,30.38-75.96,Sports And Leisure,30.38,75.96,Rishon-Leziyyon
-141,Tennis Court Rent (1 Hour on Weekend),8.86,7.60-10.13,Sports And Leisure,7.6,10.13,Rishon-Leziyyon
-142,"Cinema, International Release, 1 Seat",12.41,11.39-17.72,Sports And Leisure,11.39,17.72,Rishon-Leziyyon
-143,"Preschool (or Kindergarten), Full Day, Private, Monthly for 1 Child",753.28,557.04-886.21,Childcare,557.04,886.21,Rishon-Leziyyon
-144,1 Pair of Jeans (Levis 501 Or Similar),97.06,50.64-151.92,Clothing And Shoes,50.64,151.92,Rishon-Leziyyon
-145,"1 Summer Dress in a Chain Store (Zara, H&M, ...)",57.39,20.26-75.96,Clothing And Shoes,20.26,75.96,Rishon-Leziyyon
-146,1 Pair of Nike Running Shoes (Mid-Range),113.94,81.02-126.60,Clothing And Shoes,81.02,126.6,Rishon-Leziyyon
-147,1 Pair of Men Leather Business Shoes,122.38,88.62-151.92,Clothing And Shoes,88.62,151.92,Rishon-Leziyyon
-148,Apartment (1 bedroom) in City Centre,844.01,759.61-1012.81,Rent Per Month,759.61,1012.81,Rishon-Leziyyon
-149,Apartment (1 bedroom) Outside of Centre,717.41,633.01-886.21,Rent Per Month,633.01,886.21,Rishon-Leziyyon
-150,Apartment (3 bedrooms) in City Centre,1308.21,1139.41-1519.21,Rent Per Month,1139.41,1519.21,Rishon-Leziyyon
-151,Apartment (3 bedrooms) Outside of Centre,1194.27,1012.81-1468.57,Rent Per Month,1012.81,1468.57,Rishon-Leziyyon
-152,Price per Square Meter to Buy Apartment in City Centre,6752.06,6583.26-7089.66,Buy Apartment Price,6583.26,7089.66,Rishon-Leziyyon
-153,Price per Square Meter to Buy Apartment Outside of Centre,5823.65,5317.25-6330.06,Buy Apartment Price,5317.25,6330.06,Rishon-Leziyyon
-154,"Mortgage Interest Rate in Percentages (%), Yearly, for 20 Years Fixed-Rate",3.78,3.00-4.00,Salaries And Financing,3.0,4.0,Rishon-Leziyyon
+,Item,Average_Price_in_Eur,Range,Category,Minimum,Maximum,city,country
+0,"Meal, Inexpensive Restaurant",12.54,9.00-17.00,Restaurants,9.0,17.0,Paphos,Cyprus
+1,"Meal for 2 People, Mid-range Restaurant, Three-course",55.0,40.00-89.56,Restaurants,40.0,89.56,Paphos,Cyprus
+2,McMeal at McDonalds (or Equivalent Combo Meal),7.0,6.00-9.00,Restaurants,6.0,9.0,Paphos,Cyprus
+3,Domestic Beer (0.5 liter draught),3.0,2.00-4.00,Restaurants,2.0,4.0,Paphos,Cyprus
+4,Imported Beer (0.33 liter bottle),3.0,2.50-4.50,Restaurants,2.5,4.5,Paphos,Cyprus
+5,Cappuccino (regular),3.25,2.50-4.00,Restaurants,2.5,4.0,Paphos,Cyprus
+6,Coke/Pepsi (0.33 liter bottle),2.11,1.50-2.69,Restaurants,1.5,2.69,Paphos,Cyprus
+7,Water (0.33 liter bottle),0.91,0.50-2.00,Restaurants,0.5,2.0,Paphos,Cyprus
+8,"Milk (regular), (1 liter)",1.53,1.33-2.00,Markets,1.33,2.0,Paphos,Cyprus
+9,Loaf of Fresh White Bread (500g),1.27,0.65-2.50,Markets,0.65,2.5,Paphos,Cyprus
+10,"Rice (white), (1kg)",1.95,1.25-2.65,Markets,1.25,2.65,Paphos,Cyprus
+11,Eggs (regular) (12),3.14,2.35-4.80,Markets,2.35,4.8,Paphos,Cyprus
+12,Local Cheese (1kg),9.46,4.50-17.48,Markets,4.5,17.48,Paphos,Cyprus
+13,Chicken Fillets (1kg),7.25,6.00-9.00,Markets,6.0,9.0,Paphos,Cyprus
+14,Beef Round (1kg) (or Equivalent Back Leg Red Meat),8.6,6.00-11.61,Markets,6.0,11.61,Paphos,Cyprus
+15,Apples (1kg),2.06,1.00-3.00,Markets,1.0,3.0,Paphos,Cyprus
+16,Banana (1kg),1.27,0.90-3.00,Markets,0.9,3.0,Paphos,Cyprus
+17,Oranges (1kg),1.5,0.40-4.55,Markets,0.4,4.55,Paphos,Cyprus
+18,Tomato (1kg),2.09,0.99-5.00,Markets,0.99,5.0,Paphos,Cyprus
+19,Potato (1kg),0.76,0.35-1.50,Markets,0.35,1.5,Paphos,Cyprus
+20,Onion (1kg),0.73,0.45-0.85,Markets,0.45,0.85,Paphos,Cyprus
+21,Lettuce (1 head),0.51,0.35-1.00,Markets,0.35,1.0,Paphos,Cyprus
+22,Water (1.5 liter bottle),0.82,0.45-1.73,Markets,0.45,1.73,Paphos,Cyprus
+23,Bottle of Wine (Mid-Range),6.0,4.00-12.00,Markets,4.0,12.0,Paphos,Cyprus
+24,Domestic Beer (0.5 liter bottle),1.17,0.83-2.00,Markets,0.83,2.0,Paphos,Cyprus
+25,Imported Beer (0.33 liter bottle),1.67,1.00-3.00,Markets,1.0,3.0,Paphos,Cyprus
+26,Cigarettes 20 Pack (Marlboro),4.95,4.50-5.81,Markets,4.5,5.81,Paphos,Cyprus
+27,One-way Ticket (Local Transport),1.5,1.50-1.50,Transportation,1.5,1.5,Paphos,Cyprus
+28,Monthly Pass (Regular Price),41.0,40.00-45.00,Transportation,40.0,45.0,Paphos,Cyprus
+29,Taxi Start (Normal Tariff),9.0,6.00-10.00,Transportation,6.0,10.0,Paphos,Cyprus
+31,Gasoline (1 liter),1.51,1.32-1.82,Transportation,1.32,1.82,Paphos,Cyprus
+32,Toyota Corolla Sedan 1.6l 97kW Comfort (Or Equivalent New Car),27633.33,29500.00-32400.00,Transportation,29500.0,32400.0,Paphos,Cyprus
+33,"Basic (Electricity, Heating, Cooling, Water, Garbage) for 85m2 Apartment",127.5,90.00-194.29,Utilities (Monthly),90.0,194.29,Paphos,Cyprus
+34,Mobile Phone Monthly Plan with Calls and 10GB+ Data,19.99,19.99-19.99,Utilities (Monthly),19.99,19.99,Paphos,Cyprus
+35,"Internet (60 Mbps or More, Unlimited Data, Cable/ADSL)",35.42,30.00-50.00,Utilities (Monthly),30.0,50.0,Paphos,Cyprus
+36,"Fitness Club, Monthly Fee for 1 Adult",52.14,45.00-65.00,Sports And Leisure,45.0,65.0,Paphos,Cyprus
+38,"Cinema, International Release, 1 Seat",9.5,8.00-10.00,Sports And Leisure,8.0,10.0,Paphos,Cyprus
+39,"Preschool (or Kindergarten), Full Day, Private, Monthly for 1 Child",339.38,220.00-450.00,Childcare,220.0,450.0,Paphos,Cyprus
+41,1 Pair of Jeans (Levis 501 Or Similar),92.5,50.00-130.00,Clothing And Shoes,50.0,130.0,Paphos,Cyprus
+42,"1 Summer Dress in a Chain Store (Zara, H&M, ...)",41.67,25.00-65.00,Clothing And Shoes,25.0,65.0,Paphos,Cyprus
+43,1 Pair of Nike Running Shoes (Mid-Range),77.5,40.00-109.00,Clothing And Shoes,40.0,109.0,Paphos,Cyprus
+44,1 Pair of Men Leather Business Shoes,91.0,40.00-129.95,Clothing And Shoes,40.0,129.95,Paphos,Cyprus
+45,Apartment (1 bedroom) in City Centre,739.47,450.00-1100.00,Rent Per Month,450.0,1100.0,Paphos,Cyprus
+46,Apartment (1 bedroom) Outside of Centre,533.33,350.00-900.00,Rent Per Month,350.0,900.0,Paphos,Cyprus
+47,Apartment (3 bedrooms) in City Centre,1381.25,900.00-2000.00,Rent Per Month,900.0,2000.0,Paphos,Cyprus
+48,Apartment (3 bedrooms) Outside of Centre,1175.0,850.00-2000.00,Rent Per Month,850.0,2000.0,Paphos,Cyprus
+49,Price per Square Meter to Buy Apartment in City Centre,2307.25,1200.00-4429.00,Buy Apartment Price,1200.0,4429.0,Paphos,Cyprus
+50,Price per Square Meter to Buy Apartment Outside of Centre,1230.0,850.00-3696.00,Buy Apartment Price,850.0,3696.0,Paphos,Cyprus
+51,"Mortgage Interest Rate in Percentages (%), Yearly, for 20 Years Fixed-Rate",3.27,1.75-5.55,Salaries And Financing,1.75,5.55,Paphos,Cyprus
+52,"Meal, Inexpensive Restaurant",15.39,14.11-25.66,Restaurants,14.11,25.66,Rehovot,Israel
+53,"Meal for 2 People, Mid-range Restaurant, Three-course",76.97,64.14-128.28,Restaurants,64.14,128.28,Rehovot,Israel
+54,McMeal at McDonalds (or Equivalent Combo Meal),12.06,10.78-13.85,Restaurants,10.78,13.85,Rehovot,Israel
+55,Domestic Beer (0.5 liter draught),7.7,6.93-8.98,Restaurants,6.93,8.98,Rehovot,Israel
+56,Imported Beer (0.33 liter bottle),6.8,3.85-8.21,Restaurants,3.85,8.21,Rehovot,Israel
+57,Cappuccino (regular),3.37,2.57-3.85,Restaurants,2.57,3.85,Rehovot,Israel
+58,Coke/Pepsi (0.33 liter bottle),2.57,2.05-3.08,Restaurants,2.05,3.08,Rehovot,Israel
+59,Water (0.33 liter bottle),2.16,1.80-2.57,Restaurants,1.8,2.57,Rehovot,Israel
+60,"Milk (regular), (1 liter)",1.57,1.28-1.80,Markets,1.28,1.8,Rehovot,Israel
+61,Loaf of Fresh White Bread (500g),1.49,0.96-2.41,Markets,0.96,2.41,Rehovot,Israel
+62,"Rice (white), (1kg)",2.41,2.05-2.57,Markets,2.05,2.57,Rehovot,Israel
+63,Eggs (regular) (12),3.29,3.03-3.69,Markets,3.03,3.69,Rehovot,Israel
+64,Local Cheese (1kg),14.85,10.26-25.66,Markets,10.26,25.66,Rehovot,Israel
+65,Chicken Fillets (1kg),9.6,7.18-12.83,Markets,7.18,12.83,Rehovot,Israel
+66,Beef Round (1kg) (or Equivalent Back Leg Red Meat),20.05,12.83-25.66,Markets,12.83,25.66,Rehovot,Israel
+67,Apples (1kg),3.04,2.31-3.85,Markets,2.31,3.85,Rehovot,Israel
+68,Banana (1kg),2.28,1.54-3.34,Markets,1.54,3.34,Rehovot,Israel
+69,Oranges (1kg),1.99,1.03-3.08,Markets,1.03,3.08,Rehovot,Israel
+70,Tomato (1kg),1.96,1.28-2.82,Markets,1.28,2.82,Rehovot,Israel
+71,Potato (1kg),1.2,0.77-2.05,Markets,0.77,2.05,Rehovot,Israel
+72,Onion (1kg),1.15,0.77-1.51,Markets,0.77,1.51,Rehovot,Israel
+73,Lettuce (1 head),1.6,1.03-2.57,Markets,1.03,2.57,Rehovot,Israel
+74,Water (1.5 liter bottle),0.87,0.51-2.57,Markets,0.51,2.57,Rehovot,Israel
+75,Bottle of Wine (Mid-Range),11.55,7.70-20.52,Markets,7.7,20.52,Rehovot,Israel
+76,Domestic Beer (0.5 liter bottle),2.17,1.28-3.08,Markets,1.28,3.08,Rehovot,Israel
+77,Imported Beer (0.33 liter bottle),2.5,1.54-6.41,Markets,1.54,6.41,Rehovot,Israel
+78,Cigarettes 20 Pack (Marlboro),9.75,9.36-10.26,Markets,9.36,10.26,Rehovot,Israel
+79,One-way Ticket (Local Transport),1.49,1.41-1.54,Transportation,1.41,1.54,Rehovot,Israel
+80,Monthly Pass (Regular Price),56.44,41.05-71.84,Transportation,41.05,71.84,Rehovot,Israel
+81,Taxi Start (Normal Tariff),7.18,3.08-11.55,Transportation,3.08,11.55,Rehovot,Israel
+83,Gasoline (1 liter),1.77,1.62-2.00,Transportation,1.62,2.0,Rehovot,Israel
+85,Toyota Corolla Sedan 1.6l 97kW Comfort (Or Equivalent New Car),38483.97,35918.37-38483.97,Transportation,35918.37,38483.97,Rehovot,Israel
+86,"Basic (Electricity, Heating, Cooling, Water, Garbage) for 85m2 Apartment",225.76,128.28-299.85,Utilities (Monthly),128.28,299.85,Rehovot,Israel
+87,Mobile Phone Monthly Plan with Calls and 10GB+ Data,12.57,12.57-12.57,Utilities (Monthly),12.57,12.57,Rehovot,Israel
+88,"Internet (60 Mbps or More, Unlimited Data, Cable/ADSL)",24.52,20.52-30.79,Utilities (Monthly),20.52,30.79,Rehovot,Israel
+89,"Fitness Club, Monthly Fee for 1 Adult",59.01,25.40-102.62,Sports And Leisure,25.4,102.62,Rehovot,Israel
+90,"Cinema, International Release, 1 Seat",10.26,8.98-10.26,Sports And Leisure,8.98,10.26,Rehovot,Israel
+91,"Preschool (or Kindergarten), Full Day, Private, Monthly for 1 Child",835.65,769.68-923.62,Childcare,769.68,923.62,Rehovot,Israel
+92,1 Pair of Jeans (Levis 501 Or Similar),99.63,48.75-115.45,Clothing And Shoes,48.75,115.45,Rehovot,Israel
+93,"1 Summer Dress in a Chain Store (Zara, H&M, ...)",45.75,30.79-51.31,Clothing And Shoes,30.79,51.31,Rehovot,Israel
+94,1 Pair of Nike Running Shoes (Mid-Range),106.29,89.80-128.28,Clothing And Shoes,89.8,128.28,Rehovot,Israel
+95,1 Pair of Men Leather Business Shoes,130.85,89.80-205.25,Clothing And Shoes,89.8,205.25,Rehovot,Israel
+96,Apartment (1 bedroom) in City Centre,865.89,769.68-923.62,Rent Per Month,769.68,923.62,Rehovot,Israel
+97,Apartment (1 bedroom) Outside of Centre,737.61,641.40-769.68,Rent Per Month,641.4,769.68,Rehovot,Israel
+98,Apartment (3 bedrooms) in City Centre,1344.37,1282.80-1667.64,Rent Per Month,1282.8,1667.64,Rehovot,Israel
+99,Apartment (3 bedrooms) Outside of Centre,1196.21,974.93-1411.08,Rent Per Month,974.93,1411.08,Rehovot,Israel
+100,Price per Square Meter to Buy Apartment in City Centre,5387.76,4618.08-6414.00,Buy Apartment Price,4618.08,6414.0,Rehovot,Israel
+101,Price per Square Meter to Buy Apartment Outside of Centre,5387.76,4618.08-6414.00,Buy Apartment Price,4618.08,6414.0,Rehovot,Israel
+102,"Mortgage Interest Rate in Percentages (%), Yearly, for 20 Years Fixed-Rate",4.1,2.46-5.00,Salaries And Financing,2.46,5.0,Rehovot,Israel
+103,"Meal, Inexpensive Restaurant",16.68,12.83-25.66,Restaurants,12.83,25.66,Rishon-Leziyyon,Israel
+104,"Meal for 2 People, Mid-range Restaurant, Three-course",64.14,64.14-153.94,Restaurants,64.14,153.94,Rishon-Leziyyon,Israel
+105,McMeal at McDonalds (or Equivalent Combo Meal),12.83,12.83-15.39,Restaurants,12.83,15.39,Rishon-Leziyyon,Israel
+106,Domestic Beer (0.5 liter draught),7.18,5.13-8.98,Restaurants,5.13,8.98,Rishon-Leziyyon,Israel
+107,Imported Beer (0.33 liter bottle),5.13,5.13-6.41,Restaurants,5.13,6.41,Rishon-Leziyyon,Israel
+108,Cappuccino (regular),3.34,1.80-3.85,Restaurants,1.8,3.85,Rishon-Leziyyon,Israel
+109,Coke/Pepsi (0.33 liter bottle),2.27,1.54-3.59,Restaurants,1.54,3.59,Rishon-Leziyyon,Israel
+110,Water (0.33 liter bottle),1.74,1.28-3.08,Restaurants,1.28,3.08,Rishon-Leziyyon,Israel
+111,"Milk (regular), (1 liter)",1.61,1.28-2.31,Markets,1.28,2.31,Rishon-Leziyyon,Israel
+112,Loaf of Fresh White Bread (500g),2.25,1.28-3.34,Markets,1.28,3.34,Rishon-Leziyyon,Israel
+113,"Rice (white), (1kg)",2.57,2.05-2.57,Markets,2.05,2.57,Rishon-Leziyyon,Israel
+114,Eggs (regular) (12),3.23,2.95-3.69,Markets,2.95,3.69,Rishon-Leziyyon,Israel
+115,Local Cheese (1kg),15.07,10.78-20.52,Markets,10.78,20.52,Rishon-Leziyyon,Israel
+116,Chicken Fillets (1kg),8.77,6.41-10.26,Markets,6.41,10.26,Rishon-Leziyyon,Israel
+117,Beef Round (1kg) (or Equivalent Back Leg Red Meat),17.45,12.83-23.09,Markets,12.83,23.09,Rishon-Leziyyon,Israel
+118,Apples (1kg),2.64,2.05-3.05,Markets,2.05,3.05,Rishon-Leziyyon,Israel
+119,Banana (1kg),1.78,1.28-2.57,Markets,1.28,2.57,Rishon-Leziyyon,Israel
+120,Oranges (1kg),1.47,1.03-2.57,Markets,1.03,2.57,Rishon-Leziyyon,Israel
+121,Tomato (1kg),1.56,1.03-2.57,Markets,1.03,2.57,Rishon-Leziyyon,Israel
+122,Potato (1kg),1.3,1.03-1.41,Markets,1.03,1.41,Rishon-Leziyyon,Israel
+123,Onion (1kg),1.07,0.77-1.28,Markets,0.77,1.28,Rishon-Leziyyon,Israel
+124,Lettuce (1 head),2.31,1.03-3.08,Markets,1.03,3.08,Rishon-Leziyyon,Israel
+125,Water (1.5 liter bottle),1.15,0.69-2.05,Markets,0.69,2.05,Rishon-Leziyyon,Israel
+126,Bottle of Wine (Mid-Range),10.26,7.70-15.39,Markets,7.7,15.39,Rishon-Leziyyon,Israel
+127,Domestic Beer (0.5 liter bottle),2.14,1.54-2.57,Markets,1.54,2.57,Rishon-Leziyyon,Israel
+128,Imported Beer (0.33 liter bottle),2.82,2.31-3.85,Markets,2.31,3.85,Rishon-Leziyyon,Israel
+129,Cigarettes 20 Pack (Marlboro),8.98,7.70-11.55,Markets,7.7,11.55,Rishon-Leziyyon,Israel
+130,One-way Ticket (Local Transport),1.51,1.41-1.54,Transportation,1.41,1.54,Rishon-Leziyyon,Israel
+131,Monthly Pass (Regular Price),55.16,54.39-57.73,Transportation,54.39,57.73,Rishon-Leziyyon,Israel
+132,Taxi Start (Normal Tariff),2.95,2.82-3.18,Transportation,2.82,3.18,Rishon-Leziyyon,Israel
+134,Gasoline (1 liter),1.8,1.69-1.86,Transportation,1.69,1.86,Rishon-Leziyyon,Israel
+136,Toyota Corolla Sedan 1.6l 97kW Comfort (Or Equivalent New Car),36260.45,34892.13-35918.37,Transportation,34892.13,35918.37,Rishon-Leziyyon,Israel
+137,"Basic (Electricity, Heating, Cooling, Water, Garbage) for 85m2 Apartment",213.04,153.94-333.53,Utilities (Monthly),153.94,333.53,Rishon-Leziyyon,Israel
+138,Mobile Phone Monthly Plan with Calls and 10GB+ Data,12.57,12.57-12.57,Utilities (Monthly),12.57,12.57,Rishon-Leziyyon,Israel
+139,"Internet (60 Mbps or More, Unlimited Data, Cable/ADSL)",27.37,23.09-33.35,Utilities (Monthly),23.09,33.35,Rishon-Leziyyon,Israel
+140,"Fitness Club, Monthly Fee for 1 Adult",58.79,30.79-76.97,Sports And Leisure,30.79,76.97,Rishon-Leziyyon,Israel
+142,"Cinema, International Release, 1 Seat",12.57,11.55-17.96,Sports And Leisure,11.55,17.96,Rishon-Leziyyon,Israel
+143,"Preschool (or Kindergarten), Full Day, Private, Monthly for 1 Child",763.27,564.43-897.96,Childcare,564.43,897.96,Rishon-Leziyyon,Israel
+144,1 Pair of Jeans (Levis 501 Or Similar),98.35,51.31-153.94,Clothing And Shoes,51.31,153.94,Rishon-Leziyyon,Israel
+145,"1 Summer Dress in a Chain Store (Zara, H&M, ...)",58.15,20.52-76.97,Clothing And Shoes,20.52,76.97,Rishon-Leziyyon,Israel
+146,1 Pair of Nike Running Shoes (Mid-Range),115.45,82.10-128.28,Clothing And Shoes,82.1,128.28,Rishon-Leziyyon,Israel
+147,1 Pair of Men Leather Business Shoes,124.0,89.80-153.94,Clothing And Shoes,89.8,153.94,Rishon-Leziyyon,Israel
+148,Apartment (1 bedroom) in City Centre,855.2,769.68-1026.24,Rent Per Month,769.68,1026.24,Rishon-Leziyyon,Israel
+149,Apartment (1 bedroom) Outside of Centre,726.92,641.40-897.96,Rent Per Month,641.4,897.96,Rishon-Leziyyon,Israel
+150,Apartment (3 bedrooms) in City Centre,1325.56,1154.52-1539.36,Rent Per Month,1154.52,1539.36,Rishon-Leziyyon,Israel
+151,Apartment (3 bedrooms) Outside of Centre,1210.11,1026.24-1488.05,Rent Per Month,1026.24,1488.05,Rishon-Leziyyon,Israel
+152,Price per Square Meter to Buy Apartment in City Centre,6841.6,6670.56-7183.67,Buy Apartment Price,6670.56,7183.67,Rishon-Leziyyon,Israel
+153,Price per Square Meter to Buy Apartment Outside of Centre,5900.88,5387.76-6414.00,Buy Apartment Price,5387.76,6414.0,Rishon-Leziyyon,Israel
+154,"Mortgage Interest Rate in Percentages (%), Yearly, for 20 Years Fixed-Rate",3.78,3.00-4.00,Salaries And Financing,3.0,4.0,Rishon-Leziyyon,Israel
+155,"Meal, Inexpensive Restaurant",15.0,10.00-30.00,Restaurants,10.0,30.0,Larnaca,Cyprus
+156,"Meal for 2 People, Mid-range Restaurant, Three-course",50.0,40.00-70.00,Restaurants,40.0,70.0,Larnaca,Cyprus
+157,McMeal at McDonalds (or Equivalent Combo Meal),8.0,6.00-8.00,Restaurants,6.0,8.0,Larnaca,Cyprus
+158,Domestic Beer (0.5 liter draught),4.0,2.00-5.00,Restaurants,2.0,5.0,Larnaca,Cyprus
+159,Imported Beer (0.33 liter bottle),5.0,2.69-6.00,Restaurants,2.69,6.0,Larnaca,Cyprus
+160,Cappuccino (regular),3.8,2.00-5.38,Restaurants,2.0,5.38,Larnaca,Cyprus
+161,Coke/Pepsi (0.33 liter bottle),2.01,1.00-3.59,Restaurants,1.0,3.59,Larnaca,Cyprus
+162,Water (0.33 liter bottle),0.98,0.50-2.00,Restaurants,0.5,2.0,Larnaca,Cyprus
+163,"Milk (regular), (1 liter)",1.83,1.15-2.50,Markets,1.15,2.5,Larnaca,Cyprus
+164,Loaf of Fresh White Bread (500g),1.95,1.00-3.00,Markets,1.0,3.0,Larnaca,Cyprus
+165,"Rice (white), (1kg)",2.3,1.20-3.00,Markets,1.2,3.0,Larnaca,Cyprus
+166,Eggs (regular) (12),3.16,1.99-3.70,Markets,1.99,3.7,Larnaca,Cyprus
+167,Local Cheese (1kg),11.25,6.00-20.00,Markets,6.0,20.0,Larnaca,Cyprus
+168,Chicken Fillets (1kg),7.97,6.00-9.00,Markets,6.0,9.0,Larnaca,Cyprus
+169,Beef Round (1kg) (or Equivalent Back Leg Red Meat),11.59,8.00-13.00,Markets,8.0,13.0,Larnaca,Cyprus
+170,Apples (1kg),2.28,1.50-3.00,Markets,1.5,3.0,Larnaca,Cyprus
+171,Banana (1kg),1.81,0.99-3.00,Markets,0.99,3.0,Larnaca,Cyprus
+172,Oranges (1kg),1.89,0.85-2.50,Markets,0.85,2.5,Larnaca,Cyprus
+173,Tomato (1kg),2.49,1.80-4.00,Markets,1.8,4.0,Larnaca,Cyprus
+174,Potato (1kg),1.27,0.40-2.00,Markets,0.4,2.0,Larnaca,Cyprus
+175,Onion (1kg),1.3,0.70-2.00,Markets,0.7,2.0,Larnaca,Cyprus
+176,Lettuce (1 head),0.67,0.30-1.50,Markets,0.3,1.5,Larnaca,Cyprus
+177,Water (1.5 liter bottle),1.1,0.30-2.00,Markets,0.3,2.0,Larnaca,Cyprus
+178,Bottle of Wine (Mid-Range),6.75,4.00-12.00,Markets,4.0,12.0,Larnaca,Cyprus
+179,Domestic Beer (0.5 liter bottle),1.57,1.00-2.00,Markets,1.0,2.0,Larnaca,Cyprus
+180,Imported Beer (0.33 liter bottle),2.56,1.50-3.00,Markets,1.5,3.0,Larnaca,Cyprus
+181,Cigarettes 20 Pack (Marlboro),5.0,4.90-6.50,Markets,4.9,6.5,Larnaca,Cyprus
+182,One-way Ticket (Local Transport),2.0,1.50-2.50,Transportation,1.5,2.5,Larnaca,Cyprus
+183,Monthly Pass (Regular Price),40.0,40.00-45.00,Transportation,40.0,45.0,Larnaca,Cyprus
+184,Taxi Start (Normal Tariff),5.5,5.00-7.00,Transportation,5.0,7.0,Larnaca,Cyprus
+187,Gasoline (1 liter),1.54,1.32-1.80,Transportation,1.32,1.8,Larnaca,Cyprus
+189,Toyota Corolla Sedan 1.6l 97kW Comfort (Or Equivalent New Car),31633.33,27900.00-32000.00,Transportation,27900.0,32000.0,Larnaca,Cyprus
+190,"Basic (Electricity, Heating, Cooling, Water, Garbage) for 85m2 Apartment",196.69,115.00-300.00,Utilities (Monthly),115.0,300.0,Larnaca,Cyprus
+191,Mobile Phone Monthly Plan with Calls and 10GB+ Data,19.99,19.99-19.99,Utilities (Monthly),19.99,19.99,Larnaca,Cyprus
+192,"Internet (60 Mbps or More, Unlimited Data, Cable/ADSL)",34.62,30.00-50.00,Utilities (Monthly),30.0,50.0,Larnaca,Cyprus
+193,"Fitness Club, Monthly Fee for 1 Adult",56.1,40.00-73.00,Sports And Leisure,40.0,73.0,Larnaca,Cyprus
+195,"Cinema, International Release, 1 Seat",11.5,9.00-12.00,Sports And Leisure,9.0,12.0,Larnaca,Cyprus
+196,"Preschool (or Kindergarten), Full Day, Private, Monthly for 1 Child",350.0,290.00-500.00,Childcare,290.0,500.0,Larnaca,Cyprus
+198,1 Pair of Jeans (Levis 501 Or Similar),90.0,50.00-110.00,Clothing And Shoes,50.0,110.0,Larnaca,Cyprus
+199,"1 Summer Dress in a Chain Store (Zara, H&M, ...)",37.86,30.00-50.00,Clothing And Shoes,30.0,50.0,Larnaca,Cyprus
+200,1 Pair of Nike Running Shoes (Mid-Range),86.5,60.00-120.00,Clothing And Shoes,60.0,120.0,Larnaca,Cyprus
+201,1 Pair of Men Leather Business Shoes,91.25,70.00-120.00,Clothing And Shoes,70.0,120.0,Larnaca,Cyprus
+202,Apartment (1 bedroom) in City Centre,838.57,540.00-1100.00,Rent Per Month,540.0,1100.0,Larnaca,Cyprus
+203,Apartment (1 bedroom) Outside of Centre,618.0,450.00-850.00,Rent Per Month,450.0,850.0,Larnaca,Cyprus
+204,Apartment (3 bedrooms) in City Centre,1507.14,800.00-3000.00,Rent Per Month,800.0,3000.0,Larnaca,Cyprus
+205,Apartment (3 bedrooms) Outside of Centre,1100.0,700.00-1800.00,Rent Per Month,700.0,1800.0,Larnaca,Cyprus
+206,Price per Square Meter to Buy Apartment in City Centre,1975.0,1650.00-2200.00,Buy Apartment Price,1650.0,2200.0,Larnaca,Cyprus
+207,Price per Square Meter to Buy Apartment Outside of Centre,1358.33,1100.00-1600.00,Buy Apartment Price,1100.0,1600.0,Larnaca,Cyprus
+208,"Mortgage Interest Rate in Percentages (%), Yearly, for 20 Years Fixed-Rate",2.83,2.00-3.50,Salaries And Financing,2.0,3.5,Larnaca,Cyprus
+209,"Meal, Inexpensive Restaurant",12.5,7.50-15.00,Restaurants,7.5,15.0,Nicosia,Cyprus
+210,"Meal for 2 People, Mid-range Restaurant, Three-course",50.0,40.00-65.00,Restaurants,40.0,65.0,Nicosia,Cyprus
+211,McMeal at McDonalds (or Equivalent Combo Meal),7.0,6.00-8.00,Restaurants,6.0,8.0,Nicosia,Cyprus
+212,Domestic Beer (0.5 liter draught),4.0,2.00-6.00,Restaurants,2.0,6.0,Nicosia,Cyprus
+213,Imported Beer (0.33 liter bottle),5.0,3.50-6.00,Restaurants,3.5,6.0,Nicosia,Cyprus
+214,Cappuccino (regular),3.21,2.50-4.00,Restaurants,2.5,4.0,Nicosia,Cyprus
+215,Coke/Pepsi (0.33 liter bottle),1.37,1.00-2.00,Restaurants,1.0,2.0,Nicosia,Cyprus
+216,Water (0.33 liter bottle),0.65,0.50-1.00,Restaurants,0.5,1.0,Nicosia,Cyprus
+217,"Milk (regular), (1 liter)",1.49,1.15-2.00,Markets,1.15,2.0,Nicosia,Cyprus
+218,Loaf of Fresh White Bread (500g),1.79,0.90-2.20,Markets,0.9,2.2,Nicosia,Cyprus
+219,"Rice (white), (1kg)",2.46,1.30-3.00,Markets,1.3,3.0,Nicosia,Cyprus
+220,Eggs (regular) (12),3.05,2.20-4.20,Markets,2.2,4.2,Nicosia,Cyprus
+221,Local Cheese (1kg),9.7,5.00-13.00,Markets,5.0,13.0,Nicosia,Cyprus
+222,Chicken Fillets (1kg),7.64,6.00-9.62,Markets,6.0,9.62,Nicosia,Cyprus
+223,Beef Round (1kg) (or Equivalent Back Leg Red Meat),8.77,7.00-12.00,Markets,7.0,12.0,Nicosia,Cyprus
+224,Apples (1kg),2.68,2.00-3.00,Markets,2.0,3.0,Nicosia,Cyprus
+225,Banana (1kg),1.77,1.25-2.10,Markets,1.25,2.1,Nicosia,Cyprus
+226,Oranges (1kg),1.88,0.50-3.99,Markets,0.5,3.99,Nicosia,Cyprus
+227,Tomato (1kg),2.51,1.00-5.00,Markets,1.0,5.0,Nicosia,Cyprus
+228,Potato (1kg),1.14,0.49-3.00,Markets,0.49,3.0,Nicosia,Cyprus
+229,Onion (1kg),0.92,0.60-1.30,Markets,0.6,1.3,Nicosia,Cyprus
+230,Lettuce (1 head),0.44,0.30-0.80,Markets,0.3,0.8,Nicosia,Cyprus
+231,Water (1.5 liter bottle),0.95,0.50-2.00,Markets,0.5,2.0,Nicosia,Cyprus
+232,Bottle of Wine (Mid-Range),7.0,4.00-12.00,Markets,4.0,12.0,Nicosia,Cyprus
+233,Domestic Beer (0.5 liter bottle),1.56,1.00-2.00,Markets,1.0,2.0,Nicosia,Cyprus
+234,Imported Beer (0.33 liter bottle),2.41,1.00-3.00,Markets,1.0,3.0,Nicosia,Cyprus
+235,Cigarettes 20 Pack (Marlboro),5.0,4.60-5.00,Markets,4.6,5.0,Nicosia,Cyprus
+236,One-way Ticket (Local Transport),2.0,1.50-2.00,Transportation,1.5,2.0,Nicosia,Cyprus
+237,Monthly Pass (Regular Price),40.0,37.00-60.00,Transportation,37.0,60.0,Nicosia,Cyprus
+238,Taxi Start (Normal Tariff),3.46,2.20-4.50,Transportation,2.2,4.5,Nicosia,Cyprus
+241,Gasoline (1 liter),1.46,1.32-1.80,Transportation,1.32,1.8,Nicosia,Cyprus
+243,Toyota Corolla Sedan 1.6l 97kW Comfort (Or Equivalent New Car),26716.67,24150.00-26000.00,Transportation,24150.0,26000.0,Nicosia,Cyprus
+244,"Basic (Electricity, Heating, Cooling, Water, Garbage) for 85m2 Apartment",169.07,110.00-300.00,Utilities (Monthly),110.0,300.0,Nicosia,Cyprus
+245,Mobile Phone Monthly Plan with Calls and 10GB+ Data,19.99,19.99-19.99,Utilities (Monthly),19.99,19.99,Nicosia,Cyprus
+246,"Internet (60 Mbps or More, Unlimited Data, Cable/ADSL)",30.25,25.00-50.00,Utilities (Monthly),25.0,50.0,Nicosia,Cyprus
+247,"Fitness Club, Monthly Fee for 1 Adult",57.81,40.00-80.00,Sports And Leisure,40.0,80.0,Nicosia,Cyprus
+249,"Cinema, International Release, 1 Seat",9.5,8.00-12.50,Sports And Leisure,8.0,12.5,Nicosia,Cyprus
+250,"Preschool (or Kindergarten), Full Day, Private, Monthly for 1 Child",341.67,250.00-450.00,Childcare,250.0,450.0,Nicosia,Cyprus
+252,1 Pair of Jeans (Levis 501 Or Similar),77.5,40.00-120.00,Clothing And Shoes,40.0,120.0,Nicosia,Cyprus
+253,"1 Summer Dress in a Chain Store (Zara, H&M, ...)",35.42,20.00-65.00,Clothing And Shoes,20.0,65.0,Nicosia,Cyprus
+254,1 Pair of Nike Running Shoes (Mid-Range),80.0,50.00-120.00,Clothing And Shoes,50.0,120.0,Nicosia,Cyprus
+255,1 Pair of Men Leather Business Shoes,93.85,60.00-125.00,Clothing And Shoes,60.0,125.0,Nicosia,Cyprus
+256,Apartment (1 bedroom) in City Centre,611.92,500.00-1000.00,Rent Per Month,500.0,1000.0,Nicosia,Cyprus
+257,Apartment (1 bedroom) Outside of Centre,505.48,400.00-800.00,Rent Per Month,400.0,800.0,Nicosia,Cyprus
+258,Apartment (3 bedrooms) in City Centre,1190.48,850.00-2000.00,Rent Per Month,850.0,2000.0,Nicosia,Cyprus
+259,Apartment (3 bedrooms) Outside of Centre,943.68,700.00-1500.00,Rent Per Month,700.0,1500.0,Nicosia,Cyprus
+260,Price per Square Meter to Buy Apartment in City Centre,2466.67,2000.00-3500.00,Buy Apartment Price,2000.0,3500.0,Nicosia,Cyprus
+261,Price per Square Meter to Buy Apartment Outside of Centre,1750.0,1400.00-2200.00,Buy Apartment Price,1400.0,2200.0,Nicosia,Cyprus
+262,"Mortgage Interest Rate in Percentages (%), Yearly, for 20 Years Fixed-Rate",2.89,2.40-3.30,Salaries And Financing,2.4,3.3,Nicosia,Cyprus
+263,"Meal, Inexpensive Restaurant",15.0,8.00-25.00,Restaurants,8.0,25.0,Limassol,Cyprus
+264,"Meal for 2 People, Mid-range Restaurant, Three-course",60.0,50.00-80.00,Restaurants,50.0,80.0,Limassol,Cyprus
+265,McMeal at McDonalds (or Equivalent Combo Meal),7.0,6.50-8.00,Restaurants,6.5,8.0,Limassol,Cyprus
+266,Domestic Beer (0.5 liter draught),3.0,2.00-5.00,Restaurants,2.0,5.0,Limassol,Cyprus
+267,Imported Beer (0.33 liter bottle),4.0,3.00-6.00,Restaurants,3.0,6.0,Limassol,Cyprus
+268,Cappuccino (regular),3.29,2.00-5.00,Restaurants,2.0,5.0,Limassol,Cyprus
+269,Coke/Pepsi (0.33 liter bottle),1.66,1.00-3.00,Restaurants,1.0,3.0,Limassol,Cyprus
+270,Water (0.33 liter bottle),0.8,0.50-1.00,Restaurants,0.5,1.0,Limassol,Cyprus
+271,"Milk (regular), (1 liter)",1.6,1.00-2.50,Markets,1.0,2.5,Limassol,Cyprus
+272,Loaf of Fresh White Bread (500g),1.76,0.99-3.00,Markets,0.99,3.0,Limassol,Cyprus
+273,"Rice (white), (1kg)",2.09,1.00-3.00,Markets,1.0,3.0,Limassol,Cyprus
+274,Eggs (regular) (12),3.43,2.00-4.80,Markets,2.0,4.8,Limassol,Cyprus
+275,Local Cheese (1kg),11.18,8.00-20.00,Markets,8.0,20.0,Limassol,Cyprus
+276,Chicken Fillets (1kg),7.76,4.50-9.95,Markets,4.5,9.95,Limassol,Cyprus
+277,Beef Round (1kg) (or Equivalent Back Leg Red Meat),11.43,7.00-20.00,Markets,7.0,20.0,Limassol,Cyprus
+278,Apples (1kg),2.45,1.50-3.00,Markets,1.5,3.0,Limassol,Cyprus
+279,Banana (1kg),1.7,1.20-3.00,Markets,1.2,3.0,Limassol,Cyprus
+280,Oranges (1kg),1.58,1.00-2.50,Markets,1.0,2.5,Limassol,Cyprus
+281,Tomato (1kg),2.95,1.00-4.00,Markets,1.0,4.0,Limassol,Cyprus
+282,Potato (1kg),1.26,0.50-2.00,Markets,0.5,2.0,Limassol,Cyprus
+283,Onion (1kg),1.08,0.50-1.50,Markets,0.5,1.5,Limassol,Cyprus
+284,Lettuce (1 head),0.82,0.40-1.25,Markets,0.4,1.25,Limassol,Cyprus
+285,Water (1.5 liter bottle),0.81,0.30-2.00,Markets,0.3,2.0,Limassol,Cyprus
+286,Bottle of Wine (Mid-Range),7.0,4.00-12.00,Markets,4.0,12.0,Limassol,Cyprus
+287,Domestic Beer (0.5 liter bottle),1.58,1.00-2.00,Markets,1.0,2.0,Limassol,Cyprus
+288,Imported Beer (0.33 liter bottle),2.38,1.00-3.50,Markets,1.0,3.5,Limassol,Cyprus
+289,Cigarettes 20 Pack (Marlboro),4.95,4.50-5.50,Markets,4.5,5.5,Limassol,Cyprus
+290,One-way Ticket (Local Transport),1.5,1.50-2.00,Transportation,1.5,2.0,Limassol,Cyprus
+291,Monthly Pass (Regular Price),40.0,40.00-45.00,Transportation,40.0,45.0,Limassol,Cyprus
+292,Taxi Start (Normal Tariff),5.0,4.00-8.00,Transportation,4.0,8.0,Limassol,Cyprus
+295,Gasoline (1 liter),1.62,1.40-1.88,Transportation,1.4,1.88,Limassol,Cyprus
+297,Toyota Corolla Sedan 1.6l 97kW Comfort (Or Equivalent New Car),21166.67,20000.00-24000.00,Transportation,20000.0,24000.0,Limassol,Cyprus
+298,"Basic (Electricity, Heating, Cooling, Water, Garbage) for 85m2 Apartment",229.89,141.67-300.00,Utilities (Monthly),141.67,300.0,Limassol,Cyprus
+299,Mobile Phone Monthly Plan with Calls and 10GB+ Data,19.99,19.99-19.99,Utilities (Monthly),19.99,19.99,Limassol,Cyprus
+300,"Internet (60 Mbps or More, Unlimited Data, Cable/ADSL)",35.0,25.00-50.00,Utilities (Monthly),25.0,50.0,Limassol,Cyprus
+301,"Fitness Club, Monthly Fee for 1 Adult",67.37,50.00-80.00,Sports And Leisure,50.0,80.0,Limassol,Cyprus
+303,"Cinema, International Release, 1 Seat",9.0,8.00-15.00,Sports And Leisure,8.0,15.0,Limassol,Cyprus
+304,"Preschool (or Kindergarten), Full Day, Private, Monthly for 1 Child",456.92,350.00-600.00,Childcare,350.0,600.0,Limassol,Cyprus
+306,1 Pair of Jeans (Levis 501 Or Similar),88.5,25.00-150.00,Clothing And Shoes,25.0,150.0,Limassol,Cyprus
+307,"1 Summer Dress in a Chain Store (Zara, H&M, ...)",44.15,28.00-60.00,Clothing And Shoes,28.0,60.0,Limassol,Cyprus
+308,1 Pair of Nike Running Shoes (Mid-Range),89.62,50.00-130.00,Clothing And Shoes,50.0,130.0,Limassol,Cyprus
+309,1 Pair of Men Leather Business Shoes,123.18,90.00-180.00,Clothing And Shoes,90.0,180.0,Limassol,Cyprus
+310,Apartment (1 bedroom) in City Centre,1532.86,1000.00-2000.00,Rent Per Month,1000.0,2000.0,Limassol,Cyprus
+311,Apartment (1 bedroom) Outside of Centre,1127.94,800.00-1700.00,Rent Per Month,800.0,1700.0,Limassol,Cyprus
+312,Apartment (3 bedrooms) in City Centre,2536.49,2000.00-3500.00,Rent Per Month,2000.0,3500.0,Limassol,Cyprus
+313,Apartment (3 bedrooms) Outside of Centre,2048.44,1500.00-3000.00,Rent Per Month,1500.0,3000.0,Limassol,Cyprus
+314,Price per Square Meter to Buy Apartment in City Centre,3300.0,2000.00-5000.00,Buy Apartment Price,2000.0,5000.0,Limassol,Cyprus
+315,Price per Square Meter to Buy Apartment Outside of Centre,2319.44,1500.00-3400.00,Buy Apartment Price,1500.0,3400.0,Limassol,Cyprus
+316,"Mortgage Interest Rate in Percentages (%), Yearly, for 20 Years Fixed-Rate",3.45,2.50-5.00,Salaries And Financing,2.5,5.0,Limassol,Cyprus
+317,"Meal, Inexpensive Restaurant",15.39,10.26-32.07,Restaurants,10.26,32.07,Haifa,Israel
+318,"Meal for 2 People, Mid-range Restaurant, Three-course",70.55,51.31-128.28,Restaurants,51.31,128.28,Haifa,Israel
+319,McMeal at McDonalds (or Equivalent Combo Meal),14.11,12.83-17.19,Restaurants,12.83,17.19,Haifa,Israel
+320,Domestic Beer (0.5 liter draught),7.7,4.62-8.98,Restaurants,4.62,8.98,Haifa,Israel
+321,Imported Beer (0.33 liter bottle),6.67,5.13-8.98,Restaurants,5.13,8.98,Haifa,Israel
+322,Cappuccino (regular),3.48,2.57-4.62,Restaurants,2.57,4.62,Haifa,Israel
+323,Coke/Pepsi (0.33 liter bottle),2.54,1.54-3.85,Restaurants,1.54,3.85,Haifa,Israel
+324,Water (0.33 liter bottle),2.08,1.54-2.57,Restaurants,1.54,2.57,Haifa,Israel
+325,"Milk (regular), (1 liter)",1.61,1.39-2.31,Markets,1.39,2.31,Haifa,Israel
+326,Loaf of Fresh White Bread (500g),2.5,1.28-3.85,Markets,1.28,3.85,Haifa,Israel
+327,"Rice (white), (1kg)",2.41,1.54-3.34,Markets,1.54,3.34,Haifa,Israel
+328,Eggs (regular) (12),3.49,2.67-4.00,Markets,2.67,4.0,Haifa,Israel
+329,Local Cheese (1kg),13.17,6.41-25.66,Markets,6.41,25.66,Haifa,Israel
+330,Chicken Fillets (1kg),9.3,7.44-11.55,Markets,7.44,11.55,Haifa,Israel
+331,Beef Round (1kg) (or Equivalent Back Leg Red Meat),17.35,11.55-24.37,Markets,11.55,24.37,Haifa,Israel
+332,Apples (1kg),2.4,1.28-3.85,Markets,1.28,3.85,Haifa,Israel
+333,Banana (1kg),2.0,1.15-3.96,Markets,1.15,3.96,Haifa,Israel
+334,Oranges (1kg),1.5,1.00-2.57,Markets,1.0,2.57,Haifa,Israel
+335,Tomato (1kg),1.65,1.03-2.31,Markets,1.03,2.31,Haifa,Israel
+336,Potato (1kg),1.08,0.76-1.54,Markets,0.76,1.54,Haifa,Israel
+337,Onion (1kg),0.96,0.74-1.41,Markets,0.74,1.41,Haifa,Israel
+338,Lettuce (1 head),1.57,0.90-2.57,Markets,0.9,2.57,Haifa,Israel
+339,Water (1.5 liter bottle),1.13,0.51-2.05,Markets,0.51,2.05,Haifa,Israel
+340,Bottle of Wine (Mid-Range),9.62,6.41-12.83,Markets,6.41,12.83,Haifa,Israel
+341,Domestic Beer (0.5 liter bottle),2.48,1.80-3.89,Markets,1.8,3.89,Haifa,Israel
+342,Imported Beer (0.33 liter bottle),2.95,1.80-4.10,Markets,1.8,4.1,Haifa,Israel
+343,Cigarettes 20 Pack (Marlboro),8.98,7.70-10.26,Markets,7.7,10.26,Haifa,Israel
+344,One-way Ticket (Local Transport),1.54,1.41-1.54,Transportation,1.41,1.54,Haifa,Israel
+345,Monthly Pass (Regular Price),56.44,53.36-64.14,Transportation,53.36,64.14,Haifa,Israel
+346,Taxi Start (Normal Tariff),6.41,3.08-10.26,Transportation,3.08,10.26,Haifa,Israel
+349,Gasoline (1 liter),1.8,1.67-2.05,Transportation,1.67,2.05,Haifa,Israel
+351,Toyota Corolla Sedan 1.6l 97kW Comfort (Or Equivalent New Car),37363.74,35659.25-39766.77,Transportation,35659.25,39766.77,Haifa,Israel
+352,"Basic (Electricity, Heating, Cooling, Water, Garbage) for 85m2 Apartment",194.96,128.28-307.87,Utilities (Monthly),128.28,307.87,Haifa,Israel
+353,Mobile Phone Monthly Plan with Calls and 10GB+ Data,12.57,12.57-12.57,Utilities (Monthly),12.57,12.57,Haifa,Israel
+354,"Internet (60 Mbps or More, Unlimited Data, Cable/ADSL)",25.47,20.52-30.79,Utilities (Monthly),20.52,30.79,Haifa,Israel
+355,"Fitness Club, Monthly Fee for 1 Adult",68.5,42.76-102.62,Sports And Leisure,42.76,102.62,Haifa,Israel
+357,"Cinema, International Release, 1 Seat",11.29,10.26-12.83,Sports And Leisure,10.26,12.83,Haifa,Israel
+358,"Preschool (or Kindergarten), Full Day, Private, Monthly for 1 Child",720.7,641.40-885.13,Childcare,641.4,885.13,Haifa,Israel
+360,1 Pair of Jeans (Levis 501 Or Similar),72.62,41.05-89.80,Clothing And Shoes,41.05,89.8,Haifa,Israel
+361,"1 Summer Dress in a Chain Store (Zara, H&M, ...)",46.18,23.09-89.80,Clothing And Shoes,23.09,89.8,Haifa,Israel
+362,1 Pair of Nike Running Shoes (Mid-Range),103.73,64.14-153.94,Clothing And Shoes,64.14,153.94,Haifa,Israel
+363,1 Pair of Men Leather Business Shoes,103.61,74.40-153.94,Clothing And Shoes,74.4,153.94,Haifa,Israel
+364,Apartment (1 bedroom) in City Centre,668.17,564.43-897.96,Rent Per Month,564.43,897.96,Haifa,Israel
+365,Apartment (1 bedroom) Outside of Centre,550.44,410.50-718.37,Rent Per Month,410.5,718.37,Haifa,Israel
+366,Apartment (3 bedrooms) in City Centre,1141.69,974.93-1539.36,Rent Per Month,974.93,1539.36,Haifa,Israel
+367,Apartment (3 bedrooms) Outside of Centre,899.13,769.68-1282.80,Rent Per Month,769.68,1282.8,Haifa,Israel
+368,Price per Square Meter to Buy Apartment in City Centre,4810.5,3848.40-6414.00,Buy Apartment Price,3848.4,6414.0,Haifa,Israel
+369,Price per Square Meter to Buy Apartment Outside of Centre,3834.14,3078.72-5131.20,Buy Apartment Price,3078.72,5131.2,Haifa,Israel
+370,"Mortgage Interest Rate in Percentages (%), Yearly, for 20 Years Fixed-Rate",3.93,2.00-5.25,Salaries And Financing,2.0,5.25,Haifa,Israel
+371,"Meal, Inexpensive Restaurant",15.39,10.26-25.66,Restaurants,10.26,25.66,Jerusalem,Israel
+372,"Meal for 2 People, Mid-range Restaurant, Three-course",76.97,64.14-107.76,Restaurants,64.14,107.76,Jerusalem,Israel
+373,McMeal at McDonalds (or Equivalent Combo Meal),13.98,12.83-15.39,Restaurants,12.83,15.39,Jerusalem,Israel
+374,Domestic Beer (0.5 liter draught),7.18,5.13-8.98,Restaurants,5.13,8.98,Jerusalem,Israel
+375,Imported Beer (0.33 liter bottle),6.93,4.36-10.26,Restaurants,4.36,10.26,Jerusalem,Israel
+376,Cappuccino (regular),3.19,2.31-4.62,Restaurants,2.31,4.62,Jerusalem,Israel
+377,Coke/Pepsi (0.33 liter bottle),2.31,2.05-2.57,Restaurants,2.05,2.57,Jerusalem,Israel
+378,Water (0.33 liter bottle),1.72,1.28-2.05,Restaurants,1.28,2.05,Jerusalem,Israel
+379,"Milk (regular), (1 liter)",1.63,1.33-2.05,Markets,1.33,2.05,Jerusalem,Israel
+380,Loaf of Fresh White Bread (500g),2.03,1.15-4.10,Markets,1.15,4.1,Jerusalem,Israel
+381,"Rice (white), (1kg)",2.36,1.80-3.08,Markets,1.8,3.08,Jerusalem,Israel
+382,Eggs (regular) (12),3.52,2.31-4.62,Markets,2.31,4.62,Jerusalem,Israel
+383,Local Cheese (1kg),12.71,10.26-23.09,Markets,10.26,23.09,Jerusalem,Israel
+384,Chicken Fillets (1kg),8.83,6.16-10.26,Markets,6.16,10.26,Jerusalem,Israel
+385,Beef Round (1kg) (or Equivalent Back Leg Red Meat),17.32,8.98-25.66,Markets,8.98,25.66,Jerusalem,Israel
+386,Apples (1kg),2.82,2.31-3.59,Markets,2.31,3.59,Jerusalem,Israel
+387,Banana (1kg),1.81,1.28-2.31,Markets,1.28,2.31,Jerusalem,Israel
+388,Oranges (1kg),1.56,1.03-2.05,Markets,1.03,2.05,Jerusalem,Israel
+389,Tomato (1kg),1.62,1.00-2.05,Markets,1.0,2.05,Jerusalem,Israel
+390,Potato (1kg),1.17,0.77-1.54,Markets,0.77,1.54,Jerusalem,Israel
+391,Onion (1kg),0.97,0.77-1.28,Markets,0.77,1.28,Jerusalem,Israel
+392,Lettuce (1 head),1.69,1.03-3.08,Markets,1.03,3.08,Jerusalem,Israel
+393,Water (1.5 liter bottle),1.41,0.51-2.57,Markets,0.51,2.57,Jerusalem,Israel
+394,Bottle of Wine (Mid-Range),8.98,7.70-12.83,Markets,7.7,12.83,Jerusalem,Israel
+395,Domestic Beer (0.5 liter bottle),2.31,1.80-2.57,Markets,1.8,2.57,Jerusalem,Israel
+396,Imported Beer (0.33 liter bottle),2.65,1.54-3.85,Markets,1.54,3.85,Jerusalem,Israel
+397,Cigarettes 20 Pack (Marlboro),8.98,8.72-8.98,Markets,8.72,8.98,Jerusalem,Israel
+398,One-way Ticket (Local Transport),1.54,1.41-1.54,Transportation,1.41,1.54,Jerusalem,Israel
+399,Monthly Pass (Regular Price),59.65,53.49-66.71,Transportation,53.49,66.71,Jerusalem,Israel
+400,Taxi Start (Normal Tariff),3.12,2.75-4.10,Transportation,2.75,4.1,Jerusalem,Israel
+403,Gasoline (1 liter),1.81,1.69-2.00,Transportation,1.69,2.0,Jerusalem,Israel
+405,Toyota Corolla Sedan 1.6l 97kW Comfort (Or Equivalent New Car),35614.17,33096.22-35123.04,Transportation,33096.22,35123.04,Jerusalem,Israel
+406,"Basic (Electricity, Heating, Cooling, Water, Garbage) for 85m2 Apartment",146.95,76.97-205.25,Utilities (Monthly),76.97,205.25,Jerusalem,Israel
+407,Mobile Phone Monthly Plan with Calls and 10GB+ Data,12.57,10.26-12.57,Utilities (Monthly),10.26,12.57,Jerusalem,Israel
+408,"Internet (60 Mbps or More, Unlimited Data, Cable/ADSL)",23.79,16.68-38.48,Utilities (Monthly),16.68,38.48,Jerusalem,Israel
+409,"Fitness Club, Monthly Fee for 1 Adult",68.82,38.48-115.45,Sports And Leisure,38.48,115.45,Jerusalem,Israel
+411,"Cinema, International Release, 1 Seat",11.29,10.26-12.83,Sports And Leisure,10.26,12.83,Jerusalem,Israel
+412,"Preschool (or Kindergarten), Full Day, Private, Monthly for 1 Child",729.06,641.40-820.99,Childcare,641.4,820.99,Jerusalem,Israel
+414,1 Pair of Jeans (Levis 501 Or Similar),86.13,51.06-128.28,Clothing And Shoes,51.06,128.28,Jerusalem,Israel
+415,"1 Summer Dress in a Chain Store (Zara, H&M, ...)",58.64,51.31-76.97,Clothing And Shoes,51.31,76.97,Jerusalem,Israel
+416,1 Pair of Nike Running Shoes (Mid-Range),102.34,66.71-128.28,Clothing And Shoes,66.71,128.28,Jerusalem,Israel
+417,1 Pair of Men Leather Business Shoes,108.12,76.97-128.28,Clothing And Shoes,76.97,128.28,Jerusalem,Israel
+418,Apartment (1 bedroom) in City Centre,1327.7,974.93-1667.64,Rent Per Month,974.93,1667.64,Jerusalem,Israel
+419,Apartment (1 bedroom) Outside of Centre,961.57,692.71-1282.80,Rent Per Month,692.71,1282.8,Jerusalem,Israel
+420,Apartment (3 bedrooms) in City Centre,2017.77,1539.36-3078.72,Rent Per Month,1539.36,3078.72,Jerusalem,Israel
+421,Apartment (3 bedrooms) Outside of Centre,1598.0,1282.80-2309.04,Rent Per Month,1282.8,2309.04,Jerusalem,Israel
+422,Price per Square Meter to Buy Apartment in City Centre,11384.84,6157.44-15393.59,Buy Apartment Price,6157.44,15393.59,Jerusalem,Israel
+423,Price per Square Meter to Buy Apartment Outside of Centre,8411.5,6029.16-10262.39,Buy Apartment Price,6029.16,10262.39,Jerusalem,Israel
+424,"Mortgage Interest Rate in Percentages (%), Yearly, for 20 Years Fixed-Rate",4.26,2.00-7.50,Salaries And Financing,2.0,7.5,Jerusalem,Israel
+425,"Meal, Inexpensive Restaurant",15.0,10.00-25.00,Restaurants,10.0,25.0,Paris,France
+426,"Meal for 2 People, Mid-range Restaurant, Three-course",62.5,45.00-120.00,Restaurants,45.0,120.0,Paris,France
+427,McMeal at McDonalds (or Equivalent Combo Meal),10.0,9.00-12.00,Restaurants,9.0,12.0,Paris,France
+428,Domestic Beer (0.5 liter draught),7.0,5.00-9.00,Restaurants,5.0,9.0,Paris,France
+429,Imported Beer (0.33 liter bottle),6.0,4.80-9.00,Restaurants,4.8,9.0,Paris,France
+430,Cappuccino (regular),3.79,2.00-5.63,Restaurants,2.0,5.63,Paris,France
+431,Coke/Pepsi (0.33 liter bottle),3.1,2.00-5.00,Restaurants,2.0,5.0,Paris,France
+432,Water (0.33 liter bottle),2.48,1.70-4.00,Restaurants,1.7,4.0,Paris,France
+433,"Milk (regular), (1 liter)",1.22,0.95-2.00,Markets,0.95,2.0,Paris,France
+434,Loaf of Fresh White Bread (500g),1.93,1.00-4.00,Markets,1.0,4.0,Paris,France
+435,"Rice (white), (1kg)",2.14,1.00-3.00,Markets,1.0,3.0,Paris,France
+436,Eggs (regular) (12),3.59,1.67-6.00,Markets,1.67,6.0,Paris,France
+437,Local Cheese (1kg),17.25,7.00-40.00,Markets,7.0,40.0,Paris,France
+438,Chicken Fillets (1kg),13.61,5.00-20.83,Markets,5.0,20.83,Paris,France
+439,Beef Round (1kg) (or Equivalent Back Leg Red Meat),21.88,12.00-32.00,Markets,12.0,32.0,Paris,France
+440,Apples (1kg),3.29,1.50-5.00,Markets,1.5,5.0,Paris,France
+441,Banana (1kg),2.19,1.29-5.00,Markets,1.29,5.0,Paris,France
+442,Oranges (1kg),3.03,1.10-5.00,Markets,1.1,5.0,Paris,France
+443,Tomato (1kg),3.82,2.00-5.50,Markets,2.0,5.5,Paris,France
+444,Potato (1kg),2.21,1.00-4.00,Markets,1.0,4.0,Paris,France
+445,Onion (1kg),2.3,1.00-4.00,Markets,1.0,4.0,Paris,France
+446,Lettuce (1 head),1.52,1.00-2.00,Markets,1.0,2.0,Paris,France
+447,Water (1.5 liter bottle),0.8,0.30-2.00,Markets,0.3,2.0,Paris,France
+448,Bottle of Wine (Mid-Range),9.0,5.00-15.00,Markets,5.0,15.0,Paris,France
+449,Domestic Beer (0.5 liter bottle),2.13,1.20-4.00,Markets,1.2,4.0,Paris,France
+450,Imported Beer (0.33 liter bottle),3.18,1.19-5.00,Markets,1.19,5.0,Paris,France
+451,Cigarettes 20 Pack (Marlboro),10.5,10.00-12.00,Markets,10.0,12.0,Paris,France
+452,One-way Ticket (Local Transport),2.1,1.90-2.30,Transportation,1.9,2.3,Paris,France
+453,Monthly Pass (Regular Price),84.1,75.00-85.00,Transportation,75.0,85.0,Paris,France
+454,Taxi Start (Normal Tariff),5.0,2.60-8.00,Transportation,2.6,8.0,Paris,France
+457,Gasoline (1 liter),1.97,1.70-2.20,Transportation,1.7,2.2,Paris,France
+459,Toyota Corolla Sedan 1.6l 97kW Comfort (Or Equivalent New Car),28862.5,22500.00-35000.00,Transportation,22500.0,35000.0,Paris,France
+460,"Basic (Electricity, Heating, Cooling, Water, Garbage) for 85m2 Apartment",195.15,119.00-340.00,Utilities (Monthly),119.0,340.0,Paris,France
+461,Mobile Phone Monthly Plan with Calls and 10GB+ Data,31.99,31.99-31.99,Utilities (Monthly),31.99,31.99,Paris,France
+462,"Internet (60 Mbps or More, Unlimited Data, Cable/ADSL)",30.51,20.00-40.00,Utilities (Monthly),20.0,40.0,Paris,France
+463,"Fitness Club, Monthly Fee for 1 Adult",35.56,25.00-58.33,Sports And Leisure,25.0,58.33,Paris,France
+465,"Cinema, International Release, 1 Seat",12.25,10.00-15.00,Sports And Leisure,10.0,15.0,Paris,France
+466,"Preschool (or Kindergarten), Full Day, Private, Monthly for 1 Child",755.0,500.00-1700.00,Childcare,500.0,1700.0,Paris,France
+468,1 Pair of Jeans (Levis 501 Or Similar),98.58,60.00-135.00,Clothing And Shoes,60.0,135.0,Paris,France
+469,"1 Summer Dress in a Chain Store (Zara, H&M, ...)",39.84,20.00-80.00,Clothing And Shoes,20.0,80.0,Paris,France
+470,1 Pair of Nike Running Shoes (Mid-Range),92.97,60.00-150.00,Clothing And Shoes,60.0,150.0,Paris,France
+471,1 Pair of Men Leather Business Shoes,128.86,80.00-200.00,Clothing And Shoes,80.0,200.0,Paris,France
+472,Apartment (1 bedroom) in City Centre,1215.31,850.00-1900.00,Rent Per Month,850.0,1900.0,Paris,France
+473,Apartment (1 bedroom) Outside of Centre,938.5,700.00-1200.00,Rent Per Month,700.0,1200.0,Paris,France
+474,Apartment (3 bedrooms) in City Centre,2832.35,2000.00-4000.00,Rent Per Month,2000.0,4000.0,Paris,France
+475,Apartment (3 bedrooms) Outside of Centre,1932.82,1400.00-3000.00,Rent Per Month,1400.0,3000.0,Paris,France
+476,Price per Square Meter to Buy Apartment in City Centre,12394.12,10000.00-15000.00,Buy Apartment Price,10000.0,15000.0,Paris,France
+477,Price per Square Meter to Buy Apartment Outside of Centre,8661.31,7000.00-11000.00,Buy Apartment Price,7000.0,11000.0,Paris,France
+478,"Mortgage Interest Rate in Percentages (%), Yearly, for 20 Years Fixed-Rate",2.39,1.10-3.50,Salaries And Financing,1.1,3.5,Paris,France
+479,"Meal, Inexpensive Restaurant",12.0,8.00-20.00,Restaurants,8.0,20.0,Berlin,Germany
+480,"Meal for 2 People, Mid-range Restaurant, Three-course",60.0,40.00-100.00,Restaurants,40.0,100.0,Berlin,Germany
+481,McMeal at McDonalds (or Equivalent Combo Meal),10.0,8.00-12.00,Restaurants,8.0,12.0,Berlin,Germany
+482,Domestic Beer (0.5 liter draught),4.0,3.00-5.00,Restaurants,3.0,5.0,Berlin,Germany
+483,Imported Beer (0.33 liter bottle),4.0,3.00-5.00,Restaurants,3.0,5.0,Berlin,Germany
+484,Cappuccino (regular),3.46,2.50-5.00,Restaurants,2.5,5.0,Berlin,Germany
+485,Coke/Pepsi (0.33 liter bottle),2.53,1.99-3.50,Restaurants,1.99,3.5,Berlin,Germany
+486,Water (0.33 liter bottle),2.16,1.50-3.00,Restaurants,1.5,3.0,Berlin,Germany
+487,"Milk (regular), (1 liter)",1.28,1.00-1.95,Markets,1.0,1.95,Berlin,Germany
+488,Loaf of Fresh White Bread (500g),1.82,1.00-3.50,Markets,1.0,3.5,Berlin,Germany
+489,"Rice (white), (1kg)",2.55,1.50-4.00,Markets,1.5,4.0,Berlin,Germany
+490,Eggs (regular) (12),3.05,1.85-4.80,Markets,1.85,4.8,Berlin,Germany
+491,Local Cheese (1kg),12.46,5.00-27.00,Markets,5.0,27.0,Berlin,Germany
+492,Chicken Fillets (1kg),10.16,5.00-16.00,Markets,5.0,16.0,Berlin,Germany
+493,Beef Round (1kg) (or Equivalent Back Leg Red Meat),14.19,7.00-25.00,Markets,7.0,25.0,Berlin,Germany
+494,Apples (1kg),2.7,1.00-3.99,Markets,1.0,3.99,Berlin,Germany
+495,Banana (1kg),1.78,1.20-3.00,Markets,1.2,3.0,Berlin,Germany
+496,Oranges (1kg),2.61,1.49-4.00,Markets,1.49,4.0,Berlin,Germany
+497,Tomato (1kg),3.25,1.29-5.00,Markets,1.29,5.0,Berlin,Germany
+498,Potato (1kg),1.9,0.70-3.79,Markets,0.7,3.79,Berlin,Germany
+499,Onion (1kg),1.68,1.00-2.99,Markets,1.0,2.99,Berlin,Germany
+500,Lettuce (1 head),1.4,0.80-2.00,Markets,0.8,2.0,Berlin,Germany
+501,Water (1.5 liter bottle),0.7,0.25-1.50,Markets,0.25,1.5,Berlin,Germany
+502,Bottle of Wine (Mid-Range),6.0,4.00-10.00,Markets,4.0,10.0,Berlin,Germany
+503,Domestic Beer (0.5 liter bottle),1.08,0.65-2.00,Markets,0.65,2.0,Berlin,Germany
+504,Imported Beer (0.33 liter bottle),1.47,1.00-3.00,Markets,1.0,3.0,Berlin,Germany
+505,Cigarettes 20 Pack (Marlboro),8.0,7.60-9.00,Markets,7.6,9.0,Berlin,Germany
+506,One-way Ticket (Local Transport),3.1,3.00-3.70,Transportation,3.0,3.7,Berlin,Germany
+507,Monthly Pass (Regular Price),65.0,49.00-91.00,Transportation,49.0,91.0,Berlin,Germany
+508,Taxi Start (Normal Tariff),4.9,3.90-6.00,Transportation,3.9,6.0,Berlin,Germany
+511,Gasoline (1 liter),1.87,1.70-2.19,Transportation,1.7,2.19,Berlin,Germany
+513,Toyota Corolla Sedan 1.6l 97kW Comfort (Or Equivalent New Car),27442.86,26700.00-28000.00,Transportation,26700.0,28000.0,Berlin,Germany
+514,"Basic (Electricity, Heating, Cooling, Water, Garbage) for 85m2 Apartment",349.53,231.82-450.00,Utilities (Monthly),231.82,450.0,Berlin,Germany
+515,Mobile Phone Monthly Plan with Calls and 10GB+ Data,41.62,20.00-50.00,Utilities (Monthly),20.0,50.0,Berlin,Germany
+516,"Internet (60 Mbps or More, Unlimited Data, Cable/ADSL)",41.55,30.00-50.00,Utilities (Monthly),30.0,50.0,Berlin,Germany
+517,"Fitness Club, Monthly Fee for 1 Adult",39.1,20.00-80.00,Sports And Leisure,20.0,80.0,Berlin,Germany
+519,"Cinema, International Release, 1 Seat",12.0,9.50-15.00,Sports And Leisure,9.5,15.0,Berlin,Germany
+520,"Preschool (or Kindergarten), Full Day, Private, Monthly for 1 Child",186.67,60.00-500.00,Childcare,60.0,500.0,Berlin,Germany
+522,1 Pair of Jeans (Levis 501 Or Similar),85.76,50.00-120.00,Clothing And Shoes,50.0,120.0,Berlin,Germany
+523,"1 Summer Dress in a Chain Store (Zara, H&M, ...)",35.64,20.00-50.00,Clothing And Shoes,20.0,50.0,Berlin,Germany
+524,1 Pair of Nike Running Shoes (Mid-Range),86.13,50.00-120.00,Clothing And Shoes,50.0,120.0,Berlin,Germany
+525,1 Pair of Men Leather Business Shoes,109.55,70.00-165.00,Clothing And Shoes,70.0,165.0,Berlin,Germany
+526,Apartment (1 bedroom) in City Centre,1295.75,900.00-2000.00,Rent Per Month,900.0,2000.0,Berlin,Germany
+527,Apartment (1 bedroom) Outside of Centre,878.16,600.00-1350.00,Rent Per Month,600.0,1350.0,Berlin,Germany
+528,Apartment (3 bedrooms) in City Centre,2330.23,1600.00-3200.00,Rent Per Month,1600.0,3200.0,Berlin,Germany
+529,Apartment (3 bedrooms) Outside of Centre,1590.62,1200.00-2250.00,Rent Per Month,1200.0,2250.0,Berlin,Germany
+530,Price per Square Meter to Buy Apartment in City Centre,8192.28,6300.00-11000.00,Buy Apartment Price,6300.0,11000.0,Berlin,Germany
+531,Price per Square Meter to Buy Apartment Outside of Centre,5783.97,4000.00-8500.00,Buy Apartment Price,4000.0,8500.0,Berlin,Germany
+532,"Mortgage Interest Rate in Percentages (%), Yearly, for 20 Years Fixed-Rate",3.23,1.60-4.20,Salaries And Financing,1.6,4.2,Berlin,Germany
+533,"Meal, Inexpensive Restaurant",15.0,9.50-30.00,Restaurants,9.5,30.0,Amsterdam,Netherlands
+534,"Meal for 2 People, Mid-range Restaurant, Three-course",65.0,50.00-120.00,Restaurants,50.0,120.0,Amsterdam,Netherlands
+535,McMeal at McDonalds (or Equivalent Combo Meal),10.0,8.75-12.00,Restaurants,8.75,12.0,Amsterdam,Netherlands
+536,Domestic Beer (0.5 liter draught),5.0,3.60-7.50,Restaurants,3.6,7.5,Amsterdam,Netherlands
+537,Imported Beer (0.33 liter bottle),5.0,4.00-6.50,Restaurants,4.0,6.5,Amsterdam,Netherlands
+538,Cappuccino (regular),3.27,2.00-5.00,Restaurants,2.0,5.0,Amsterdam,Netherlands
+539,Coke/Pepsi (0.33 liter bottle),2.49,2.00-3.90,Restaurants,2.0,3.9,Amsterdam,Netherlands
+540,Water (0.33 liter bottle),2.27,2.00-4.00,Restaurants,2.0,4.0,Amsterdam,Netherlands
+541,"Milk (regular), (1 liter)",1.15,0.96-1.70,Markets,0.96,1.7,Amsterdam,Netherlands
+542,Loaf of Fresh White Bread (500g),1.59,0.85-3.50,Markets,0.85,3.5,Amsterdam,Netherlands
+543,"Rice (white), (1kg)",2.1,1.30-3.09,Markets,1.3,3.09,Amsterdam,Netherlands
+544,Eggs (regular) (12),3.85,2.25-5.04,Markets,2.25,5.04,Amsterdam,Netherlands
+545,Local Cheese (1kg),12.27,7.80-30.00,Markets,7.8,30.0,Amsterdam,Netherlands
+546,Chicken Fillets (1kg),9.74,6.00-13.00,Markets,6.0,13.0,Amsterdam,Netherlands
+547,Beef Round (1kg) (or Equivalent Back Leg Red Meat),17.19,12.00-30.00,Markets,12.0,30.0,Amsterdam,Netherlands
+548,Apples (1kg),2.22,1.85-3.00,Markets,1.85,3.0,Amsterdam,Netherlands
+549,Banana (1kg),1.67,1.25-2.50,Markets,1.25,2.5,Amsterdam,Netherlands
+550,Oranges (1kg),1.78,1.15-4.00,Markets,1.15,4.0,Amsterdam,Netherlands
+551,Tomato (1kg),2.8,1.50-4.18,Markets,1.5,4.18,Amsterdam,Netherlands
+552,Potato (1kg),1.43,0.85-3.00,Markets,0.85,3.0,Amsterdam,Netherlands
+553,Onion (1kg),1.12,0.89-2.00,Markets,0.89,2.0,Amsterdam,Netherlands
+554,Lettuce (1 head),1.11,0.77-1.50,Markets,0.77,1.5,Amsterdam,Netherlands
+555,Water (1.5 liter bottle),0.75,0.45-1.50,Markets,0.45,1.5,Amsterdam,Netherlands
+556,Bottle of Wine (Mid-Range),5.75,4.69-10.00,Markets,4.69,10.0,Amsterdam,Netherlands
+557,Domestic Beer (0.5 liter bottle),1.35,0.80-3.00,Markets,0.8,3.0,Amsterdam,Netherlands
+558,Imported Beer (0.33 liter bottle),1.6,1.05-3.00,Markets,1.05,3.0,Amsterdam,Netherlands
+559,Cigarettes 20 Pack (Marlboro),8.2,8.20-10.00,Markets,8.2,10.0,Amsterdam,Netherlands
+560,One-way Ticket (Local Transport),3.3,3.00-4.00,Transportation,3.0,4.0,Amsterdam,Netherlands
+561,Monthly Pass (Regular Price),93.0,73.91-200.00,Transportation,73.91,200.0,Amsterdam,Netherlands
+562,Taxi Start (Normal Tariff),4.0,3.50-7.50,Transportation,3.5,7.5,Amsterdam,Netherlands
+565,Gasoline (1 liter),1.93,1.73-2.29,Transportation,1.73,2.29,Amsterdam,Netherlands
+567,Toyota Corolla Sedan 1.6l 97kW Comfort (Or Equivalent New Car),31037.5,27400.00-34850.00,Transportation,27400.0,34850.0,Amsterdam,Netherlands
+568,"Basic (Electricity, Heating, Cooling, Water, Garbage) for 85m2 Apartment",208.31,154.00-450.00,Utilities (Monthly),154.0,450.0,Amsterdam,Netherlands
+569,Mobile Phone Monthly Plan with Calls and 10GB+ Data,26.88,12.50-27.50,Utilities (Monthly),12.5,27.5,Amsterdam,Netherlands
+570,"Internet (60 Mbps or More, Unlimited Data, Cable/ADSL)",40.61,34.95-60.00,Utilities (Monthly),34.95,60.0,Amsterdam,Netherlands
+571,"Fitness Club, Monthly Fee for 1 Adult",37.29,19.99-60.00,Sports And Leisure,19.99,60.0,Amsterdam,Netherlands
+573,"Cinema, International Release, 1 Seat",13.0,11.00-17.00,Sports And Leisure,11.0,17.0,Amsterdam,Netherlands
+574,"Preschool (or Kindergarten), Full Day, Private, Monthly for 1 Child",1621.1,1100.00-2300.00,Childcare,1100.0,2300.0,Amsterdam,Netherlands
+576,1 Pair of Jeans (Levis 501 Or Similar),71.51,40.00-115.00,Clothing And Shoes,40.0,115.0,Amsterdam,Netherlands
+577,"1 Summer Dress in a Chain Store (Zara, H&M, ...)",27.8,19.00-50.00,Clothing And Shoes,19.0,50.0,Amsterdam,Netherlands
+578,1 Pair of Nike Running Shoes (Mid-Range),82.59,66.00-125.00,Clothing And Shoes,66.0,125.0,Amsterdam,Netherlands
+579,1 Pair of Men Leather Business Shoes,97.85,79.00-200.00,Clothing And Shoes,79.0,200.0,Amsterdam,Netherlands
+580,Apartment (1 bedroom) in City Centre,1650.75,1300.00-2000.00,Rent Per Month,1300.0,2000.0,Amsterdam,Netherlands
+581,Apartment (1 bedroom) Outside of Centre,1365.98,1000.00-1750.00,Rent Per Month,1000.0,1750.0,Amsterdam,Netherlands
+582,Apartment (3 bedrooms) in City Centre,2624.83,1765.00-3500.00,Rent Per Month,1765.0,3500.0,Amsterdam,Netherlands
+583,Apartment (3 bedrooms) Outside of Centre,1972.5,1435.00-2750.00,Rent Per Month,1435.0,2750.0,Amsterdam,Netherlands
+584,Price per Square Meter to Buy Apartment in City Centre,7563.02,6800.00-10000.00,Buy Apartment Price,6800.0,10000.0,Amsterdam,Netherlands
+585,Price per Square Meter to Buy Apartment Outside of Centre,5086.88,4290.00-7000.00,Buy Apartment Price,4290.0,7000.0,Amsterdam,Netherlands
+586,"Mortgage Interest Rate in Percentages (%), Yearly, for 20 Years Fixed-Rate",3.18,1.98-4.70,Salaries And Financing,1.98,4.7,Amsterdam,Netherlands
+587,"Meal, Inexpensive Restaurant",15.0,10.00-28.00,Restaurants,10.0,28.0,Rome,Italy
+588,"Meal for 2 People, Mid-range Restaurant, Three-course",70.0,50.00-90.00,Restaurants,50.0,90.0,Rome,Italy
+589,McMeal at McDonalds (or Equivalent Combo Meal),10.0,8.00-11.50,Restaurants,8.0,11.5,Rome,Italy
+590,Domestic Beer (0.5 liter draught),5.0,3.00-7.00,Restaurants,3.0,7.0,Rome,Italy
+591,Imported Beer (0.33 liter bottle),5.0,3.00-7.00,Restaurants,3.0,7.0,Rome,Italy
+592,Cappuccino (regular),1.56,1.10-2.24,Restaurants,1.1,2.24,Rome,Italy
+593,Coke/Pepsi (0.33 liter bottle),2.16,1.50-3.00,Restaurants,1.5,3.0,Rome,Italy
+594,Water (0.33 liter bottle),1.1,1.00-2.00,Restaurants,1.0,2.0,Rome,Italy
+595,"Milk (regular), (1 liter)",1.69,1.00-2.00,Markets,1.0,2.0,Rome,Italy
+596,Loaf of Fresh White Bread (500g),1.66,1.00-3.00,Markets,1.0,3.0,Rome,Italy
+597,"Rice (white), (1kg)",2.3,1.00-3.50,Markets,1.0,3.5,Rome,Italy
+598,Eggs (regular) (12),3.41,1.80-5.00,Markets,1.8,5.0,Rome,Italy
+599,Local Cheese (1kg),15.3,8.00-29.00,Markets,8.0,29.0,Rome,Italy
+600,Chicken Fillets (1kg),10.25,4.00-15.00,Markets,4.0,15.0,Rome,Italy
+601,Beef Round (1kg) (or Equivalent Back Leg Red Meat),16.05,9.00-25.00,Markets,9.0,25.0,Rome,Italy
+602,Apples (1kg),2.34,1.20-4.00,Markets,1.2,4.0,Rome,Italy
+603,Banana (1kg),1.91,1.00-3.50,Markets,1.0,3.5,Rome,Italy
+604,Oranges (1kg),2.25,1.29-4.50,Markets,1.29,4.5,Rome,Italy
+605,Tomato (1kg),2.71,1.40-4.00,Markets,1.4,4.0,Rome,Italy
+606,Potato (1kg),1.54,0.99-3.00,Markets,0.99,3.0,Rome,Italy
+607,Onion (1kg),1.57,1.00-3.00,Markets,1.0,3.0,Rome,Italy
+608,Lettuce (1 head),1.27,0.70-2.00,Markets,0.7,2.0,Rome,Italy
+609,Water (1.5 liter bottle),0.54,0.20-1.70,Markets,0.2,1.7,Rome,Italy
+610,Bottle of Wine (Mid-Range),6.0,3.00-12.00,Markets,3.0,12.0,Rome,Italy
+611,Domestic Beer (0.5 liter bottle),1.46,1.00-2.50,Markets,1.0,2.5,Rome,Italy
+612,Imported Beer (0.33 liter bottle),2.26,1.20-3.50,Markets,1.2,3.5,Rome,Italy
+613,Cigarettes 20 Pack (Marlboro),6.0,5.50-6.00,Markets,5.5,6.0,Rome,Italy
+614,One-way Ticket (Local Transport),1.5,1.50-2.00,Transportation,1.5,2.0,Rome,Italy
+615,Monthly Pass (Regular Price),35.0,30.00-35.00,Transportation,30.0,35.0,Rome,Italy
+616,Taxi Start (Normal Tariff),4.0,3.00-6.00,Transportation,3.0,6.0,Rome,Italy
+619,Gasoline (1 liter),1.82,1.70-2.10,Transportation,1.7,2.1,Rome,Italy
+621,Toyota Corolla Sedan 1.6l 97kW Comfort (Or Equivalent New Car),27225.0,25000.00-28350.00,Transportation,25000.0,28350.0,Rome,Italy
+622,"Basic (Electricity, Heating, Cooling, Water, Garbage) for 85m2 Apartment",218.39,150.00-350.00,Utilities (Monthly),150.0,350.0,Rome,Italy
+623,Mobile Phone Monthly Plan with Calls and 10GB+ Data,14.99,14.99-14.99,Utilities (Monthly),14.99,14.99,Rome,Italy
+624,"Internet (60 Mbps or More, Unlimited Data, Cable/ADSL)",27.57,25.00-35.00,Utilities (Monthly),25.0,35.0,Rome,Italy
+625,"Fitness Club, Monthly Fee for 1 Adult",53.92,30.00-80.00,Sports And Leisure,30.0,80.0,Rome,Italy
+627,"Cinema, International Release, 1 Seat",9.0,8.00-12.00,Sports And Leisure,8.0,12.0,Rome,Italy
+628,"Preschool (or Kindergarten), Full Day, Private, Monthly for 1 Child",483.08,300.00-800.00,Childcare,300.0,800.0,Rome,Italy
+630,1 Pair of Jeans (Levis 501 Or Similar),78.12,30.00-100.00,Clothing And Shoes,30.0,100.0,Rome,Italy
+631,"1 Summer Dress in a Chain Store (Zara, H&M, ...)",33.68,15.00-50.00,Clothing And Shoes,15.0,50.0,Rome,Italy
+632,1 Pair of Nike Running Shoes (Mid-Range),87.67,60.00-129.00,Clothing And Shoes,60.0,129.0,Rome,Italy
+633,1 Pair of Men Leather Business Shoes,115.16,70.00-199.00,Clothing And Shoes,70.0,199.0,Rome,Italy
+634,Apartment (1 bedroom) in City Centre,1077.86,725.00-1500.00,Rent Per Month,725.0,1500.0,Rome,Italy
+635,Apartment (1 bedroom) Outside of Centre,693.42,500.00-1000.00,Rent Per Month,500.0,1000.0,Rome,Italy
+636,Apartment (3 bedrooms) in City Centre,2125.81,1500.00-3500.00,Rent Per Month,1500.0,3500.0,Rome,Italy
+637,Apartment (3 bedrooms) Outside of Centre,1301.56,1000.00-1800.00,Rent Per Month,1000.0,1800.0,Rome,Italy
+638,Price per Square Meter to Buy Apartment in City Centre,7428.57,6000.00-10000.00,Buy Apartment Price,6000.0,10000.0,Rome,Italy
+639,Price per Square Meter to Buy Apartment Outside of Centre,3448.32,2500.00-4700.00,Buy Apartment Price,2500.0,4700.0,Rome,Italy
+640,"Mortgage Interest Rate in Percentages (%), Yearly, for 20 Years Fixed-Rate",3.13,1.35-4.90,Salaries And Financing,1.35,4.9,Rome,Italy
+641,"Meal, Inexpensive Restaurant",20.0,12.00-25.00,Restaurants,12.0,25.0,Milan,Italy
+642,"Meal for 2 People, Mid-range Restaurant, Three-course",73.0,50.00-110.00,Restaurants,50.0,110.0,Milan,Italy
+643,McMeal at McDonalds (or Equivalent Combo Meal),10.0,9.00-12.00,Restaurants,9.0,12.0,Milan,Italy
+644,Domestic Beer (0.5 liter draught),6.0,4.00-7.00,Restaurants,4.0,7.0,Milan,Italy
+645,Imported Beer (0.33 liter bottle),5.0,4.00-7.00,Restaurants,4.0,7.0,Milan,Italy
+646,Cappuccino (regular),1.67,1.00-2.60,Restaurants,1.0,2.6,Milan,Italy
+647,Coke/Pepsi (0.33 liter bottle),2.77,2.00-3.50,Restaurants,2.0,3.5,Milan,Italy
+648,Water (0.33 liter bottle),1.21,1.00-2.00,Restaurants,1.0,2.0,Milan,Italy
+649,"Milk (regular), (1 liter)",1.51,1.19-1.80,Markets,1.19,1.8,Milan,Italy
+650,Loaf of Fresh White Bread (500g),2.22,1.25-3.40,Markets,1.25,3.4,Milan,Italy
+651,"Rice (white), (1kg)",3.02,1.50-4.00,Markets,1.5,4.0,Milan,Italy
+652,Eggs (regular) (12),3.75,2.00-5.00,Markets,2.0,5.0,Milan,Italy
+653,Local Cheese (1kg),15.7,9.50-22.00,Markets,9.5,22.0,Milan,Italy
+654,Chicken Fillets (1kg),11.37,6.00-15.00,Markets,6.0,15.0,Milan,Italy
+655,Beef Round (1kg) (or Equivalent Back Leg Red Meat),20.15,11.00-25.00,Markets,11.0,25.0,Milan,Italy
+656,Apples (1kg),2.26,1.00-3.00,Markets,1.0,3.0,Milan,Italy
+657,Banana (1kg),1.94,1.20-4.00,Markets,1.2,4.0,Milan,Italy
+658,Oranges (1kg),2.43,1.00-4.00,Markets,1.0,4.0,Milan,Italy
+659,Tomato (1kg),2.95,1.40-5.00,Markets,1.4,5.0,Milan,Italy
+660,Potato (1kg),1.5,0.90-2.50,Markets,0.9,2.5,Milan,Italy
+661,Onion (1kg),1.26,0.99-2.00,Markets,0.99,2.0,Milan,Italy
+662,Lettuce (1 head),1.2,0.60-2.00,Markets,0.6,2.0,Milan,Italy
+663,Water (1.5 liter bottle),0.52,0.27-1.00,Markets,0.27,1.0,Milan,Italy
+664,Bottle of Wine (Mid-Range),7.0,4.50-12.00,Markets,4.5,12.0,Milan,Italy
+665,Domestic Beer (0.5 liter bottle),1.59,1.00-2.73,Markets,1.0,2.73,Milan,Italy
+666,Imported Beer (0.33 liter bottle),2.01,1.00-3.50,Markets,1.0,3.5,Milan,Italy
+667,Cigarettes 20 Pack (Marlboro),6.0,5.50-6.00,Markets,5.5,6.0,Milan,Italy
+668,One-way Ticket (Local Transport),2.2,2.20-2.20,Transportation,2.2,2.2,Milan,Italy
+669,Monthly Pass (Regular Price),39.0,29.17-50.00,Transportation,29.17,50.0,Milan,Italy
+670,Taxi Start (Normal Tariff),6.0,4.00-8.00,Transportation,4.0,8.0,Milan,Italy
+673,Gasoline (1 liter),1.85,1.70-2.00,Transportation,1.7,2.0,Milan,Italy
+675,Toyota Corolla Sedan 1.6l 97kW Comfort (Or Equivalent New Car),28844.74,28000.00-33000.00,Transportation,28000.0,33000.0,Milan,Italy
+676,"Basic (Electricity, Heating, Cooling, Water, Garbage) for 85m2 Apartment",220.67,100.00-420.00,Utilities (Monthly),100.0,420.0,Milan,Italy
+677,Mobile Phone Monthly Plan with Calls and 10GB+ Data,14.99,10.00-14.99,Utilities (Monthly),10.0,14.99,Milan,Italy
+678,"Internet (60 Mbps or More, Unlimited Data, Cable/ADSL)",27.64,25.00-34.00,Utilities (Monthly),25.0,34.0,Milan,Italy
+679,"Fitness Club, Monthly Fee for 1 Adult",62.29,30.00-100.00,Sports And Leisure,30.0,100.0,Milan,Italy
+681,"Cinema, International Release, 1 Seat",10.0,9.00-12.00,Sports And Leisure,9.0,12.0,Milan,Italy
+682,"Preschool (or Kindergarten), Full Day, Private, Monthly for 1 Child",743.18,600.00-900.00,Childcare,600.0,900.0,Milan,Italy
+684,1 Pair of Jeans (Levis 501 Or Similar),88.4,40.00-120.00,Clothing And Shoes,40.0,120.0,Milan,Italy
+685,"1 Summer Dress in a Chain Store (Zara, H&M, ...)",32.87,20.00-50.00,Clothing And Shoes,20.0,50.0,Milan,Italy
+686,1 Pair of Nike Running Shoes (Mid-Range),92.05,60.00-130.00,Clothing And Shoes,60.0,130.0,Milan,Italy
+687,1 Pair of Men Leather Business Shoes,141.33,80.00-240.00,Clothing And Shoes,80.0,240.0,Milan,Italy
+688,Apartment (1 bedroom) in City Centre,1319.15,1000.00-1900.00,Rent Per Month,1000.0,1900.0,Milan,Italy
+689,Apartment (1 bedroom) Outside of Centre,899.46,700.00-1200.00,Rent Per Month,700.0,1200.0,Milan,Italy
+690,Apartment (3 bedrooms) in City Centre,2751.19,2000.00-4500.00,Rent Per Month,2000.0,4500.0,Milan,Italy
+691,Apartment (3 bedrooms) Outside of Centre,1733.81,1300.00-2200.00,Rent Per Month,1300.0,2200.0,Milan,Italy
+692,Price per Square Meter to Buy Apartment in City Centre,9097.95,7000.00-11900.00,Buy Apartment Price,7000.0,11900.0,Milan,Italy
+693,Price per Square Meter to Buy Apartment Outside of Centre,4766.25,3800.00-6000.00,Buy Apartment Price,3800.0,6000.0,Milan,Italy
+694,"Mortgage Interest Rate in Percentages (%), Yearly, for 20 Years Fixed-Rate",2.63,1.16-4.90,Salaries And Financing,1.16,4.9,Milan,Italy
+695,"Meal, Inexpensive Restaurant",10.52,6.31-14.73,Restaurants,6.31,14.73,Prague,Czech Republic
+696,"Meal for 2 People, Mid-range Restaurant, Three-course",50.49,31.55-88.35,Restaurants,31.55,88.35,Prague,Czech Republic
+697,McMeal at McDonalds (or Equivalent Combo Meal),7.99,7.15-9.68,Restaurants,7.15,9.68,Prague,Czech Republic
+698,Domestic Beer (0.5 liter draught),2.31,1.68-3.16,Restaurants,1.68,3.16,Prague,Czech Republic
+699,Imported Beer (0.33 liter bottle),2.95,1.89-3.79,Restaurants,1.89,3.79,Prague,Czech Republic
+700,Cappuccino (regular),2.96,1.68-4.21,Restaurants,1.68,4.21,Prague,Czech Republic
+701,Coke/Pepsi (0.33 liter bottle),1.62,1.05-2.52,Restaurants,1.05,2.52,Prague,Czech Republic
+702,Water (0.33 liter bottle),1.4,0.84-2.31,Restaurants,0.84,2.31,Prague,Czech Republic
+703,"Milk (regular), (1 liter)",1.15,0.84-1.68,Markets,0.84,1.68,Prague,Czech Republic
+704,Loaf of Fresh White Bread (500g),1.72,0.97-3.79,Markets,0.97,3.79,Prague,Czech Republic
+705,"Rice (white), (1kg)",2.48,1.26-4.00,Markets,1.26,4.0,Prague,Czech Republic
+706,Eggs (regular) (12),3.23,2.12-4.49,Markets,2.12,4.49,Prague,Czech Republic
+707,Local Cheese (1kg),12.05,8.41-21.04,Markets,8.41,21.04,Prague,Czech Republic
+708,Chicken Fillets (1kg),8.79,5.47-12.62,Markets,5.47,12.62,Prague,Czech Republic
+709,Beef Round (1kg) (or Equivalent Back Leg Red Meat),13.84,8.41-21.04,Markets,8.41,21.04,Prague,Czech Republic
+710,Apples (1kg),1.75,1.01-2.73,Markets,1.01,2.73,Prague,Czech Republic
+711,Banana (1kg),1.72,1.26-3.37,Markets,1.26,3.37,Prague,Czech Republic
+712,Oranges (1kg),2.02,1.05-4.17,Markets,1.05,4.17,Prague,Czech Republic
+713,Tomato (1kg),3.44,1.68-5.05,Markets,1.68,5.05,Prague,Czech Republic
+714,Potato (1kg),1.06,0.50-1.68,Markets,0.5,1.68,Prague,Czech Republic
+715,Onion (1kg),1.15,0.63-1.89,Markets,0.63,1.89,Prague,Czech Republic
+716,Lettuce (1 head),1.45,0.84-2.31,Markets,0.84,2.31,Prague,Czech Republic
+717,Water (1.5 liter bottle),0.77,0.42-1.18,Markets,0.42,1.18,Prague,Czech Republic
+718,Bottle of Wine (Mid-Range),6.31,4.21-10.52,Markets,4.21,10.52,Prague,Czech Republic
+719,Domestic Beer (0.5 liter bottle),0.99,0.63-1.47,Markets,0.63,1.47,Prague,Czech Republic
+720,Imported Beer (0.33 liter bottle),1.66,1.05-2.48,Markets,1.05,2.48,Prague,Czech Republic
+721,Cigarettes 20 Pack (Marlboro),6.06,5.47-6.52,Markets,5.47,6.52,Prague,Czech Republic
+722,One-way Ticket (Local Transport),1.35,1.26-1.68,Transportation,1.26,1.68,Prague,Czech Republic
+723,Monthly Pass (Regular Price),23.14,12.80-23.56,Transportation,12.8,23.56,Prague,Czech Republic
+724,Taxi Start (Normal Tariff),1.89,1.68-2.73,Transportation,1.68,2.73,Prague,Czech Republic
+727,Gasoline (1 liter),1.62,1.51-1.89,Transportation,1.51,1.89,Prague,Czech Republic
+729,Toyota Corolla Sedan 1.6l 97kW Comfort (Or Equivalent New Car),26388.23,23770.64-31553.95,Transportation,23770.64,31553.95,Prague,Czech Republic
+730,"Basic (Electricity, Heating, Cooling, Water, Garbage) for 85m2 Apartment",313.9,210.36-504.86,Utilities (Monthly),210.36,504.86,Prague,Czech Republic
+731,Mobile Phone Monthly Plan with Calls and 10GB+ Data,31.44,21.04-84.14,Utilities (Monthly),21.04,84.14,Prague,Czech Republic
+732,"Internet (60 Mbps or More, Unlimited Data, Cable/ADSL)",23.12,16.83-35.76,Utilities (Monthly),16.83,35.76,Prague,Czech Republic
+733,"Fitness Club, Monthly Fee for 1 Adult",59.3,35.06-100.97,Sports And Leisure,35.06,100.97,Prague,Czech Republic
+735,"Cinema, International Release, 1 Seat",10.52,7.57-14.73,Sports And Leisure,7.57,14.73,Prague,Czech Republic
+736,"Preschool (or Kindergarten), Full Day, Private, Monthly for 1 Child",771.72,420.72-1262.16,Childcare,420.72,1262.16,Prague,Czech Republic
+738,1 Pair of Jeans (Levis 501 Or Similar),84.74,33.66-122.01,Clothing And Shoes,33.66,122.01,Prague,Czech Republic
+739,"1 Summer Dress in a Chain Store (Zara, H&M, ...)",44.7,21.04-84.14,Clothing And Shoes,21.04,84.14,Prague,Czech Republic
+740,1 Pair of Nike Running Shoes (Mid-Range),91.03,58.90-134.63,Clothing And Shoes,58.9,134.63,Prague,Czech Republic
+741,1 Pair of Men Leather Business Shoes,116.79,63.11-189.32,Clothing And Shoes,63.11,189.32,Prague,Czech Republic
+742,Apartment (1 bedroom) in City Centre,1000.96,757.29-1346.30,Rent Per Month,757.29,1346.3,Prague,Czech Republic
+743,Apartment (1 bedroom) Outside of Centre,746.81,631.08-1051.80,Rent Per Month,631.08,1051.8,Prague,Czech Republic
+744,Apartment (3 bedrooms) in City Centre,1854.02,1262.16-2524.32,Rent Per Month,1262.16,2524.32,Prague,Czech Republic
+745,Apartment (3 bedrooms) Outside of Centre,1307.45,1009.73-1767.02,Rent Per Month,1009.73,1767.02,Prague,Czech Republic
+746,Price per Square Meter to Buy Apartment in City Centre,8250.5,5890.07-11780.14,Buy Apartment Price,5890.07,11780.14,Prague,Czech Republic
+747,Price per Square Meter to Buy Apartment Outside of Centre,5789.67,4207.19-7993.67,Buy Apartment Price,4207.19,7993.67,Prague,Czech Republic
+748,"Mortgage Interest Rate in Percentages (%), Yearly, for 20 Years Fixed-Rate",6.22,5.00-7.00,Salaries And Financing,5.0,7.0,Prague,Czech Republic

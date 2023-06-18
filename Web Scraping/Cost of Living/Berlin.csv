@@ -1,0 +1,55 @@
+,Item,Average_Price_in_Eur,Range,Category,Minimum,Maximum,city,country
+0,"Meal, Inexpensive Restaurant",12.0,8.00-20.00,Restaurants,8.0,20.0,Berlin,Germany
+1,"Meal for 2 People, Mid-range Restaurant, Three-course",60.0,40.00-100.00,Restaurants,40.0,100.0,Berlin,Germany
+2,McMeal at McDonalds (or Equivalent Combo Meal),10.0,8.00-12.00,Restaurants,8.0,12.0,Berlin,Germany
+3,Domestic Beer (0.5 liter draught),4.0,3.00-5.00,Restaurants,3.0,5.0,Berlin,Germany
+4,Imported Beer (0.33 liter bottle),4.0,3.00-5.00,Restaurants,3.0,5.0,Berlin,Germany
+5,Cappuccino (regular),3.46,2.50-5.00,Restaurants,2.5,5.0,Berlin,Germany
+6,Coke/Pepsi (0.33 liter bottle),2.53,1.99-3.50,Restaurants,1.99,3.5,Berlin,Germany
+7,Water (0.33 liter bottle),2.16,1.50-3.00,Restaurants,1.5,3.0,Berlin,Germany
+9,"Milk (regular), (1 liter)",1.28,1.00-1.95,Markets,1.0,1.95,Berlin,Germany
+10,Loaf of Fresh White Bread (500g),1.82,1.00-3.50,Markets,1.0,3.5,Berlin,Germany
+11,"Rice (white), (1kg)",2.55,1.50-4.00,Markets,1.5,4.0,Berlin,Germany
+12,Eggs (regular) (12),3.05,1.85-4.80,Markets,1.85,4.8,Berlin,Germany
+13,Local Cheese (1kg),12.46,5.00-27.00,Markets,5.0,27.0,Berlin,Germany
+14,Chicken Fillets (1kg),10.16,5.00-16.00,Markets,5.0,16.0,Berlin,Germany
+15,Beef Round (1kg) (or Equivalent Back Leg Red Meat),14.19,7.00-25.00,Markets,7.0,25.0,Berlin,Germany
+16,Apples (1kg),2.7,1.00-3.99,Markets,1.0,3.99,Berlin,Germany
+17,Banana (1kg),1.78,1.20-3.00,Markets,1.2,3.0,Berlin,Germany
+18,Oranges (1kg),2.61,1.49-4.00,Markets,1.49,4.0,Berlin,Germany
+19,Tomato (1kg),3.25,1.29-5.00,Markets,1.29,5.0,Berlin,Germany
+20,Potato (1kg),1.9,0.70-3.79,Markets,0.7,3.79,Berlin,Germany
+21,Onion (1kg),1.68,1.00-2.99,Markets,1.0,2.99,Berlin,Germany
+22,Lettuce (1 head),1.4,0.80-2.00,Markets,0.8,2.0,Berlin,Germany
+23,Water (1.5 liter bottle),0.7,0.25-1.50,Markets,0.25,1.5,Berlin,Germany
+24,Bottle of Wine (Mid-Range),6.0,4.00-10.00,Markets,4.0,10.0,Berlin,Germany
+25,Domestic Beer (0.5 liter bottle),1.08,0.65-2.00,Markets,0.65,2.0,Berlin,Germany
+26,Imported Beer (0.33 liter bottle),1.47,1.00-3.00,Markets,1.0,3.0,Berlin,Germany
+27,Cigarettes 20 Pack (Marlboro),8.0,7.60-9.00,Markets,7.6,9.0,Berlin,Germany
+29,One-way Ticket (Local Transport),3.1,3.00-3.70,Transportation,3.0,3.7,Berlin,Germany
+30,Monthly Pass (Regular Price),65.0,49.00-91.00,Transportation,49.0,91.0,Berlin,Germany
+31,Taxi Start (Normal Tariff),4.9,3.90-6.00,Transportation,3.9,6.0,Berlin,Germany
+32,Taxi 1km (Normal Tariff),2.0,2.00-2.60,Transportation,2.0,2.6,Berlin,Germany
+33,Taxi 1hour Waiting (Normal Tariff),33.0,30.00-40.00,Transportation,30.0,40.0,Berlin,Germany
+34,Gasoline (1 liter),1.87,1.70-2.19,Transportation,1.7,2.19,Berlin,Germany
+35,Volkswagen Golf 1.4 90 KW Trendline (Or Equivalent New Car),29985.0,26088.00-30000.00,Transportation,26088.0,30000.0,Berlin,Germany
+36,Toyota Corolla Sedan 1.6l 97kW Comfort (Or Equivalent New Car),27442.86,26700.00-28000.00,Transportation,26700.0,28000.0,Berlin,Germany
+38,"Basic (Electricity, Heating, Cooling, Water, Garbage) for 85m2 Apartment",349.53,231.82-450.00,Utilities (Monthly),231.82,450.0,Berlin,Germany
+39,Mobile Phone Monthly Plan with Calls and 10GB+ Data,41.62,20.00-50.00,Utilities (Monthly),20.0,50.0,Berlin,Germany
+40,"Internet (60 Mbps or More, Unlimited Data, Cable/ADSL)",41.55,30.00-50.00,Utilities (Monthly),30.0,50.0,Berlin,Germany
+42,"Fitness Club, Monthly Fee for 1 Adult",39.1,20.00-80.00,Sports And Leisure,20.0,80.0,Berlin,Germany
+43,Tennis Court Rent (1 Hour on Weekend),20.24,15.00-25.00,Sports And Leisure,15.0,25.0,Berlin,Germany
+44,"Cinema, International Release, 1 Seat",12.0,9.50-15.00,Sports And Leisure,9.5,15.0,Berlin,Germany
+46,"Preschool (or Kindergarten), Full Day, Private, Monthly for 1 Child",186.67,60.00-500.00,Childcare,60.0,500.0,Berlin,Germany
+47,"International Primary School, Yearly for 1 Child",7172.22,4800.00-12000.00,Childcare,4800.0,12000.0,Berlin,Germany
+49,1 Pair of Jeans (Levis 501 Or Similar),85.76,50.00-120.00,Clothing And Shoes,50.0,120.0,Berlin,Germany
+50,"1 Summer Dress in a Chain Store (Zara, H&M, ...)",35.64,20.00-50.00,Clothing And Shoes,20.0,50.0,Berlin,Germany
+51,1 Pair of Nike Running Shoes (Mid-Range),86.13,50.00-120.00,Clothing And Shoes,50.0,120.0,Berlin,Germany
+52,1 Pair of Men Leather Business Shoes,109.55,70.00-165.00,Clothing And Shoes,70.0,165.0,Berlin,Germany
+54,Apartment (1 bedroom) in City Centre,1295.75,900.00-2000.00,Rent Per Month,900.0,2000.0,Berlin,Germany
+55,Apartment (1 bedroom) Outside of Centre,878.16,600.00-1350.00,Rent Per Month,600.0,1350.0,Berlin,Germany
+56,Apartment (3 bedrooms) in City Centre,2330.23,1600.00-3200.00,Rent Per Month,1600.0,3200.0,Berlin,Germany
+57,Apartment (3 bedrooms) Outside of Centre,1590.62,1200.00-2250.00,Rent Per Month,1200.0,2250.0,Berlin,Germany
+59,Price per Square Meter to Buy Apartment in City Centre,8192.28,6300.00-11000.00,Buy Apartment Price,6300.0,11000.0,Berlin,Germany
+60,Price per Square Meter to Buy Apartment Outside of Centre,5783.97,4000.00-8500.00,Buy Apartment Price,4000.0,8500.0,Berlin,Germany
+63,"Mortgage Interest Rate in Percentages (%), Yearly, for 20 Years Fixed-Rate",3.23,1.60-4.20,Salaries And Financing,1.6,4.2,Berlin,Germany

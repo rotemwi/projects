@@ -1,0 +1,55 @@
+,Item,Average_Price_in_Eur,Range,Category,Minimum,Maximum,city,country
+0,"Meal, Inexpensive Restaurant",10.52,6.31-14.73,Restaurants,6.31,14.73,Prague,Czech Republic
+1,"Meal for 2 People, Mid-range Restaurant, Three-course",50.49,31.55-88.35,Restaurants,31.55,88.35,Prague,Czech Republic
+2,McMeal at McDonalds (or Equivalent Combo Meal),7.99,7.15-9.68,Restaurants,7.15,9.68,Prague,Czech Republic
+3,Domestic Beer (0.5 liter draught),2.31,1.68-3.16,Restaurants,1.68,3.16,Prague,Czech Republic
+4,Imported Beer (0.33 liter bottle),2.95,1.89-3.79,Restaurants,1.89,3.79,Prague,Czech Republic
+5,Cappuccino (regular),2.96,1.68-4.21,Restaurants,1.68,4.21,Prague,Czech Republic
+6,Coke/Pepsi (0.33 liter bottle),1.62,1.05-2.52,Restaurants,1.05,2.52,Prague,Czech Republic
+7,Water (0.33 liter bottle),1.4,0.84-2.31,Restaurants,0.84,2.31,Prague,Czech Republic
+9,"Milk (regular), (1 liter)",1.15,0.84-1.68,Markets,0.84,1.68,Prague,Czech Republic
+10,Loaf of Fresh White Bread (500g),1.72,0.97-3.79,Markets,0.97,3.79,Prague,Czech Republic
+11,"Rice (white), (1kg)",2.48,1.26-4.00,Markets,1.26,4.0,Prague,Czech Republic
+12,Eggs (regular) (12),3.23,2.12-4.49,Markets,2.12,4.49,Prague,Czech Republic
+13,Local Cheese (1kg),12.05,8.41-21.04,Markets,8.41,21.04,Prague,Czech Republic
+14,Chicken Fillets (1kg),8.79,5.47-12.62,Markets,5.47,12.62,Prague,Czech Republic
+15,Beef Round (1kg) (or Equivalent Back Leg Red Meat),13.84,8.41-21.04,Markets,8.41,21.04,Prague,Czech Republic
+16,Apples (1kg),1.75,1.01-2.73,Markets,1.01,2.73,Prague,Czech Republic
+17,Banana (1kg),1.72,1.26-3.37,Markets,1.26,3.37,Prague,Czech Republic
+18,Oranges (1kg),2.02,1.05-4.17,Markets,1.05,4.17,Prague,Czech Republic
+19,Tomato (1kg),3.44,1.68-5.05,Markets,1.68,5.05,Prague,Czech Republic
+20,Potato (1kg),1.06,0.50-1.68,Markets,0.5,1.68,Prague,Czech Republic
+21,Onion (1kg),1.15,0.63-1.89,Markets,0.63,1.89,Prague,Czech Republic
+22,Lettuce (1 head),1.45,0.84-2.31,Markets,0.84,2.31,Prague,Czech Republic
+23,Water (1.5 liter bottle),0.77,0.42-1.18,Markets,0.42,1.18,Prague,Czech Republic
+24,Bottle of Wine (Mid-Range),6.31,4.21-10.52,Markets,4.21,10.52,Prague,Czech Republic
+25,Domestic Beer (0.5 liter bottle),0.99,0.63-1.47,Markets,0.63,1.47,Prague,Czech Republic
+26,Imported Beer (0.33 liter bottle),1.66,1.05-2.48,Markets,1.05,2.48,Prague,Czech Republic
+27,Cigarettes 20 Pack (Marlboro),6.06,5.47-6.52,Markets,5.47,6.52,Prague,Czech Republic
+29,One-way Ticket (Local Transport),1.35,1.26-1.68,Transportation,1.26,1.68,Prague,Czech Republic
+30,Monthly Pass (Regular Price),23.14,12.80-23.56,Transportation,12.8,23.56,Prague,Czech Republic
+31,Taxi Start (Normal Tariff),1.89,1.68-2.73,Transportation,1.68,2.73,Prague,Czech Republic
+32,Taxi 1km (Normal Tariff),1.26,0.84-1.68,Transportation,0.84,1.68,Prague,Czech Republic
+33,Taxi 1hour Waiting (Normal Tariff),15.99,12.62-25.24,Transportation,12.62,25.24,Prague,Czech Republic
+34,Gasoline (1 liter),1.62,1.51-1.89,Transportation,1.51,1.89,Prague,Czech Republic
+35,Volkswagen Golf 1.4 90 KW Trendline (Or Equivalent New Car),25407.24,23139.56-30291.79,Transportation,23139.56,30291.79,Prague,Czech Republic
+36,Toyota Corolla Sedan 1.6l 97kW Comfort (Or Equivalent New Car),26388.23,23770.64-31553.95,Transportation,23770.64,31553.95,Prague,Czech Republic
+38,"Basic (Electricity, Heating, Cooling, Water, Garbage) for 85m2 Apartment",313.9,210.36-504.86,Utilities (Monthly),210.36,504.86,Prague,Czech Republic
+39,Mobile Phone Monthly Plan with Calls and 10GB+ Data,31.44,21.04-84.14,Utilities (Monthly),21.04,84.14,Prague,Czech Republic
+40,"Internet (60 Mbps or More, Unlimited Data, Cable/ADSL)",23.12,16.83-35.76,Utilities (Monthly),16.83,35.76,Prague,Czech Republic
+42,"Fitness Club, Monthly Fee for 1 Adult",59.3,35.06-100.97,Sports And Leisure,35.06,100.97,Prague,Czech Republic
+43,Tennis Court Rent (1 Hour on Weekend),17.86,12.62-25.24,Sports And Leisure,12.62,25.24,Prague,Czech Republic
+44,"Cinema, International Release, 1 Seat",10.52,7.57-14.73,Sports And Leisure,7.57,14.73,Prague,Czech Republic
+46,"Preschool (or Kindergarten), Full Day, Private, Monthly for 1 Child",771.72,420.72-1262.16,Childcare,420.72,1262.16,Prague,Czech Republic
+47,"International Primary School, Yearly for 1 Child",14135.39,8414.39-22718.84,Childcare,8414.39,22718.84,Prague,Czech Republic
+49,1 Pair of Jeans (Levis 501 Or Similar),84.74,33.66-122.01,Clothing And Shoes,33.66,122.01,Prague,Czech Republic
+50,"1 Summer Dress in a Chain Store (Zara, H&M, ...)",44.7,21.04-84.14,Clothing And Shoes,21.04,84.14,Prague,Czech Republic
+51,1 Pair of Nike Running Shoes (Mid-Range),91.03,58.90-134.63,Clothing And Shoes,58.9,134.63,Prague,Czech Republic
+52,1 Pair of Men Leather Business Shoes,116.79,63.11-189.32,Clothing And Shoes,63.11,189.32,Prague,Czech Republic
+54,Apartment (1 bedroom) in City Centre,1000.96,757.29-1346.30,Rent Per Month,757.29,1346.3,Prague,Czech Republic
+55,Apartment (1 bedroom) Outside of Centre,746.81,631.08-1051.80,Rent Per Month,631.08,1051.8,Prague,Czech Republic
+56,Apartment (3 bedrooms) in City Centre,1854.02,1262.16-2524.32,Rent Per Month,1262.16,2524.32,Prague,Czech Republic
+57,Apartment (3 bedrooms) Outside of Centre,1307.45,1009.73-1767.02,Rent Per Month,1009.73,1767.02,Prague,Czech Republic
+59,Price per Square Meter to Buy Apartment in City Centre,8250.5,5890.07-11780.14,Buy Apartment Price,5890.07,11780.14,Prague,Czech Republic
+60,Price per Square Meter to Buy Apartment Outside of Centre,5789.67,4207.19-7993.67,Buy Apartment Price,4207.19,7993.67,Prague,Czech Republic
+63,"Mortgage Interest Rate in Percentages (%), Yearly, for 20 Years Fixed-Rate",6.22,5.00-7.00,Salaries And Financing,5.0,7.0,Prague,Czech Republic

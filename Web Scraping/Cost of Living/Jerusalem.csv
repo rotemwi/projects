@@ -1,0 +1,55 @@
+,Item,Average_Price_in_Eur,Range,Category,Minimum,Maximum,city,country
+0,"Meal, Inexpensive Restaurant",15.39,10.26-25.66,Restaurants,10.26,25.66,Jerusalem,Israel
+1,"Meal for 2 People, Mid-range Restaurant, Three-course",76.97,64.14-107.76,Restaurants,64.14,107.76,Jerusalem,Israel
+2,McMeal at McDonalds (or Equivalent Combo Meal),13.98,12.83-15.39,Restaurants,12.83,15.39,Jerusalem,Israel
+3,Domestic Beer (0.5 liter draught),7.18,5.13-8.98,Restaurants,5.13,8.98,Jerusalem,Israel
+4,Imported Beer (0.33 liter bottle),6.93,4.36-10.26,Restaurants,4.36,10.26,Jerusalem,Israel
+5,Cappuccino (regular),3.19,2.31-4.62,Restaurants,2.31,4.62,Jerusalem,Israel
+6,Coke/Pepsi (0.33 liter bottle),2.31,2.05-2.57,Restaurants,2.05,2.57,Jerusalem,Israel
+7,Water (0.33 liter bottle),1.72,1.28-2.05,Restaurants,1.28,2.05,Jerusalem,Israel
+9,"Milk (regular), (1 liter)",1.63,1.33-2.05,Markets,1.33,2.05,Jerusalem,Israel
+10,Loaf of Fresh White Bread (500g),2.03,1.15-4.10,Markets,1.15,4.1,Jerusalem,Israel
+11,"Rice (white), (1kg)",2.36,1.80-3.08,Markets,1.8,3.08,Jerusalem,Israel
+12,Eggs (regular) (12),3.52,2.31-4.62,Markets,2.31,4.62,Jerusalem,Israel
+13,Local Cheese (1kg),12.71,10.26-23.09,Markets,10.26,23.09,Jerusalem,Israel
+14,Chicken Fillets (1kg),8.83,6.16-10.26,Markets,6.16,10.26,Jerusalem,Israel
+15,Beef Round (1kg) (or Equivalent Back Leg Red Meat),17.32,8.98-25.66,Markets,8.98,25.66,Jerusalem,Israel
+16,Apples (1kg),2.82,2.31-3.59,Markets,2.31,3.59,Jerusalem,Israel
+17,Banana (1kg),1.81,1.28-2.31,Markets,1.28,2.31,Jerusalem,Israel
+18,Oranges (1kg),1.56,1.03-2.05,Markets,1.03,2.05,Jerusalem,Israel
+19,Tomato (1kg),1.62,1.00-2.05,Markets,1.0,2.05,Jerusalem,Israel
+20,Potato (1kg),1.17,0.77-1.54,Markets,0.77,1.54,Jerusalem,Israel
+21,Onion (1kg),0.97,0.77-1.28,Markets,0.77,1.28,Jerusalem,Israel
+22,Lettuce (1 head),1.69,1.03-3.08,Markets,1.03,3.08,Jerusalem,Israel
+23,Water (1.5 liter bottle),1.41,0.51-2.57,Markets,0.51,2.57,Jerusalem,Israel
+24,Bottle of Wine (Mid-Range),8.98,7.70-12.83,Markets,7.7,12.83,Jerusalem,Israel
+25,Domestic Beer (0.5 liter bottle),2.31,1.80-2.57,Markets,1.8,2.57,Jerusalem,Israel
+26,Imported Beer (0.33 liter bottle),2.65,1.54-3.85,Markets,1.54,3.85,Jerusalem,Israel
+27,Cigarettes 20 Pack (Marlboro),8.98,8.72-8.98,Markets,8.72,8.98,Jerusalem,Israel
+29,One-way Ticket (Local Transport),1.54,1.41-1.54,Transportation,1.41,1.54,Jerusalem,Israel
+30,Monthly Pass (Regular Price),59.65,53.49-66.71,Transportation,53.49,66.71,Jerusalem,Israel
+31,Taxi Start (Normal Tariff),3.12,2.75-4.10,Transportation,2.75,4.1,Jerusalem,Israel
+32,Taxi 1km (Normal Tariff),0.9,0.77-1.03,Transportation,0.77,1.03,Jerusalem,Israel
+33,Taxi 1hour Waiting (Normal Tariff),25.48,23.09-28.73,Transportation,23.09,28.73,Jerusalem,Israel
+34,Gasoline (1 liter),1.81,1.69-2.00,Transportation,1.69,2.0,Jerusalem,Israel
+35,Volkswagen Golf 1.4 90 KW Trendline (Or Equivalent New Car),34609.92,33352.78-35591.26,Transportation,33352.78,35591.26,Jerusalem,Israel
+36,Toyota Corolla Sedan 1.6l 97kW Comfort (Or Equivalent New Car),35614.17,33096.22-35123.04,Transportation,33096.22,35123.04,Jerusalem,Israel
+38,"Basic (Electricity, Heating, Cooling, Water, Garbage) for 85m2 Apartment",146.95,76.97-205.25,Utilities (Monthly),76.97,205.25,Jerusalem,Israel
+39,Mobile Phone Monthly Plan with Calls and 10GB+ Data,12.57,10.26-12.57,Utilities (Monthly),10.26,12.57,Jerusalem,Israel
+40,"Internet (60 Mbps or More, Unlimited Data, Cable/ADSL)",23.79,16.68-38.48,Utilities (Monthly),16.68,38.48,Jerusalem,Israel
+42,"Fitness Club, Monthly Fee for 1 Adult",68.82,38.48-115.45,Sports And Leisure,38.48,115.45,Jerusalem,Israel
+43,Tennis Court Rent (1 Hour on Weekend),38.63,27.38-30.79,Sports And Leisure,27.38,30.79,Jerusalem,Israel
+44,"Cinema, International Release, 1 Seat",11.29,10.26-12.83,Sports And Leisure,10.26,12.83,Jerusalem,Israel
+46,"Preschool (or Kindergarten), Full Day, Private, Monthly for 1 Child",729.06,641.40-820.99,Childcare,641.4,820.99,Jerusalem,Israel
+47,"International Primary School, Yearly for 1 Child",9313.12,4361.52-21807.58,Childcare,4361.52,21807.58,Jerusalem,Israel
+49,1 Pair of Jeans (Levis 501 Or Similar),86.13,51.06-128.28,Clothing And Shoes,51.06,128.28,Jerusalem,Israel
+50,"1 Summer Dress in a Chain Store (Zara, H&M, ...)",58.64,51.31-76.97,Clothing And Shoes,51.31,76.97,Jerusalem,Israel
+51,1 Pair of Nike Running Shoes (Mid-Range),102.34,66.71-128.28,Clothing And Shoes,66.71,128.28,Jerusalem,Israel
+52,1 Pair of Men Leather Business Shoes,108.12,76.97-128.28,Clothing And Shoes,76.97,128.28,Jerusalem,Israel
+54,Apartment (1 bedroom) in City Centre,1327.7,974.93-1667.64,Rent Per Month,974.93,1667.64,Jerusalem,Israel
+55,Apartment (1 bedroom) Outside of Centre,961.57,692.71-1282.80,Rent Per Month,692.71,1282.8,Jerusalem,Israel
+56,Apartment (3 bedrooms) in City Centre,2017.77,1539.36-3078.72,Rent Per Month,1539.36,3078.72,Jerusalem,Israel
+57,Apartment (3 bedrooms) Outside of Centre,1598.0,1282.80-2309.04,Rent Per Month,1282.8,2309.04,Jerusalem,Israel
+59,Price per Square Meter to Buy Apartment in City Centre,11384.84,6157.44-15393.59,Buy Apartment Price,6157.44,15393.59,Jerusalem,Israel
+60,Price per Square Meter to Buy Apartment Outside of Centre,8411.5,6029.16-10262.39,Buy Apartment Price,6029.16,10262.39,Jerusalem,Israel
+63,"Mortgage Interest Rate in Percentages (%), Yearly, for 20 Years Fixed-Rate",4.26,2.00-7.50,Salaries And Financing,2.0,7.5,Jerusalem,Israel

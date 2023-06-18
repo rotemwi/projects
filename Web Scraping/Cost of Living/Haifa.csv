@@ -1,0 +1,55 @@
+,Item,Average_Price_in_Eur,Range,Category,Minimum,Maximum,city,country
+0,"Meal, Inexpensive Restaurant",15.39,10.26-32.07,Restaurants,10.26,32.07,Haifa,Israel
+1,"Meal for 2 People, Mid-range Restaurant, Three-course",70.55,51.31-128.28,Restaurants,51.31,128.28,Haifa,Israel
+2,McMeal at McDonalds (or Equivalent Combo Meal),14.11,12.83-17.19,Restaurants,12.83,17.19,Haifa,Israel
+3,Domestic Beer (0.5 liter draught),7.7,4.62-8.98,Restaurants,4.62,8.98,Haifa,Israel
+4,Imported Beer (0.33 liter bottle),6.67,5.13-8.98,Restaurants,5.13,8.98,Haifa,Israel
+5,Cappuccino (regular),3.48,2.57-4.62,Restaurants,2.57,4.62,Haifa,Israel
+6,Coke/Pepsi (0.33 liter bottle),2.54,1.54-3.85,Restaurants,1.54,3.85,Haifa,Israel
+7,Water (0.33 liter bottle),2.08,1.54-2.57,Restaurants,1.54,2.57,Haifa,Israel
+9,"Milk (regular), (1 liter)",1.61,1.39-2.31,Markets,1.39,2.31,Haifa,Israel
+10,Loaf of Fresh White Bread (500g),2.5,1.28-3.85,Markets,1.28,3.85,Haifa,Israel
+11,"Rice (white), (1kg)",2.41,1.54-3.34,Markets,1.54,3.34,Haifa,Israel
+12,Eggs (regular) (12),3.49,2.67-4.00,Markets,2.67,4.0,Haifa,Israel
+13,Local Cheese (1kg),13.17,6.41-25.66,Markets,6.41,25.66,Haifa,Israel
+14,Chicken Fillets (1kg),9.3,7.44-11.55,Markets,7.44,11.55,Haifa,Israel
+15,Beef Round (1kg) (or Equivalent Back Leg Red Meat),17.35,11.55-24.37,Markets,11.55,24.37,Haifa,Israel
+16,Apples (1kg),2.4,1.28-3.85,Markets,1.28,3.85,Haifa,Israel
+17,Banana (1kg),2.0,1.15-3.96,Markets,1.15,3.96,Haifa,Israel
+18,Oranges (1kg),1.5,1.00-2.57,Markets,1.0,2.57,Haifa,Israel
+19,Tomato (1kg),1.65,1.03-2.31,Markets,1.03,2.31,Haifa,Israel
+20,Potato (1kg),1.08,0.76-1.54,Markets,0.76,1.54,Haifa,Israel
+21,Onion (1kg),0.96,0.74-1.41,Markets,0.74,1.41,Haifa,Israel
+22,Lettuce (1 head),1.57,0.90-2.57,Markets,0.9,2.57,Haifa,Israel
+23,Water (1.5 liter bottle),1.13,0.51-2.05,Markets,0.51,2.05,Haifa,Israel
+24,Bottle of Wine (Mid-Range),9.62,6.41-12.83,Markets,6.41,12.83,Haifa,Israel
+25,Domestic Beer (0.5 liter bottle),2.48,1.80-3.89,Markets,1.8,3.89,Haifa,Israel
+26,Imported Beer (0.33 liter bottle),2.95,1.80-4.10,Markets,1.8,4.1,Haifa,Israel
+27,Cigarettes 20 Pack (Marlboro),8.98,7.70-10.26,Markets,7.7,10.26,Haifa,Israel
+29,One-way Ticket (Local Transport),1.54,1.41-1.54,Transportation,1.41,1.54,Haifa,Israel
+30,Monthly Pass (Regular Price),56.44,53.36-64.14,Transportation,53.36,64.14,Haifa,Israel
+31,Taxi Start (Normal Tariff),6.41,3.08-10.26,Transportation,3.08,10.26,Haifa,Israel
+32,Taxi 1km (Normal Tariff),1.15,0.51-2.57,Transportation,0.51,2.57,Haifa,Israel
+33,Taxi 1hour Waiting (Normal Tariff),26.63,12.83-30.79,Transportation,12.83,30.79,Haifa,Israel
+34,Gasoline (1 liter),1.8,1.67-2.05,Transportation,1.67,2.05,Haifa,Israel
+35,Volkswagen Golf 1.4 90 KW Trendline (Or Equivalent New Car),35918.37,34635.58-41049.57,Transportation,34635.58,41049.57,Haifa,Israel
+36,Toyota Corolla Sedan 1.6l 97kW Comfort (Or Equivalent New Car),37363.74,35659.25-39766.77,Transportation,35659.25,39766.77,Haifa,Israel
+38,"Basic (Electricity, Heating, Cooling, Water, Garbage) for 85m2 Apartment",194.96,128.28-307.87,Utilities (Monthly),128.28,307.87,Haifa,Israel
+39,Mobile Phone Monthly Plan with Calls and 10GB+ Data,12.57,12.57-12.57,Utilities (Monthly),12.57,12.57,Haifa,Israel
+40,"Internet (60 Mbps or More, Unlimited Data, Cable/ADSL)",25.47,20.52-30.79,Utilities (Monthly),20.52,30.79,Haifa,Israel
+42,"Fitness Club, Monthly Fee for 1 Adult",68.5,42.76-102.62,Sports And Leisure,42.76,102.62,Haifa,Israel
+43,Tennis Court Rent (1 Hour on Weekend),17.23,12.83-17.96,Sports And Leisure,12.83,17.96,Haifa,Israel
+44,"Cinema, International Release, 1 Seat",11.29,10.26-12.83,Sports And Leisure,10.26,12.83,Haifa,Israel
+46,"Preschool (or Kindergarten), Full Day, Private, Monthly for 1 Child",720.7,641.40-885.13,Childcare,641.4,885.13,Haifa,Israel
+47,"International Primary School, Yearly for 1 Child",3732.95,3078.72-4618.08,Childcare,3078.72,4618.08,Haifa,Israel
+49,1 Pair of Jeans (Levis 501 Or Similar),72.62,41.05-89.80,Clothing And Shoes,41.05,89.8,Haifa,Israel
+50,"1 Summer Dress in a Chain Store (Zara, H&M, ...)",46.18,23.09-89.80,Clothing And Shoes,23.09,89.8,Haifa,Israel
+51,1 Pair of Nike Running Shoes (Mid-Range),103.73,64.14-153.94,Clothing And Shoes,64.14,153.94,Haifa,Israel
+52,1 Pair of Men Leather Business Shoes,103.61,74.40-153.94,Clothing And Shoes,74.4,153.94,Haifa,Israel
+54,Apartment (1 bedroom) in City Centre,668.17,564.43-897.96,Rent Per Month,564.43,897.96,Haifa,Israel
+55,Apartment (1 bedroom) Outside of Centre,550.44,410.50-718.37,Rent Per Month,410.5,718.37,Haifa,Israel
+56,Apartment (3 bedrooms) in City Centre,1141.69,974.93-1539.36,Rent Per Month,974.93,1539.36,Haifa,Israel
+57,Apartment (3 bedrooms) Outside of Centre,899.13,769.68-1282.80,Rent Per Month,769.68,1282.8,Haifa,Israel
+59,Price per Square Meter to Buy Apartment in City Centre,4810.5,3848.40-6414.00,Buy Apartment Price,3848.4,6414.0,Haifa,Israel
+60,Price per Square Meter to Buy Apartment Outside of Centre,3834.14,3078.72-5131.20,Buy Apartment Price,3078.72,5131.2,Haifa,Israel
+63,"Mortgage Interest Rate in Percentages (%), Yearly, for 20 Years Fixed-Rate",3.93,2.00-5.25,Salaries And Financing,2.0,5.25,Haifa,Israel
